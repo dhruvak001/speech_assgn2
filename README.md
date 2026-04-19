@@ -1,7 +1,7 @@
 # Speech Understanding – Programming Assignment 2
 
-**Author:** Dhruva Kumar Kaushal  
-**Institute:** IIT (BHU) Varanasi  
+**Author:** Dhruva Kumar Kaushal B22AI017
+**Institute:** IIT Jodhpur 
 **Date:** April 2026
 
 ## End-to-End Multi-Modal Speech Processing Pipeline
