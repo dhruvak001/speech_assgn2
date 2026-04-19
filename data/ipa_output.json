@@ -1,0 +1,4237 @@
+{
+  "full_text": "Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Whisper, Wav2Vec, CTC, transformer, code switching. Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Whisper, Wav2Vec, CTC, transformer, code switching. Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, CTC, transformer, code switching. Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching. Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching. Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching. Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching. Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec. How do you make decisions when facing a high stakes choice with no clear precedence, a lot of uncertainty, having to balance input? There are many factors to my decision making. First, I'm perhaps the only politician in India who has stayed overnight in around eighty-five to ninety percent of the districts across the country. This was before my current role. I used to travel extensively. I learned a lot from those experiences. They gave me first-hand knowledge of the ground realities and grassroots level issues, not something asked or heard or learned merely from books. Secondly, from a governance perspective, I carry no baggage of any kind. I don't carry any baggage that weighs me down or forces me to act a certain way. Thirdly, I have a simple yardstick for decisions. My country first. I always question if what I'm doing harms my nation in any way. Additionally, Mahatma Gandhi once said that if you're ever unsure when making a decision, think of the poorest person's face, remember them, and ask yourself, will this help them? Then your decision will be right. That wisdom always guides me, remembering ordinary citizens and considering how my actions affect them. Another factor in my approach is that I'm very well connected. In my administration, my officials know this well and probably feel overwhelmed by it. By the fact that my information channels are numerous and are very active. Because of that, I receive lots of insights from various sources. So, when someone comes to brief me, that's not my only source of information. I always have additional perspectives available to me. Another thing, I maintain a learner's mindset. Suppose I'm not familiar with something and an official explains it to me. I approach them like a student and ask, can you clarify this? How does it work? Then what happens next and how? And whenever I have different information, I deliberately play devil's advocate and ask challenging questions. I thoroughly analyze the issue from multiple angles, hoping that careful evaluation will yield something valuable. Then, once I converge toward a decision or action that is worth taking, I share the idea informally with like-minded people, just to gauge their reactions and see how they respond, gathering insights and feedback before moving forward. Until finally, I have a strong conviction that my decision is right. This entire decision-making process doesn't actually take much time. My speed is very fast. Let me share an example. How did I make decisions during COVID? I had Nobel Prize winners advising me, giving countless economic examples from around the world. They'd say, if this country is doing this, that country did that, you should do it too. Renowned economists constantly bombarded me with suggestions. Political parties pressured me relentlessly, urging me to spend huge amounts of money. But I didn't act immediately. I paused and reflected. What exactly should I do? Then, considering the unique conditions of my own country, I made a clear decision. I wouldn't let the poor sleep hungry. I wouldn't allow social tensions to arise over basic daily needs. These core principles guided my approach. The entire world was in lockdown. Global economies were collapsing. Everyone pressured me to empty the treasury, print more currency, and flood money everywhere. But I decided that this was not the right economic route to follow. And so instead, the path I chose, after carefully listening to experts, understanding their opinions without opposing them, and combining their advice with my own country's situation and my personal experiences, created a system that worked effectively. As a result, when the whole world suffered from severe inflation immediately after COVID, India did not. Today, my country is steadily advancing at a rapid pace, emerging as one of the fastest-growing major economies in the world. The main reason is that during that crisis, with patience and discipline, I resisted the temptation to apply every global theory blindly. We didn't worry about...",
+  "full_ipa": "lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəspər, wəv2vəc, ctc, trənsfərmər, koʊd swəttʃəŋ. lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəspər, wəv2vəc, ctc, trənsfərmər, koʊd swəttʃəŋ. lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəv2vəc, ctc, trənsfərmər, koʊd swəttʃəŋ. lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəv2vəc, koʊd swəttʃəŋ. lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəv2vəc, koʊd swəttʃəŋ. lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəv2vəc, koʊd swəttʃəŋ. lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəv2vəc, koʊd swəttʃəŋ. lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəv2vəc. haʊ ɖoː juː meɪk dɪsɪʒʌnz wɛn feɪsɪŋ ʌ haɪ steɪks tʃɔɪs wɪð noʊ klɪr prəcədəncə, ʌ lɑːt ʌv əncərteɪnty, hævɪŋ tuː bælʌns ənpət? ðɛr ɑːr mɛniː fæktɝz tuː maɪ dɪsɪʒʌn məkəŋ. fərst, aɪm pɝhæps t̪ʰeː oʊnliː pɑːlʌtɪʃʌn ɪn ɪndiːʌ huː hæz steɪd oʊvɝnaɪt ɪn ɝaʊnd əaɪty-fəvə tuː naɪntiː pɝsɛnt ʌv t̪ʰeː dɪstrɪkts ʌkrɔːs t̪ʰeː caʊntry. ðɪs wɑːz bɪfɔːr maɪ kɝʌnt rələ. aɪ juːzd tuː trævʌl əxtənsəvəly. aɪ lɝnd ʌ lɑːt frʌm ðoʊz əxpərəəncəs. ðeɪ ɡeɪv miː fərst-hənd nɑːlʌdʒ ʌv t̪ʰeː ɡraʊnd riːælʌtiːz ʌnd ɡræsruːts lɛvʌl əssəəs, nɑːt sʌmθɪŋ æskt ɔːr hɝd ɔːr lɝnd mɪrliː frʌm buːks. səcəndly, frʌm ʌ ɡʌvɝnʌns pərspəctəvə, aɪ kæriː noʊ bæɡʌdʒ ʌv ɛniː kənd. aɪ doʊnt kæriː ɛniː bæɡʌdʒ ðæt weɪz miː daʊn ɔːr fɔːrsɪz miː tuː ækt ʌ sɝtʌn weɪ. ðərdly, aɪ hæv ʌ sɪmpʌl jɑːrdstɪk fɔːr dəcəʒəns. maɪ kʌntriː fərst. aɪ ɔːlweɪz kwɛstʃʌn ɪf wʌt aɪm duːɪŋ hɑːrmz maɪ neɪʃʌn ɪn ɛniː weɪ. əddəʃənəlly, mʌhɑːtmʌ ɡɑːndiː wʌns sɛd ðæt ɪf jʊr ɛvɝ ʌnʃʊr wɛn meɪkɪŋ ʌ dəcəʒən, θɪŋk ʌv t̪ʰeː pʊrɪst pɝsʌnz fəcə, rɪmɛmbɝ ðəm, ʌnd æsk yaʊrsəlf, wɪl ðɪs hɛlp ðəm? ðɛn jɔːr dɪsɪʒʌn wɪl biː raɪt. ðæt wɪzdʌm ɔːlweɪz ɡaɪdz mə, rɪmɛmbɝɪŋ ɔːrdʌnɛriː sɪtʌzʌnz ʌnd kʌnsɪdɝɪŋ haʊ maɪ ækʃʌnz ʌfɛkt ðəm. ʌnʌðɝ fæktɝ ɪn maɪ ʌproʊtʃ ɪz ðæt aɪm vɛriː wɛl cənnəctəd. ɪn maɪ ədmənəstrəʃən, maɪ ʌfɪʃʌlz noʊ ðɪs wɛl ʌnd prɑːbʌbliː fiːl oʊvɝwɛlmd baɪ ət. baɪ t̪ʰeː fækt ðæt maɪ ɪnfɝmeɪʃʌn tʃænʌlz ɑːr nuːmɝʌs ʌnd ɑːr vɛriː əctəvə. bɪkɔːz ʌv ðət, aɪ rʌsiːv lɑːts ʌv ɪnsaɪts frʌm vɛriːʌs saʊrcəs. sə, wɛn sʌmwʌn kʌmz tuː briːf mə, ðæts nɑːt maɪ oʊnliː sɔːrs ʌv ənfərməʃən. aɪ ɔːlweɪz hæv ʌdɪʃʌnʌl pɝspɛktɪvz ʌveɪlʌbʌl tuː mə. ʌnʌðɝ ðəŋ, aɪ meɪnteɪn ʌ liːrnər's məndsət. sʌpoʊz aɪm nɑːt fʌmɪljɝ wɪð sʌmθɪŋ ʌnd æn ʌfɪʃʌl ɪkspleɪnz ɪt tuː mə. aɪ ʌproʊtʃ ðɛm laɪk ʌ stuːdʌnt ʌnd əsk, kæn juː klɛrʌfaɪ ðəs? haʊ dʌz ɪt wərk? ðɛn wʌt hæpʌnz nɛkst ʌnd hoʊ? ʌnd wɛnɛvɝ aɪ hæv dɪfɝʌnt ənfərməʃən, aɪ dɪlɪbɝʌtliː pleɪ dɛvʌlz ædvʌkʌt ʌnd æsk tʃælʌndʒɪŋ qəəsʃəns. aɪ θɝoʊliː ænʌlaɪz t̪ʰeː ɪʃuː frʌm mʌltʌpʌl əŋləs, hoʊpɪŋ ðæt kɛrfʌl ɪvæljuːeɪʃʌn wɪl jiːld sʌmθɪŋ vələəblə. ðən, wʌns aɪ kʌnvɝdʒ tʌwɔːrd ʌ dɪsɪʒʌn ɔːr ækʃʌn ðæt ɪz wɝθ təkəŋ, aɪ ʃɛr t̪ʰeː aɪdiːʌ ɪnfɔːrmʌliː wɪð ləkə-məndəd pəəplə, dʒʌst tuː ɡeɪdʒ ðɛr riːækʃʌnz ʌnd siː haʊ ðeɪ rəspənd, ɡæðɝɪŋ ɪnsaɪts ʌnd fiːdbæk bɪfɔːr muːvɪŋ fərwərd. ʌntɪl fənəlly, aɪ hæv ʌ strɔːŋ kʌnvɪkʃʌn ðæt maɪ dɪsɪʒʌn ɪz raɪt. ðɪs ɪntaɪɝ dəcəʒən-məkəŋ prɑːsɛs dʌzʌnt æktʃʌwʌliː teɪk mʌtʃ təmə. maɪ spiːd ɪz vɛriː fəst. lɛt miː ʃɛr æn əxəmplə. haʊ dɪd aɪ meɪk dɪsɪʒʌnz dʊrɪŋ cəvəd? aɪ hæd noʊbɛl praɪz wɪnɝz ædvaɪzɪŋ mə, ɡɪvɪŋ kaʊntlʌs ɛkʌnɑːmɪk ɪɡzæmpʌlz frʌm ɝaʊnd t̪ʰeː wərld. ðeɪd seɪ, ɪf ðɪs kʌntriː ɪz duːɪŋ ðəs, ðæt kʌntriː dɪd ðət, juː ʃʊd ɖoː ɪt ʈoː. rɪnaʊnd ɪkɑːnʌmɪsts kɑːnstʌntliː bɑːmbɑːrdɪd miː wɪð səggəsʃəns. pʌlɪtʌkʌl pɑːrtiːz prɛʃɝd miː rələntləssly, ɝdʒɪŋ miː tuː spɛnd hjuːdʒ ʌmaʊnts ʌv mənəy. bʌt aɪ dɪdʌnt ækt əmmədəətəly. aɪ pɔːzd ʌnd rəfləctəd. wʌt ɪɡzæktliː ʃʊd aɪ ɖoː? ðən, kʌnsɪdɝɪŋ t̪ʰeː juːniːk kʌndɪʃʌnz ʌv maɪ oʊn caʊntry, aɪ meɪd ʌ klɪr dəcəʒən. aɪ wʊdʌnt lɛt t̪ʰeː pʊr sliːp həŋry. aɪ wʊdʌnt ʌlaʊ soʊʃʌl tɛntʃʌnz tuː ɝaɪz oʊvɝ beɪsɪk deɪliː niːds. ðiːz kɔːr prɪnsʌpʌlz ɡaɪdʌd maɪ əpprəətʃ. t̪ʰeː ɪntaɪɝ wɝld wɑːz ɪn ləkdoʊn. ɡloʊbʌl ɪkɑːnʌmiːz wɝ cəlləpsəŋ. ɛvriːwʌn prɛʃɝd miː tuː ɛmptiː t̪ʰeː triːsəry, prɪnt mɔːr cərrəncy, ʌnd flʌd mʌniː əvərywərə. bʌt aɪ dɪsaɪdɪd ðæt ðɪs wɑːz nɑːt t̪ʰeː raɪt ɛkʌnɑːmɪk ruːt tuː fəlloʊ. ʌnd soʊ ənstiːd, t̪ʰeː pæθ aɪ tʃəsə, æftɝ kɛrfʌliː lɪsʌnɪŋ tuː əxpərts, ʌndɝstændɪŋ ðɛr ʌpɪnjʌnz wɪθaʊt ʌpoʊzɪŋ ðəm, ʌnd kʌmbaɪnɪŋ ðɛr ædvaɪs wɪð maɪ oʊn kʌntriːz sɪtʃuːeɪʃʌn ʌnd maɪ pɝsɪnɪl əxpərəəncəs, kriːeɪtʌd ʌ sɪstʌm ðæt wɝkt əffəctəvəly. æz ʌ rəsəlt, wɛn t̪ʰeː hoʊl wɝld sʌfɝd frʌm sʌvɪr ɪnfleɪʃʌn ɪmiːdiːʌtliː æftɝ cəvəd, ɪndiːʌ dɪd nət. tədeɪ, maɪ kʌntriː ɪz stɛdʌliː ʌdvænsɪŋ æt ʌ ræpʌd pəcə, ɪmɝdʒɪŋ æz wʌn ʌv t̪ʰeː fəstəst-groʊəŋ meɪdʒɝ ɪkɑːnʌmiːz ɪn t̪ʰeː wərld. t̪ʰeː meɪn riːzʌn ɪz ðæt dʊrɪŋ ðæt crəsəs, wɪð peɪʃʌns ʌnd dəscəplənə, aɪ rɪzɪstɪd t̪ʰeː tɛmteɪʃʌn tuː ʌplaɪ ɛvɝiː ɡloʊbʌl θɪriː bləndly. wiː dɪdʌnt wɝiː əbaʊt...",
+  "segments": [
+    {
+      "start": 10.299999999999999,
+      "end": 22.84,
+      "text": "Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Whisper, Wav2Vec, CTC, transformer, code switching.",
+      "ipa": "lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəspər, wəv2vəc, ctc, trənsfərmər, koʊd swəttʃəŋ.",
+      "tokens": [
+        {
+          "word": "Lecture",
+          "lang": "english",
+          "ipa": "lɛktʃɝ"
+        },
+        {
+          "word": "on",
+          "lang": "english",
+          "ipa": "ɑːn"
+        },
+        {
+          "word": "speech",
+          "lang": "english",
+          "ipa": "spiːtʃ"
+        },
+        {
+          "word": "processing,",
+          "lang": "english",
+          "ipa": "prəcəssəŋ,"
+        },
+        {
+          "word": "HMM,",
+          "lang": "english",
+          "ipa": "hmm,"
+        },
+        {
+          "word": "MFCC,",
+          "lang": "english",
+          "ipa": "mfcc,"
+        },
+        {
+          "word": "cepstrum,",
+          "lang": "english",
+          "ipa": "cəpstrəm,"
+        },
+        {
+          "word": "stochastic,",
+          "lang": "english",
+          "ipa": "stətʃəstəc,"
+        },
+        {
+          "word": "filterbank,",
+          "lang": "english",
+          "ipa": "fəltərbəŋk,"
+        },
+        {
+          "word": "Whisper,",
+          "lang": "english",
+          "ipa": "wəspər,"
+        },
+        {
+          "word": "Wav2Vec,",
+          "lang": "english",
+          "ipa": "wəv2vəc,"
+        },
+        {
+          "word": "CTC,",
+          "lang": "english",
+          "ipa": "ctc,"
+        },
+        {
+          "word": "transformer,",
+          "lang": "english",
+          "ipa": "trənsfərmər,"
+        },
+        {
+          "word": "code",
+          "lang": "english",
+          "ipa": "koʊd"
+        },
+        {
+          "word": "switching.",
+          "lang": "english",
+          "ipa": "swəttʃəŋ."
+        }
+      ]
+    },
+    {
+      "start": 32.2,
+      "end": 52.5,
+      "text": "Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Whisper, Wav2Vec, CTC, transformer, code switching.",
+      "ipa": "lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəspər, wəv2vəc, ctc, trənsfərmər, koʊd swəttʃəŋ.",
+      "tokens": [
+        {
+          "word": "Lecture",
+          "lang": "english",
+          "ipa": "lɛktʃɝ"
+        },
+        {
+          "word": "on",
+          "lang": "english",
+          "ipa": "ɑːn"
+        },
+        {
+          "word": "speech",
+          "lang": "english",
+          "ipa": "spiːtʃ"
+        },
+        {
+          "word": "processing,",
+          "lang": "english",
+          "ipa": "prəcəssəŋ,"
+        },
+        {
+          "word": "HMM,",
+          "lang": "english",
+          "ipa": "hmm,"
+        },
+        {
+          "word": "MFCC,",
+          "lang": "english",
+          "ipa": "mfcc,"
+        },
+        {
+          "word": "cepstrum,",
+          "lang": "english",
+          "ipa": "cəpstrəm,"
+        },
+        {
+          "word": "stochastic,",
+          "lang": "english",
+          "ipa": "stətʃəstəc,"
+        },
+        {
+          "word": "filterbank,",
+          "lang": "english",
+          "ipa": "fəltərbəŋk,"
+        },
+        {
+          "word": "Whisper,",
+          "lang": "english",
+          "ipa": "wəspər,"
+        },
+        {
+          "word": "Wav2Vec,",
+          "lang": "english",
+          "ipa": "wəv2vəc,"
+        },
+        {
+          "word": "CTC,",
+          "lang": "english",
+          "ipa": "ctc,"
+        },
+        {
+          "word": "transformer,",
+          "lang": "english",
+          "ipa": "trənsfərmər,"
+        },
+        {
+          "word": "code",
+          "lang": "english",
+          "ipa": "koʊd"
+        },
+        {
+          "word": "switching.",
+          "lang": "english",
+          "ipa": "swəttʃəŋ."
+        }
+      ]
+    },
+    {
+      "start": 66.4,
+      "end": 89.6,
+      "text": "Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, CTC, transformer, code switching.",
+      "ipa": "lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəv2vəc, ctc, trənsfərmər, koʊd swəttʃəŋ.",
+      "tokens": [
+        {
+          "word": "Lecture",
+          "lang": "english",
+          "ipa": "lɛktʃɝ"
+        },
+        {
+          "word": "on",
+          "lang": "english",
+          "ipa": "ɑːn"
+        },
+        {
+          "word": "speech",
+          "lang": "english",
+          "ipa": "spiːtʃ"
+        },
+        {
+          "word": "processing,",
+          "lang": "english",
+          "ipa": "prəcəssəŋ,"
+        },
+        {
+          "word": "HMM,",
+          "lang": "english",
+          "ipa": "hmm,"
+        },
+        {
+          "word": "MFCC,",
+          "lang": "english",
+          "ipa": "mfcc,"
+        },
+        {
+          "word": "cepstrum,",
+          "lang": "english",
+          "ipa": "cəpstrəm,"
+        },
+        {
+          "word": "stochastic,",
+          "lang": "english",
+          "ipa": "stətʃəstəc,"
+        },
+        {
+          "word": "filterbank,",
+          "lang": "english",
+          "ipa": "fəltərbəŋk,"
+        },
+        {
+          "word": "Wav2Vec,",
+          "lang": "english",
+          "ipa": "wəv2vəc,"
+        },
+        {
+          "word": "CTC,",
+          "lang": "english",
+          "ipa": "ctc,"
+        },
+        {
+          "word": "transformer,",
+          "lang": "english",
+          "ipa": "trənsfərmər,"
+        },
+        {
+          "word": "code",
+          "lang": "english",
+          "ipa": "koʊd"
+        },
+        {
+          "word": "switching.",
+          "lang": "english",
+          "ipa": "swəttʃəŋ."
+        }
+      ]
+    },
+    {
+      "start": 94.94,
+      "end": 118.62,
+      "text": "Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching.",
+      "ipa": "lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəv2vəc, koʊd swəttʃəŋ.",
+      "tokens": [
+        {
+          "word": "Lecture",
+          "lang": "english",
+          "ipa": "lɛktʃɝ"
+        },
+        {
+          "word": "on",
+          "lang": "english",
+          "ipa": "ɑːn"
+        },
+        {
+          "word": "speech",
+          "lang": "english",
+          "ipa": "spiːtʃ"
+        },
+        {
+          "word": "processing,",
+          "lang": "english",
+          "ipa": "prəcəssəŋ,"
+        },
+        {
+          "word": "HMM,",
+          "lang": "english",
+          "ipa": "hmm,"
+        },
+        {
+          "word": "MFCC,",
+          "lang": "english",
+          "ipa": "mfcc,"
+        },
+        {
+          "word": "cepstrum,",
+          "lang": "english",
+          "ipa": "cəpstrəm,"
+        },
+        {
+          "word": "stochastic,",
+          "lang": "english",
+          "ipa": "stətʃəstəc,"
+        },
+        {
+          "word": "filterbank,",
+          "lang": "english",
+          "ipa": "fəltərbəŋk,"
+        },
+        {
+          "word": "Wav2Vec,",
+          "lang": "english",
+          "ipa": "wəv2vəc,"
+        },
+        {
+          "word": "code",
+          "lang": "english",
+          "ipa": "koʊd"
+        },
+        {
+          "word": "switching.",
+          "lang": "english",
+          "ipa": "swəttʃəŋ."
+        }
+      ]
+    },
+    {
+      "start": 124.55999999999999,
+      "end": 149.88,
+      "text": "Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching.",
+      "ipa": "lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəv2vəc, koʊd swəttʃəŋ.",
+      "tokens": [
+        {
+          "word": "Lecture",
+          "lang": "english",
+          "ipa": "lɛktʃɝ"
+        },
+        {
+          "word": "on",
+          "lang": "english",
+          "ipa": "ɑːn"
+        },
+        {
+          "word": "speech",
+          "lang": "english",
+          "ipa": "spiːtʃ"
+        },
+        {
+          "word": "processing,",
+          "lang": "english",
+          "ipa": "prəcəssəŋ,"
+        },
+        {
+          "word": "HMM,",
+          "lang": "english",
+          "ipa": "hmm,"
+        },
+        {
+          "word": "MFCC,",
+          "lang": "english",
+          "ipa": "mfcc,"
+        },
+        {
+          "word": "cepstrum,",
+          "lang": "english",
+          "ipa": "cəpstrəm,"
+        },
+        {
+          "word": "stochastic,",
+          "lang": "english",
+          "ipa": "stətʃəstəc,"
+        },
+        {
+          "word": "filterbank,",
+          "lang": "english",
+          "ipa": "fəltərbəŋk,"
+        },
+        {
+          "word": "Wav2Vec,",
+          "lang": "english",
+          "ipa": "wəv2vəc,"
+        },
+        {
+          "word": "code",
+          "lang": "english",
+          "ipa": "koʊd"
+        },
+        {
+          "word": "switching.",
+          "lang": "english",
+          "ipa": "swəttʃəŋ."
+        }
+      ]
+    },
+    {
+      "start": 178.88,
+      "end": 179.96,
+      "text": "Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching.",
+      "ipa": "lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəv2vəc, koʊd swəttʃəŋ.",
+      "tokens": [
+        {
+          "word": "Lecture",
+          "lang": "english",
+          "ipa": "lɛktʃɝ"
+        },
+        {
+          "word": "on",
+          "lang": "english",
+          "ipa": "ɑːn"
+        },
+        {
+          "word": "speech",
+          "lang": "english",
+          "ipa": "spiːtʃ"
+        },
+        {
+          "word": "processing,",
+          "lang": "english",
+          "ipa": "prəcəssəŋ,"
+        },
+        {
+          "word": "HMM,",
+          "lang": "english",
+          "ipa": "hmm,"
+        },
+        {
+          "word": "MFCC,",
+          "lang": "english",
+          "ipa": "mfcc,"
+        },
+        {
+          "word": "cepstrum,",
+          "lang": "english",
+          "ipa": "cəpstrəm,"
+        },
+        {
+          "word": "stochastic,",
+          "lang": "english",
+          "ipa": "stətʃəstəc,"
+        },
+        {
+          "word": "filterbank,",
+          "lang": "english",
+          "ipa": "fəltərbəŋk,"
+        },
+        {
+          "word": "Wav2Vec,",
+          "lang": "english",
+          "ipa": "wəv2vəc,"
+        },
+        {
+          "word": "code",
+          "lang": "english",
+          "ipa": "koʊd"
+        },
+        {
+          "word": "switching.",
+          "lang": "english",
+          "ipa": "swəttʃəŋ."
+        }
+      ]
+    },
+    {
+      "start": 188.2,
+      "end": 209.78,
+      "text": "Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching.",
+      "ipa": "lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəv2vəc, koʊd swəttʃəŋ.",
+      "tokens": [
+        {
+          "word": "Lecture",
+          "lang": "english",
+          "ipa": "lɛktʃɝ"
+        },
+        {
+          "word": "on",
+          "lang": "english",
+          "ipa": "ɑːn"
+        },
+        {
+          "word": "speech",
+          "lang": "english",
+          "ipa": "spiːtʃ"
+        },
+        {
+          "word": "processing,",
+          "lang": "english",
+          "ipa": "prəcəssəŋ,"
+        },
+        {
+          "word": "HMM,",
+          "lang": "english",
+          "ipa": "hmm,"
+        },
+        {
+          "word": "MFCC,",
+          "lang": "english",
+          "ipa": "mfcc,"
+        },
+        {
+          "word": "cepstrum,",
+          "lang": "english",
+          "ipa": "cəpstrəm,"
+        },
+        {
+          "word": "stochastic,",
+          "lang": "english",
+          "ipa": "stətʃəstəc,"
+        },
+        {
+          "word": "filterbank,",
+          "lang": "english",
+          "ipa": "fəltərbəŋk,"
+        },
+        {
+          "word": "Wav2Vec,",
+          "lang": "english",
+          "ipa": "wəv2vəc,"
+        },
+        {
+          "word": "code",
+          "lang": "english",
+          "ipa": "koʊd"
+        },
+        {
+          "word": "switching.",
+          "lang": "english",
+          "ipa": "swəttʃəŋ."
+        }
+      ]
+    },
+    {
+      "start": 212.92,
+      "end": 239.7,
+      "text": "Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec.",
+      "ipa": "lɛktʃɝ ɑːn spiːtʃ prəcəssəŋ, hmm, mfcc, cəpstrəm, stətʃəstəc, fəltərbəŋk, wəv2vəc.",
+      "tokens": [
+        {
+          "word": "Lecture",
+          "lang": "english",
+          "ipa": "lɛktʃɝ"
+        },
+        {
+          "word": "on",
+          "lang": "english",
+          "ipa": "ɑːn"
+        },
+        {
+          "word": "speech",
+          "lang": "english",
+          "ipa": "spiːtʃ"
+        },
+        {
+          "word": "processing,",
+          "lang": "english",
+          "ipa": "prəcəssəŋ,"
+        },
+        {
+          "word": "HMM,",
+          "lang": "english",
+          "ipa": "hmm,"
+        },
+        {
+          "word": "MFCC,",
+          "lang": "english",
+          "ipa": "mfcc,"
+        },
+        {
+          "word": "cepstrum,",
+          "lang": "english",
+          "ipa": "cəpstrəm,"
+        },
+        {
+          "word": "stochastic,",
+          "lang": "english",
+          "ipa": "stətʃəstəc,"
+        },
+        {
+          "word": "filterbank,",
+          "lang": "english",
+          "ipa": "fəltərbəŋk,"
+        },
+        {
+          "word": "Wav2Vec.",
+          "lang": "english",
+          "ipa": "wəv2vəc."
+        }
+      ]
+    },
+    {
+      "start": 240.0,
+      "end": 249.68,
+      "text": "How do you make decisions when facing a high stakes choice with no clear precedence, a lot of uncertainty, having to balance input?",
+      "ipa": "haʊ ɖoː juː meɪk dɪsɪʒʌnz wɛn feɪsɪŋ ʌ haɪ steɪks tʃɔɪs wɪð noʊ klɪr prəcədəncə, ʌ lɑːt ʌv əncərteɪnty, hævɪŋ tuː bælʌns ənpət?",
+      "tokens": [
+        {
+          "word": "How",
+          "lang": "english",
+          "ipa": "haʊ"
+        },
+        {
+          "word": "do",
+          "lang": "roman_hindi",
+          "ipa": "ɖoː"
+        },
+        {
+          "word": "you",
+          "lang": "english",
+          "ipa": "juː"
+        },
+        {
+          "word": "make",
+          "lang": "english",
+          "ipa": "meɪk"
+        },
+        {
+          "word": "decisions",
+          "lang": "english",
+          "ipa": "dɪsɪʒʌnz"
+        },
+        {
+          "word": "when",
+          "lang": "english",
+          "ipa": "wɛn"
+        },
+        {
+          "word": "facing",
+          "lang": "english",
+          "ipa": "feɪsɪŋ"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "high",
+          "lang": "english",
+          "ipa": "haɪ"
+        },
+        {
+          "word": "stakes",
+          "lang": "english",
+          "ipa": "steɪks"
+        },
+        {
+          "word": "choice",
+          "lang": "english",
+          "ipa": "tʃɔɪs"
+        },
+        {
+          "word": "with",
+          "lang": "english",
+          "ipa": "wɪð"
+        },
+        {
+          "word": "no",
+          "lang": "english",
+          "ipa": "noʊ"
+        },
+        {
+          "word": "clear",
+          "lang": "english",
+          "ipa": "klɪr"
+        },
+        {
+          "word": "precedence,",
+          "lang": "english",
+          "ipa": "prəcədəncə,"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "lot",
+          "lang": "english",
+          "ipa": "lɑːt"
+        },
+        {
+          "word": "of",
+          "lang": "english",
+          "ipa": "ʌv"
+        },
+        {
+          "word": "uncertainty,",
+          "lang": "english",
+          "ipa": "əncərteɪnty,"
+        },
+        {
+          "word": "having",
+          "lang": "english",
+          "ipa": "hævɪŋ"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "balance",
+          "lang": "english",
+          "ipa": "bælʌns"
+        },
+        {
+          "word": "input?",
+          "lang": "english",
+          "ipa": "ənpət?"
+        }
+      ]
+    },
+    {
+      "start": 253.32,
+      "end": 256.44,
+      "text": "There are many factors to my decision making.",
+      "ipa": "ðɛr ɑːr mɛniː fæktɝz tuː maɪ dɪsɪʒʌn məkəŋ.",
+      "tokens": [
+        {
+          "word": "There",
+          "lang": "english",
+          "ipa": "ðɛr"
+        },
+        {
+          "word": "are",
+          "lang": "english",
+          "ipa": "ɑːr"
+        },
+        {
+          "word": "many",
+          "lang": "english",
+          "ipa": "mɛniː"
+        },
+        {
+          "word": "factors",
+          "lang": "english",
+          "ipa": "fæktɝz"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "decision",
+          "lang": "english",
+          "ipa": "dɪsɪʒʌn"
+        },
+        {
+          "word": "making.",
+          "lang": "english",
+          "ipa": "məkəŋ."
+        }
+      ]
+    },
+    {
+      "start": 256.44,
+      "end": 273.94,
+      "text": "First, I'm perhaps the only politician in India who has stayed overnight in around eighty-five to ninety percent of the districts across the country.",
+      "ipa": "fərst, aɪm pɝhæps t̪ʰeː oʊnliː pɑːlʌtɪʃʌn ɪn ɪndiːʌ huː hæz steɪd oʊvɝnaɪt ɪn ɝaʊnd əaɪty-fəvə tuː naɪntiː pɝsɛnt ʌv t̪ʰeː dɪstrɪkts ʌkrɔːs t̪ʰeː caʊntry.",
+      "tokens": [
+        {
+          "word": "First,",
+          "lang": "english",
+          "ipa": "fərst,"
+        },
+        {
+          "word": "I'm",
+          "lang": "english",
+          "ipa": "aɪm"
+        },
+        {
+          "word": "perhaps",
+          "lang": "english",
+          "ipa": "pɝhæps"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "only",
+          "lang": "english",
+          "ipa": "oʊnliː"
+        },
+        {
+          "word": "politician",
+          "lang": "english",
+          "ipa": "pɑːlʌtɪʃʌn"
+        },
+        {
+          "word": "in",
+          "lang": "english",
+          "ipa": "ɪn"
+        },
+        {
+          "word": "India",
+          "lang": "english",
+          "ipa": "ɪndiːʌ"
+        },
+        {
+          "word": "who",
+          "lang": "english",
+          "ipa": "huː"
+        },
+        {
+          "word": "has",
+          "lang": "english",
+          "ipa": "hæz"
+        },
+        {
+          "word": "stayed",
+          "lang": "english",
+          "ipa": "steɪd"
+        },
+        {
+          "word": "overnight",
+          "lang": "english",
+          "ipa": "oʊvɝnaɪt"
+        },
+        {
+          "word": "in",
+          "lang": "english",
+          "ipa": "ɪn"
+        },
+        {
+          "word": "around",
+          "lang": "english",
+          "ipa": "ɝaʊnd"
+        },
+        {
+          "word": "eighty-five",
+          "lang": "english",
+          "ipa": "əaɪty-fəvə"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "ninety",
+          "lang": "english",
+          "ipa": "naɪntiː"
+        },
+        {
+          "word": "percent",
+          "lang": "english",
+          "ipa": "pɝsɛnt"
+        },
+        {
+          "word": "of",
+          "lang": "english",
+          "ipa": "ʌv"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "districts",
+          "lang": "english",
+          "ipa": "dɪstrɪkts"
+        },
+        {
+          "word": "across",
+          "lang": "english",
+          "ipa": "ʌkrɔːs"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "country.",
+          "lang": "english",
+          "ipa": "caʊntry."
+        }
+      ]
+    },
+    {
+      "start": 276.86,
+      "end": 280.2,
+      "text": "This was before my current role. I used to travel extensively.",
+      "ipa": "ðɪs wɑːz bɪfɔːr maɪ kɝʌnt rələ. aɪ juːzd tuː trævʌl əxtənsəvəly.",
+      "tokens": [
+        {
+          "word": "This",
+          "lang": "english",
+          "ipa": "ðɪs"
+        },
+        {
+          "word": "was",
+          "lang": "english",
+          "ipa": "wɑːz"
+        },
+        {
+          "word": "before",
+          "lang": "english",
+          "ipa": "bɪfɔːr"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "current",
+          "lang": "english",
+          "ipa": "kɝʌnt"
+        },
+        {
+          "word": "role.",
+          "lang": "english",
+          "ipa": "rələ."
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "used",
+          "lang": "english",
+          "ipa": "juːzd"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "travel",
+          "lang": "english",
+          "ipa": "trævʌl"
+        },
+        {
+          "word": "extensively.",
+          "lang": "english",
+          "ipa": "əxtənsəvəly."
+        }
+      ]
+    },
+    {
+      "start": 282.15999999999997,
+      "end": 299.06,
+      "text": "I learned a lot from those experiences. They gave me first-hand knowledge of the ground realities and grassroots level issues, not something asked or heard or learned merely from books.",
+      "ipa": "aɪ lɝnd ʌ lɑːt frʌm ðoʊz əxpərəəncəs. ðeɪ ɡeɪv miː fərst-hənd nɑːlʌdʒ ʌv t̪ʰeː ɡraʊnd riːælʌtiːz ʌnd ɡræsruːts lɛvʌl əssəəs, nɑːt sʌmθɪŋ æskt ɔːr hɝd ɔːr lɝnd mɪrliː frʌm buːks.",
+      "tokens": [
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "learned",
+          "lang": "english",
+          "ipa": "lɝnd"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "lot",
+          "lang": "english",
+          "ipa": "lɑːt"
+        },
+        {
+          "word": "from",
+          "lang": "english",
+          "ipa": "frʌm"
+        },
+        {
+          "word": "those",
+          "lang": "english",
+          "ipa": "ðoʊz"
+        },
+        {
+          "word": "experiences.",
+          "lang": "english",
+          "ipa": "əxpərəəncəs."
+        },
+        {
+          "word": "They",
+          "lang": "english",
+          "ipa": "ðeɪ"
+        },
+        {
+          "word": "gave",
+          "lang": "english",
+          "ipa": "ɡeɪv"
+        },
+        {
+          "word": "me",
+          "lang": "english",
+          "ipa": "miː"
+        },
+        {
+          "word": "first-hand",
+          "lang": "english",
+          "ipa": "fərst-hənd"
+        },
+        {
+          "word": "knowledge",
+          "lang": "english",
+          "ipa": "nɑːlʌdʒ"
+        },
+        {
+          "word": "of",
+          "lang": "english",
+          "ipa": "ʌv"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "ground",
+          "lang": "english",
+          "ipa": "ɡraʊnd"
+        },
+        {
+          "word": "realities",
+          "lang": "english",
+          "ipa": "riːælʌtiːz"
+        },
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "grassroots",
+          "lang": "english",
+          "ipa": "ɡræsruːts"
+        },
+        {
+          "word": "level",
+          "lang": "english",
+          "ipa": "lɛvʌl"
+        },
+        {
+          "word": "issues,",
+          "lang": "english",
+          "ipa": "əssəəs,"
+        },
+        {
+          "word": "not",
+          "lang": "english",
+          "ipa": "nɑːt"
+        },
+        {
+          "word": "something",
+          "lang": "english",
+          "ipa": "sʌmθɪŋ"
+        },
+        {
+          "word": "asked",
+          "lang": "english",
+          "ipa": "æskt"
+        },
+        {
+          "word": "or",
+          "lang": "english",
+          "ipa": "ɔːr"
+        },
+        {
+          "word": "heard",
+          "lang": "english",
+          "ipa": "hɝd"
+        },
+        {
+          "word": "or",
+          "lang": "english",
+          "ipa": "ɔːr"
+        },
+        {
+          "word": "learned",
+          "lang": "english",
+          "ipa": "lɝnd"
+        },
+        {
+          "word": "merely",
+          "lang": "english",
+          "ipa": "mɪrliː"
+        },
+        {
+          "word": "from",
+          "lang": "english",
+          "ipa": "frʌm"
+        },
+        {
+          "word": "books.",
+          "lang": "english",
+          "ipa": "buːks."
+        }
+      ]
+    },
+    {
+      "start": 300.56,
+      "end": 309.8,
+      "text": "Secondly, from a governance perspective, I carry no baggage of any kind.",
+      "ipa": "səcəndly, frʌm ʌ ɡʌvɝnʌns pərspəctəvə, aɪ kæriː noʊ bæɡʌdʒ ʌv ɛniː kənd.",
+      "tokens": [
+        {
+          "word": "Secondly,",
+          "lang": "english",
+          "ipa": "səcəndly,"
+        },
+        {
+          "word": "from",
+          "lang": "english",
+          "ipa": "frʌm"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "governance",
+          "lang": "english",
+          "ipa": "ɡʌvɝnʌns"
+        },
+        {
+          "word": "perspective,",
+          "lang": "english",
+          "ipa": "pərspəctəvə,"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "carry",
+          "lang": "english",
+          "ipa": "kæriː"
+        },
+        {
+          "word": "no",
+          "lang": "english",
+          "ipa": "noʊ"
+        },
+        {
+          "word": "baggage",
+          "lang": "english",
+          "ipa": "bæɡʌdʒ"
+        },
+        {
+          "word": "of",
+          "lang": "english",
+          "ipa": "ʌv"
+        },
+        {
+          "word": "any",
+          "lang": "english",
+          "ipa": "ɛniː"
+        },
+        {
+          "word": "kind.",
+          "lang": "english",
+          "ipa": "kənd."
+        }
+      ]
+    },
+    {
+      "start": 310.96,
+      "end": 319.36,
+      "text": "I don't carry any baggage that weighs me down or forces me to act a certain way.",
+      "ipa": "aɪ doʊnt kæriː ɛniː bæɡʌdʒ ðæt weɪz miː daʊn ɔːr fɔːrsɪz miː tuː ækt ʌ sɝtʌn weɪ.",
+      "tokens": [
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "don't",
+          "lang": "english",
+          "ipa": "doʊnt"
+        },
+        {
+          "word": "carry",
+          "lang": "english",
+          "ipa": "kæriː"
+        },
+        {
+          "word": "any",
+          "lang": "english",
+          "ipa": "ɛniː"
+        },
+        {
+          "word": "baggage",
+          "lang": "english",
+          "ipa": "bæɡʌdʒ"
+        },
+        {
+          "word": "that",
+          "lang": "english",
+          "ipa": "ðæt"
+        },
+        {
+          "word": "weighs",
+          "lang": "english",
+          "ipa": "weɪz"
+        },
+        {
+          "word": "me",
+          "lang": "english",
+          "ipa": "miː"
+        },
+        {
+          "word": "down",
+          "lang": "english",
+          "ipa": "daʊn"
+        },
+        {
+          "word": "or",
+          "lang": "english",
+          "ipa": "ɔːr"
+        },
+        {
+          "word": "forces",
+          "lang": "english",
+          "ipa": "fɔːrsɪz"
+        },
+        {
+          "word": "me",
+          "lang": "english",
+          "ipa": "miː"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "act",
+          "lang": "english",
+          "ipa": "ækt"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "certain",
+          "lang": "english",
+          "ipa": "sɝtʌn"
+        },
+        {
+          "word": "way.",
+          "lang": "english",
+          "ipa": "weɪ."
+        }
+      ]
+    },
+    {
+      "start": 320.42,
+      "end": 331.64,
+      "text": "Thirdly, I have a simple yardstick for decisions. My country first. I always question if what I'm doing harms my nation in any way.",
+      "ipa": "ðərdly, aɪ hæv ʌ sɪmpʌl jɑːrdstɪk fɔːr dəcəʒəns. maɪ kʌntriː fərst. aɪ ɔːlweɪz kwɛstʃʌn ɪf wʌt aɪm duːɪŋ hɑːrmz maɪ neɪʃʌn ɪn ɛniː weɪ.",
+      "tokens": [
+        {
+          "word": "Thirdly,",
+          "lang": "english",
+          "ipa": "ðərdly,"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "have",
+          "lang": "english",
+          "ipa": "hæv"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "simple",
+          "lang": "english",
+          "ipa": "sɪmpʌl"
+        },
+        {
+          "word": "yardstick",
+          "lang": "english",
+          "ipa": "jɑːrdstɪk"
+        },
+        {
+          "word": "for",
+          "lang": "english",
+          "ipa": "fɔːr"
+        },
+        {
+          "word": "decisions.",
+          "lang": "english",
+          "ipa": "dəcəʒəns."
+        },
+        {
+          "word": "My",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "country",
+          "lang": "english",
+          "ipa": "kʌntriː"
+        },
+        {
+          "word": "first.",
+          "lang": "english",
+          "ipa": "fərst."
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "always",
+          "lang": "english",
+          "ipa": "ɔːlweɪz"
+        },
+        {
+          "word": "question",
+          "lang": "english",
+          "ipa": "kwɛstʃʌn"
+        },
+        {
+          "word": "if",
+          "lang": "english",
+          "ipa": "ɪf"
+        },
+        {
+          "word": "what",
+          "lang": "english",
+          "ipa": "wʌt"
+        },
+        {
+          "word": "I'm",
+          "lang": "english",
+          "ipa": "aɪm"
+        },
+        {
+          "word": "doing",
+          "lang": "english",
+          "ipa": "duːɪŋ"
+        },
+        {
+          "word": "harms",
+          "lang": "english",
+          "ipa": "hɑːrmz"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "nation",
+          "lang": "english",
+          "ipa": "neɪʃʌn"
+        },
+        {
+          "word": "in",
+          "lang": "english",
+          "ipa": "ɪn"
+        },
+        {
+          "word": "any",
+          "lang": "english",
+          "ipa": "ɛniː"
+        },
+        {
+          "word": "way.",
+          "lang": "english",
+          "ipa": "weɪ."
+        }
+      ]
+    },
+    {
+      "start": 333.38,
+      "end": 345.8,
+      "text": "Additionally, Mahatma Gandhi once said that if you're ever unsure when making a decision, think of the poorest person's face, remember them, and ask yourself, will this help them?",
+      "ipa": "əddəʃənəlly, mʌhɑːtmʌ ɡɑːndiː wʌns sɛd ðæt ɪf jʊr ɛvɝ ʌnʃʊr wɛn meɪkɪŋ ʌ dəcəʒən, θɪŋk ʌv t̪ʰeː pʊrɪst pɝsʌnz fəcə, rɪmɛmbɝ ðəm, ʌnd æsk yaʊrsəlf, wɪl ðɪs hɛlp ðəm?",
+      "tokens": [
+        {
+          "word": "Additionally,",
+          "lang": "english",
+          "ipa": "əddəʃənəlly,"
+        },
+        {
+          "word": "Mahatma",
+          "lang": "english",
+          "ipa": "mʌhɑːtmʌ"
+        },
+        {
+          "word": "Gandhi",
+          "lang": "english",
+          "ipa": "ɡɑːndiː"
+        },
+        {
+          "word": "once",
+          "lang": "english",
+          "ipa": "wʌns"
+        },
+        {
+          "word": "said",
+          "lang": "english",
+          "ipa": "sɛd"
+        },
+        {
+          "word": "that",
+          "lang": "english",
+          "ipa": "ðæt"
+        },
+        {
+          "word": "if",
+          "lang": "english",
+          "ipa": "ɪf"
+        },
+        {
+          "word": "you're",
+          "lang": "english",
+          "ipa": "jʊr"
+        },
+        {
+          "word": "ever",
+          "lang": "english",
+          "ipa": "ɛvɝ"
+        },
+        {
+          "word": "unsure",
+          "lang": "english",
+          "ipa": "ʌnʃʊr"
+        },
+        {
+          "word": "when",
+          "lang": "english",
+          "ipa": "wɛn"
+        },
+        {
+          "word": "making",
+          "lang": "english",
+          "ipa": "meɪkɪŋ"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "decision,",
+          "lang": "english",
+          "ipa": "dəcəʒən,"
+        },
+        {
+          "word": "think",
+          "lang": "english",
+          "ipa": "θɪŋk"
+        },
+        {
+          "word": "of",
+          "lang": "english",
+          "ipa": "ʌv"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "poorest",
+          "lang": "english",
+          "ipa": "pʊrɪst"
+        },
+        {
+          "word": "person's",
+          "lang": "english",
+          "ipa": "pɝsʌnz"
+        },
+        {
+          "word": "face,",
+          "lang": "english",
+          "ipa": "fəcə,"
+        },
+        {
+          "word": "remember",
+          "lang": "english",
+          "ipa": "rɪmɛmbɝ"
+        },
+        {
+          "word": "them,",
+          "lang": "english",
+          "ipa": "ðəm,"
+        },
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "ask",
+          "lang": "english",
+          "ipa": "æsk"
+        },
+        {
+          "word": "yourself,",
+          "lang": "english",
+          "ipa": "yaʊrsəlf,"
+        },
+        {
+          "word": "will",
+          "lang": "english",
+          "ipa": "wɪl"
+        },
+        {
+          "word": "this",
+          "lang": "english",
+          "ipa": "ðɪs"
+        },
+        {
+          "word": "help",
+          "lang": "english",
+          "ipa": "hɛlp"
+        },
+        {
+          "word": "them?",
+          "lang": "english",
+          "ipa": "ðəm?"
+        }
+      ]
+    },
+    {
+      "start": 345.8,
+      "end": 354.22,
+      "text": "Then your decision will be right. That wisdom always guides me, remembering ordinary citizens and considering how my actions affect them.",
+      "ipa": "ðɛn jɔːr dɪsɪʒʌn wɪl biː raɪt. ðæt wɪzdʌm ɔːlweɪz ɡaɪdz mə, rɪmɛmbɝɪŋ ɔːrdʌnɛriː sɪtʌzʌnz ʌnd kʌnsɪdɝɪŋ haʊ maɪ ækʃʌnz ʌfɛkt ðəm.",
+      "tokens": [
+        {
+          "word": "Then",
+          "lang": "english",
+          "ipa": "ðɛn"
+        },
+        {
+          "word": "your",
+          "lang": "english",
+          "ipa": "jɔːr"
+        },
+        {
+          "word": "decision",
+          "lang": "english",
+          "ipa": "dɪsɪʒʌn"
+        },
+        {
+          "word": "will",
+          "lang": "english",
+          "ipa": "wɪl"
+        },
+        {
+          "word": "be",
+          "lang": "english",
+          "ipa": "biː"
+        },
+        {
+          "word": "right.",
+          "lang": "english",
+          "ipa": "raɪt."
+        },
+        {
+          "word": "That",
+          "lang": "english",
+          "ipa": "ðæt"
+        },
+        {
+          "word": "wisdom",
+          "lang": "english",
+          "ipa": "wɪzdʌm"
+        },
+        {
+          "word": "always",
+          "lang": "english",
+          "ipa": "ɔːlweɪz"
+        },
+        {
+          "word": "guides",
+          "lang": "english",
+          "ipa": "ɡaɪdz"
+        },
+        {
+          "word": "me,",
+          "lang": "english",
+          "ipa": "mə,"
+        },
+        {
+          "word": "remembering",
+          "lang": "english",
+          "ipa": "rɪmɛmbɝɪŋ"
+        },
+        {
+          "word": "ordinary",
+          "lang": "english",
+          "ipa": "ɔːrdʌnɛriː"
+        },
+        {
+          "word": "citizens",
+          "lang": "english",
+          "ipa": "sɪtʌzʌnz"
+        },
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "considering",
+          "lang": "english",
+          "ipa": "kʌnsɪdɝɪŋ"
+        },
+        {
+          "word": "how",
+          "lang": "english",
+          "ipa": "haʊ"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "actions",
+          "lang": "english",
+          "ipa": "ækʃʌnz"
+        },
+        {
+          "word": "affect",
+          "lang": "english",
+          "ipa": "ʌfɛkt"
+        },
+        {
+          "word": "them.",
+          "lang": "english",
+          "ipa": "ðəm."
+        }
+      ]
+    },
+    {
+      "start": 354.9,
+      "end": 371.24,
+      "text": "Another factor in my approach is that I'm very well connected. In my administration, my officials know this well and probably feel overwhelmed by it.",
+      "ipa": "ʌnʌðɝ fæktɝ ɪn maɪ ʌproʊtʃ ɪz ðæt aɪm vɛriː wɛl cənnəctəd. ɪn maɪ ədmənəstrəʃən, maɪ ʌfɪʃʌlz noʊ ðɪs wɛl ʌnd prɑːbʌbliː fiːl oʊvɝwɛlmd baɪ ət.",
+      "tokens": [
+        {
+          "word": "Another",
+          "lang": "english",
+          "ipa": "ʌnʌðɝ"
+        },
+        {
+          "word": "factor",
+          "lang": "english",
+          "ipa": "fæktɝ"
+        },
+        {
+          "word": "in",
+          "lang": "english",
+          "ipa": "ɪn"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "approach",
+          "lang": "english",
+          "ipa": "ʌproʊtʃ"
+        },
+        {
+          "word": "is",
+          "lang": "english",
+          "ipa": "ɪz"
+        },
+        {
+          "word": "that",
+          "lang": "english",
+          "ipa": "ðæt"
+        },
+        {
+          "word": "I'm",
+          "lang": "english",
+          "ipa": "aɪm"
+        },
+        {
+          "word": "very",
+          "lang": "english",
+          "ipa": "vɛriː"
+        },
+        {
+          "word": "well",
+          "lang": "english",
+          "ipa": "wɛl"
+        },
+        {
+          "word": "connected.",
+          "lang": "english",
+          "ipa": "cənnəctəd."
+        },
+        {
+          "word": "In",
+          "lang": "english",
+          "ipa": "ɪn"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "administration,",
+          "lang": "english",
+          "ipa": "ədmənəstrəʃən,"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "officials",
+          "lang": "english",
+          "ipa": "ʌfɪʃʌlz"
+        },
+        {
+          "word": "know",
+          "lang": "english",
+          "ipa": "noʊ"
+        },
+        {
+          "word": "this",
+          "lang": "english",
+          "ipa": "ðɪs"
+        },
+        {
+          "word": "well",
+          "lang": "english",
+          "ipa": "wɛl"
+        },
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "probably",
+          "lang": "english",
+          "ipa": "prɑːbʌbliː"
+        },
+        {
+          "word": "feel",
+          "lang": "english",
+          "ipa": "fiːl"
+        },
+        {
+          "word": "overwhelmed",
+          "lang": "english",
+          "ipa": "oʊvɝwɛlmd"
+        },
+        {
+          "word": "by",
+          "lang": "english",
+          "ipa": "baɪ"
+        },
+        {
+          "word": "it.",
+          "lang": "english",
+          "ipa": "ət."
+        }
+      ]
+    },
+    {
+      "start": 371.24,
+      "end": 385.4,
+      "text": "By the fact that my information channels are numerous and are very active. Because of that, I receive lots of insights from various sources.",
+      "ipa": "baɪ t̪ʰeː fækt ðæt maɪ ɪnfɝmeɪʃʌn tʃænʌlz ɑːr nuːmɝʌs ʌnd ɑːr vɛriː əctəvə. bɪkɔːz ʌv ðət, aɪ rʌsiːv lɑːts ʌv ɪnsaɪts frʌm vɛriːʌs saʊrcəs.",
+      "tokens": [
+        {
+          "word": "By",
+          "lang": "english",
+          "ipa": "baɪ"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "fact",
+          "lang": "english",
+          "ipa": "fækt"
+        },
+        {
+          "word": "that",
+          "lang": "english",
+          "ipa": "ðæt"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "information",
+          "lang": "english",
+          "ipa": "ɪnfɝmeɪʃʌn"
+        },
+        {
+          "word": "channels",
+          "lang": "english",
+          "ipa": "tʃænʌlz"
+        },
+        {
+          "word": "are",
+          "lang": "english",
+          "ipa": "ɑːr"
+        },
+        {
+          "word": "numerous",
+          "lang": "english",
+          "ipa": "nuːmɝʌs"
+        },
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "are",
+          "lang": "english",
+          "ipa": "ɑːr"
+        },
+        {
+          "word": "very",
+          "lang": "english",
+          "ipa": "vɛriː"
+        },
+        {
+          "word": "active.",
+          "lang": "english",
+          "ipa": "əctəvə."
+        },
+        {
+          "word": "Because",
+          "lang": "english",
+          "ipa": "bɪkɔːz"
+        },
+        {
+          "word": "of",
+          "lang": "english",
+          "ipa": "ʌv"
+        },
+        {
+          "word": "that,",
+          "lang": "english",
+          "ipa": "ðət,"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "receive",
+          "lang": "english",
+          "ipa": "rʌsiːv"
+        },
+        {
+          "word": "lots",
+          "lang": "english",
+          "ipa": "lɑːts"
+        },
+        {
+          "word": "of",
+          "lang": "english",
+          "ipa": "ʌv"
+        },
+        {
+          "word": "insights",
+          "lang": "english",
+          "ipa": "ɪnsaɪts"
+        },
+        {
+          "word": "from",
+          "lang": "english",
+          "ipa": "frʌm"
+        },
+        {
+          "word": "various",
+          "lang": "english",
+          "ipa": "vɛriːʌs"
+        },
+        {
+          "word": "sources.",
+          "lang": "english",
+          "ipa": "saʊrcəs."
+        }
+      ]
+    },
+    {
+      "start": 387.34,
+      "end": 396.88,
+      "text": "So, when someone comes to brief me, that's not my only source of information. I always have additional perspectives available to me.",
+      "ipa": "sə, wɛn sʌmwʌn kʌmz tuː briːf mə, ðæts nɑːt maɪ oʊnliː sɔːrs ʌv ənfərməʃən. aɪ ɔːlweɪz hæv ʌdɪʃʌnʌl pɝspɛktɪvz ʌveɪlʌbʌl tuː mə.",
+      "tokens": [
+        {
+          "word": "So,",
+          "lang": "english",
+          "ipa": "sə,"
+        },
+        {
+          "word": "when",
+          "lang": "english",
+          "ipa": "wɛn"
+        },
+        {
+          "word": "someone",
+          "lang": "english",
+          "ipa": "sʌmwʌn"
+        },
+        {
+          "word": "comes",
+          "lang": "english",
+          "ipa": "kʌmz"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "brief",
+          "lang": "english",
+          "ipa": "briːf"
+        },
+        {
+          "word": "me,",
+          "lang": "english",
+          "ipa": "mə,"
+        },
+        {
+          "word": "that's",
+          "lang": "english",
+          "ipa": "ðæts"
+        },
+        {
+          "word": "not",
+          "lang": "english",
+          "ipa": "nɑːt"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "only",
+          "lang": "english",
+          "ipa": "oʊnliː"
+        },
+        {
+          "word": "source",
+          "lang": "english",
+          "ipa": "sɔːrs"
+        },
+        {
+          "word": "of",
+          "lang": "english",
+          "ipa": "ʌv"
+        },
+        {
+          "word": "information.",
+          "lang": "english",
+          "ipa": "ənfərməʃən."
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "always",
+          "lang": "english",
+          "ipa": "ɔːlweɪz"
+        },
+        {
+          "word": "have",
+          "lang": "english",
+          "ipa": "hæv"
+        },
+        {
+          "word": "additional",
+          "lang": "english",
+          "ipa": "ʌdɪʃʌnʌl"
+        },
+        {
+          "word": "perspectives",
+          "lang": "english",
+          "ipa": "pɝspɛktɪvz"
+        },
+        {
+          "word": "available",
+          "lang": "english",
+          "ipa": "ʌveɪlʌbʌl"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "me.",
+          "lang": "english",
+          "ipa": "mə."
+        }
+      ]
+    },
+    {
+      "start": 396.88,
+      "end": 406.6,
+      "text": "Another thing, I maintain a learner's mindset. Suppose I'm not familiar with something and an official explains it to me.",
+      "ipa": "ʌnʌðɝ ðəŋ, aɪ meɪnteɪn ʌ liːrnər's məndsət. sʌpoʊz aɪm nɑːt fʌmɪljɝ wɪð sʌmθɪŋ ʌnd æn ʌfɪʃʌl ɪkspleɪnz ɪt tuː mə.",
+      "tokens": [
+        {
+          "word": "Another",
+          "lang": "english",
+          "ipa": "ʌnʌðɝ"
+        },
+        {
+          "word": "thing,",
+          "lang": "english",
+          "ipa": "ðəŋ,"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "maintain",
+          "lang": "english",
+          "ipa": "meɪnteɪn"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "learner's",
+          "lang": "english",
+          "ipa": "liːrnər's"
+        },
+        {
+          "word": "mindset.",
+          "lang": "english",
+          "ipa": "məndsət."
+        },
+        {
+          "word": "Suppose",
+          "lang": "english",
+          "ipa": "sʌpoʊz"
+        },
+        {
+          "word": "I'm",
+          "lang": "english",
+          "ipa": "aɪm"
+        },
+        {
+          "word": "not",
+          "lang": "english",
+          "ipa": "nɑːt"
+        },
+        {
+          "word": "familiar",
+          "lang": "english",
+          "ipa": "fʌmɪljɝ"
+        },
+        {
+          "word": "with",
+          "lang": "english",
+          "ipa": "wɪð"
+        },
+        {
+          "word": "something",
+          "lang": "english",
+          "ipa": "sʌmθɪŋ"
+        },
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "an",
+          "lang": "english",
+          "ipa": "æn"
+        },
+        {
+          "word": "official",
+          "lang": "english",
+          "ipa": "ʌfɪʃʌl"
+        },
+        {
+          "word": "explains",
+          "lang": "english",
+          "ipa": "ɪkspleɪnz"
+        },
+        {
+          "word": "it",
+          "lang": "english",
+          "ipa": "ɪt"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "me.",
+          "lang": "english",
+          "ipa": "mə."
+        }
+      ]
+    },
+    {
+      "start": 406.86,
+      "end": 412.7,
+      "text": "I approach them like a student and ask, can you clarify this? How does it work? Then what happens next and how?",
+      "ipa": "aɪ ʌproʊtʃ ðɛm laɪk ʌ stuːdʌnt ʌnd əsk, kæn juː klɛrʌfaɪ ðəs? haʊ dʌz ɪt wərk? ðɛn wʌt hæpʌnz nɛkst ʌnd hoʊ?",
+      "tokens": [
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "approach",
+          "lang": "english",
+          "ipa": "ʌproʊtʃ"
+        },
+        {
+          "word": "them",
+          "lang": "english",
+          "ipa": "ðɛm"
+        },
+        {
+          "word": "like",
+          "lang": "english",
+          "ipa": "laɪk"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "student",
+          "lang": "english",
+          "ipa": "stuːdʌnt"
+        },
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "ask,",
+          "lang": "english",
+          "ipa": "əsk,"
+        },
+        {
+          "word": "can",
+          "lang": "english",
+          "ipa": "kæn"
+        },
+        {
+          "word": "you",
+          "lang": "english",
+          "ipa": "juː"
+        },
+        {
+          "word": "clarify",
+          "lang": "english",
+          "ipa": "klɛrʌfaɪ"
+        },
+        {
+          "word": "this?",
+          "lang": "english",
+          "ipa": "ðəs?"
+        },
+        {
+          "word": "How",
+          "lang": "english",
+          "ipa": "haʊ"
+        },
+        {
+          "word": "does",
+          "lang": "english",
+          "ipa": "dʌz"
+        },
+        {
+          "word": "it",
+          "lang": "english",
+          "ipa": "ɪt"
+        },
+        {
+          "word": "work?",
+          "lang": "english",
+          "ipa": "wərk?"
+        },
+        {
+          "word": "Then",
+          "lang": "english",
+          "ipa": "ðɛn"
+        },
+        {
+          "word": "what",
+          "lang": "english",
+          "ipa": "wʌt"
+        },
+        {
+          "word": "happens",
+          "lang": "english",
+          "ipa": "hæpʌnz"
+        },
+        {
+          "word": "next",
+          "lang": "english",
+          "ipa": "nɛkst"
+        },
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "how?",
+          "lang": "english",
+          "ipa": "hoʊ?"
+        }
+      ]
+    },
+    {
+      "start": 413.34,
+      "end": 419.38,
+      "text": "And whenever I have different information, I deliberately play devil's advocate and ask challenging questions.",
+      "ipa": "ʌnd wɛnɛvɝ aɪ hæv dɪfɝʌnt ənfərməʃən, aɪ dɪlɪbɝʌtliː pleɪ dɛvʌlz ædvʌkʌt ʌnd æsk tʃælʌndʒɪŋ qəəsʃəns.",
+      "tokens": [
+        {
+          "word": "And",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "whenever",
+          "lang": "english",
+          "ipa": "wɛnɛvɝ"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "have",
+          "lang": "english",
+          "ipa": "hæv"
+        },
+        {
+          "word": "different",
+          "lang": "english",
+          "ipa": "dɪfɝʌnt"
+        },
+        {
+          "word": "information,",
+          "lang": "english",
+          "ipa": "ənfərməʃən,"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "deliberately",
+          "lang": "english",
+          "ipa": "dɪlɪbɝʌtliː"
+        },
+        {
+          "word": "play",
+          "lang": "english",
+          "ipa": "pleɪ"
+        },
+        {
+          "word": "devil's",
+          "lang": "english",
+          "ipa": "dɛvʌlz"
+        },
+        {
+          "word": "advocate",
+          "lang": "english",
+          "ipa": "ædvʌkʌt"
+        },
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "ask",
+          "lang": "english",
+          "ipa": "æsk"
+        },
+        {
+          "word": "challenging",
+          "lang": "english",
+          "ipa": "tʃælʌndʒɪŋ"
+        },
+        {
+          "word": "questions.",
+          "lang": "english",
+          "ipa": "qəəsʃəns."
+        }
+      ]
+    },
+    {
+      "start": 420.4,
+      "end": 431.64,
+      "text": "I thoroughly analyze the issue from multiple angles, hoping that careful evaluation will yield something valuable.",
+      "ipa": "aɪ θɝoʊliː ænʌlaɪz t̪ʰeː ɪʃuː frʌm mʌltʌpʌl əŋləs, hoʊpɪŋ ðæt kɛrfʌl ɪvæljuːeɪʃʌn wɪl jiːld sʌmθɪŋ vələəblə.",
+      "tokens": [
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "thoroughly",
+          "lang": "english",
+          "ipa": "θɝoʊliː"
+        },
+        {
+          "word": "analyze",
+          "lang": "english",
+          "ipa": "ænʌlaɪz"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "issue",
+          "lang": "english",
+          "ipa": "ɪʃuː"
+        },
+        {
+          "word": "from",
+          "lang": "english",
+          "ipa": "frʌm"
+        },
+        {
+          "word": "multiple",
+          "lang": "english",
+          "ipa": "mʌltʌpʌl"
+        },
+        {
+          "word": "angles,",
+          "lang": "english",
+          "ipa": "əŋləs,"
+        },
+        {
+          "word": "hoping",
+          "lang": "english",
+          "ipa": "hoʊpɪŋ"
+        },
+        {
+          "word": "that",
+          "lang": "english",
+          "ipa": "ðæt"
+        },
+        {
+          "word": "careful",
+          "lang": "english",
+          "ipa": "kɛrfʌl"
+        },
+        {
+          "word": "evaluation",
+          "lang": "english",
+          "ipa": "ɪvæljuːeɪʃʌn"
+        },
+        {
+          "word": "will",
+          "lang": "english",
+          "ipa": "wɪl"
+        },
+        {
+          "word": "yield",
+          "lang": "english",
+          "ipa": "jiːld"
+        },
+        {
+          "word": "something",
+          "lang": "english",
+          "ipa": "sʌmθɪŋ"
+        },
+        {
+          "word": "valuable.",
+          "lang": "english",
+          "ipa": "vələəblə."
+        }
+      ]
+    },
+    {
+      "start": 434.94,
+      "end": 445.14,
+      "text": "Then, once I converge toward a decision or action that is worth taking, I share the idea informally with like-minded people,",
+      "ipa": "ðən, wʌns aɪ kʌnvɝdʒ tʌwɔːrd ʌ dɪsɪʒʌn ɔːr ækʃʌn ðæt ɪz wɝθ təkəŋ, aɪ ʃɛr t̪ʰeː aɪdiːʌ ɪnfɔːrmʌliː wɪð ləkə-məndəd pəəplə,",
+      "tokens": [
+        {
+          "word": "Then,",
+          "lang": "english",
+          "ipa": "ðən,"
+        },
+        {
+          "word": "once",
+          "lang": "english",
+          "ipa": "wʌns"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "converge",
+          "lang": "english",
+          "ipa": "kʌnvɝdʒ"
+        },
+        {
+          "word": "toward",
+          "lang": "english",
+          "ipa": "tʌwɔːrd"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "decision",
+          "lang": "english",
+          "ipa": "dɪsɪʒʌn"
+        },
+        {
+          "word": "or",
+          "lang": "english",
+          "ipa": "ɔːr"
+        },
+        {
+          "word": "action",
+          "lang": "english",
+          "ipa": "ækʃʌn"
+        },
+        {
+          "word": "that",
+          "lang": "english",
+          "ipa": "ðæt"
+        },
+        {
+          "word": "is",
+          "lang": "english",
+          "ipa": "ɪz"
+        },
+        {
+          "word": "worth",
+          "lang": "english",
+          "ipa": "wɝθ"
+        },
+        {
+          "word": "taking,",
+          "lang": "english",
+          "ipa": "təkəŋ,"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "share",
+          "lang": "english",
+          "ipa": "ʃɛr"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "idea",
+          "lang": "english",
+          "ipa": "aɪdiːʌ"
+        },
+        {
+          "word": "informally",
+          "lang": "english",
+          "ipa": "ɪnfɔːrmʌliː"
+        },
+        {
+          "word": "with",
+          "lang": "english",
+          "ipa": "wɪð"
+        },
+        {
+          "word": "like-minded",
+          "lang": "english",
+          "ipa": "ləkə-məndəd"
+        },
+        {
+          "word": "people,",
+          "lang": "english",
+          "ipa": "pəəplə,"
+        }
+      ]
+    },
+    {
+      "start": 446.38,
+      "end": 453.76,
+      "text": "just to gauge their reactions and see how they respond, gathering insights and feedback before moving forward.",
+      "ipa": "dʒʌst tuː ɡeɪdʒ ðɛr riːækʃʌnz ʌnd siː haʊ ðeɪ rəspənd, ɡæðɝɪŋ ɪnsaɪts ʌnd fiːdbæk bɪfɔːr muːvɪŋ fərwərd.",
+      "tokens": [
+        {
+          "word": "just",
+          "lang": "english",
+          "ipa": "dʒʌst"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "gauge",
+          "lang": "english",
+          "ipa": "ɡeɪdʒ"
+        },
+        {
+          "word": "their",
+          "lang": "english",
+          "ipa": "ðɛr"
+        },
+        {
+          "word": "reactions",
+          "lang": "english",
+          "ipa": "riːækʃʌnz"
+        },
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "see",
+          "lang": "english",
+          "ipa": "siː"
+        },
+        {
+          "word": "how",
+          "lang": "english",
+          "ipa": "haʊ"
+        },
+        {
+          "word": "they",
+          "lang": "english",
+          "ipa": "ðeɪ"
+        },
+        {
+          "word": "respond,",
+          "lang": "english",
+          "ipa": "rəspənd,"
+        },
+        {
+          "word": "gathering",
+          "lang": "english",
+          "ipa": "ɡæðɝɪŋ"
+        },
+        {
+          "word": "insights",
+          "lang": "english",
+          "ipa": "ɪnsaɪts"
+        },
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "feedback",
+          "lang": "english",
+          "ipa": "fiːdbæk"
+        },
+        {
+          "word": "before",
+          "lang": "english",
+          "ipa": "bɪfɔːr"
+        },
+        {
+          "word": "moving",
+          "lang": "english",
+          "ipa": "muːvɪŋ"
+        },
+        {
+          "word": "forward.",
+          "lang": "english",
+          "ipa": "fərwərd."
+        }
+      ]
+    },
+    {
+      "start": 456.32000000000005,
+      "end": 464.98,
+      "text": "Until finally, I have a strong conviction that my decision is right.",
+      "ipa": "ʌntɪl fənəlly, aɪ hæv ʌ strɔːŋ kʌnvɪkʃʌn ðæt maɪ dɪsɪʒʌn ɪz raɪt.",
+      "tokens": [
+        {
+          "word": "Until",
+          "lang": "english",
+          "ipa": "ʌntɪl"
+        },
+        {
+          "word": "finally,",
+          "lang": "english",
+          "ipa": "fənəlly,"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "have",
+          "lang": "english",
+          "ipa": "hæv"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "strong",
+          "lang": "english",
+          "ipa": "strɔːŋ"
+        },
+        {
+          "word": "conviction",
+          "lang": "english",
+          "ipa": "kʌnvɪkʃʌn"
+        },
+        {
+          "word": "that",
+          "lang": "english",
+          "ipa": "ðæt"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "decision",
+          "lang": "english",
+          "ipa": "dɪsɪʒʌn"
+        },
+        {
+          "word": "is",
+          "lang": "english",
+          "ipa": "ɪz"
+        },
+        {
+          "word": "right.",
+          "lang": "english",
+          "ipa": "raɪt."
+        }
+      ]
+    },
+    {
+      "start": 466.22,
+      "end": 471.58,
+      "text": "This entire decision-making process doesn't actually take much time. My speed is very fast.",
+      "ipa": "ðɪs ɪntaɪɝ dəcəʒən-məkəŋ prɑːsɛs dʌzʌnt æktʃʌwʌliː teɪk mʌtʃ təmə. maɪ spiːd ɪz vɛriː fəst.",
+      "tokens": [
+        {
+          "word": "This",
+          "lang": "english",
+          "ipa": "ðɪs"
+        },
+        {
+          "word": "entire",
+          "lang": "english",
+          "ipa": "ɪntaɪɝ"
+        },
+        {
+          "word": "decision-making",
+          "lang": "english",
+          "ipa": "dəcəʒən-məkəŋ"
+        },
+        {
+          "word": "process",
+          "lang": "english",
+          "ipa": "prɑːsɛs"
+        },
+        {
+          "word": "doesn't",
+          "lang": "english",
+          "ipa": "dʌzʌnt"
+        },
+        {
+          "word": "actually",
+          "lang": "english",
+          "ipa": "æktʃʌwʌliː"
+        },
+        {
+          "word": "take",
+          "lang": "english",
+          "ipa": "teɪk"
+        },
+        {
+          "word": "much",
+          "lang": "english",
+          "ipa": "mʌtʃ"
+        },
+        {
+          "word": "time.",
+          "lang": "english",
+          "ipa": "təmə."
+        },
+        {
+          "word": "My",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "speed",
+          "lang": "english",
+          "ipa": "spiːd"
+        },
+        {
+          "word": "is",
+          "lang": "english",
+          "ipa": "ɪz"
+        },
+        {
+          "word": "very",
+          "lang": "english",
+          "ipa": "vɛriː"
+        },
+        {
+          "word": "fast.",
+          "lang": "english",
+          "ipa": "fəst."
+        }
+      ]
+    },
+    {
+      "start": 471.58,
+      "end": 476.98,
+      "text": "Let me share an example. How did I make decisions during COVID?",
+      "ipa": "lɛt miː ʃɛr æn əxəmplə. haʊ dɪd aɪ meɪk dɪsɪʒʌnz dʊrɪŋ cəvəd?",
+      "tokens": [
+        {
+          "word": "Let",
+          "lang": "english",
+          "ipa": "lɛt"
+        },
+        {
+          "word": "me",
+          "lang": "english",
+          "ipa": "miː"
+        },
+        {
+          "word": "share",
+          "lang": "english",
+          "ipa": "ʃɛr"
+        },
+        {
+          "word": "an",
+          "lang": "english",
+          "ipa": "æn"
+        },
+        {
+          "word": "example.",
+          "lang": "english",
+          "ipa": "əxəmplə."
+        },
+        {
+          "word": "How",
+          "lang": "english",
+          "ipa": "haʊ"
+        },
+        {
+          "word": "did",
+          "lang": "english",
+          "ipa": "dɪd"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "make",
+          "lang": "english",
+          "ipa": "meɪk"
+        },
+        {
+          "word": "decisions",
+          "lang": "english",
+          "ipa": "dɪsɪʒʌnz"
+        },
+        {
+          "word": "during",
+          "lang": "english",
+          "ipa": "dʊrɪŋ"
+        },
+        {
+          "word": "COVID?",
+          "lang": "english",
+          "ipa": "cəvəd?"
+        }
+      ]
+    },
+    {
+      "start": 479.4,
+      "end": 486.76,
+      "text": "I had Nobel Prize winners advising me, giving countless economic examples from around the world.",
+      "ipa": "aɪ hæd noʊbɛl praɪz wɪnɝz ædvaɪzɪŋ mə, ɡɪvɪŋ kaʊntlʌs ɛkʌnɑːmɪk ɪɡzæmpʌlz frʌm ɝaʊnd t̪ʰeː wərld.",
+      "tokens": [
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "had",
+          "lang": "english",
+          "ipa": "hæd"
+        },
+        {
+          "word": "Nobel",
+          "lang": "english",
+          "ipa": "noʊbɛl"
+        },
+        {
+          "word": "Prize",
+          "lang": "english",
+          "ipa": "praɪz"
+        },
+        {
+          "word": "winners",
+          "lang": "english",
+          "ipa": "wɪnɝz"
+        },
+        {
+          "word": "advising",
+          "lang": "english",
+          "ipa": "ædvaɪzɪŋ"
+        },
+        {
+          "word": "me,",
+          "lang": "english",
+          "ipa": "mə,"
+        },
+        {
+          "word": "giving",
+          "lang": "english",
+          "ipa": "ɡɪvɪŋ"
+        },
+        {
+          "word": "countless",
+          "lang": "english",
+          "ipa": "kaʊntlʌs"
+        },
+        {
+          "word": "economic",
+          "lang": "english",
+          "ipa": "ɛkʌnɑːmɪk"
+        },
+        {
+          "word": "examples",
+          "lang": "english",
+          "ipa": "ɪɡzæmpʌlz"
+        },
+        {
+          "word": "from",
+          "lang": "english",
+          "ipa": "frʌm"
+        },
+        {
+          "word": "around",
+          "lang": "english",
+          "ipa": "ɝaʊnd"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "world.",
+          "lang": "english",
+          "ipa": "wərld."
+        }
+      ]
+    },
+    {
+      "start": 487.68,
+      "end": 491.26,
+      "text": "They'd say, if this country is doing this, that country did that, you should do it too.",
+      "ipa": "ðeɪd seɪ, ɪf ðɪs kʌntriː ɪz duːɪŋ ðəs, ðæt kʌntriː dɪd ðət, juː ʃʊd ɖoː ɪt ʈoː.",
+      "tokens": [
+        {
+          "word": "They'd",
+          "lang": "english",
+          "ipa": "ðeɪd"
+        },
+        {
+          "word": "say,",
+          "lang": "english",
+          "ipa": "seɪ,"
+        },
+        {
+          "word": "if",
+          "lang": "english",
+          "ipa": "ɪf"
+        },
+        {
+          "word": "this",
+          "lang": "english",
+          "ipa": "ðɪs"
+        },
+        {
+          "word": "country",
+          "lang": "english",
+          "ipa": "kʌntriː"
+        },
+        {
+          "word": "is",
+          "lang": "english",
+          "ipa": "ɪz"
+        },
+        {
+          "word": "doing",
+          "lang": "english",
+          "ipa": "duːɪŋ"
+        },
+        {
+          "word": "this,",
+          "lang": "english",
+          "ipa": "ðəs,"
+        },
+        {
+          "word": "that",
+          "lang": "english",
+          "ipa": "ðæt"
+        },
+        {
+          "word": "country",
+          "lang": "english",
+          "ipa": "kʌntriː"
+        },
+        {
+          "word": "did",
+          "lang": "english",
+          "ipa": "dɪd"
+        },
+        {
+          "word": "that,",
+          "lang": "english",
+          "ipa": "ðət,"
+        },
+        {
+          "word": "you",
+          "lang": "english",
+          "ipa": "juː"
+        },
+        {
+          "word": "should",
+          "lang": "english",
+          "ipa": "ʃʊd"
+        },
+        {
+          "word": "do",
+          "lang": "roman_hindi",
+          "ipa": "ɖoː"
+        },
+        {
+          "word": "it",
+          "lang": "english",
+          "ipa": "ɪt"
+        },
+        {
+          "word": "too.",
+          "lang": "roman_hindi",
+          "ipa": "ʈoː."
+        }
+      ]
+    },
+    {
+      "start": 491.9,
+      "end": 494.6,
+      "text": "Renowned economists constantly bombarded me with suggestions.",
+      "ipa": "rɪnaʊnd ɪkɑːnʌmɪsts kɑːnstʌntliː bɑːmbɑːrdɪd miː wɪð səggəsʃəns.",
+      "tokens": [
+        {
+          "word": "Renowned",
+          "lang": "english",
+          "ipa": "rɪnaʊnd"
+        },
+        {
+          "word": "economists",
+          "lang": "english",
+          "ipa": "ɪkɑːnʌmɪsts"
+        },
+        {
+          "word": "constantly",
+          "lang": "english",
+          "ipa": "kɑːnstʌntliː"
+        },
+        {
+          "word": "bombarded",
+          "lang": "english",
+          "ipa": "bɑːmbɑːrdɪd"
+        },
+        {
+          "word": "me",
+          "lang": "english",
+          "ipa": "miː"
+        },
+        {
+          "word": "with",
+          "lang": "english",
+          "ipa": "wɪð"
+        },
+        {
+          "word": "suggestions.",
+          "lang": "english",
+          "ipa": "səggəsʃəns."
+        }
+      ]
+    },
+    {
+      "start": 494.6,
+      "end": 499.7,
+      "text": "Political parties pressured me relentlessly, urging me to spend huge amounts of money.",
+      "ipa": "pʌlɪtʌkʌl pɑːrtiːz prɛʃɝd miː rələntləssly, ɝdʒɪŋ miː tuː spɛnd hjuːdʒ ʌmaʊnts ʌv mənəy.",
+      "tokens": [
+        {
+          "word": "Political",
+          "lang": "english",
+          "ipa": "pʌlɪtʌkʌl"
+        },
+        {
+          "word": "parties",
+          "lang": "english",
+          "ipa": "pɑːrtiːz"
+        },
+        {
+          "word": "pressured",
+          "lang": "english",
+          "ipa": "prɛʃɝd"
+        },
+        {
+          "word": "me",
+          "lang": "english",
+          "ipa": "miː"
+        },
+        {
+          "word": "relentlessly,",
+          "lang": "english",
+          "ipa": "rələntləssly,"
+        },
+        {
+          "word": "urging",
+          "lang": "english",
+          "ipa": "ɝdʒɪŋ"
+        },
+        {
+          "word": "me",
+          "lang": "english",
+          "ipa": "miː"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "spend",
+          "lang": "english",
+          "ipa": "spɛnd"
+        },
+        {
+          "word": "huge",
+          "lang": "english",
+          "ipa": "hjuːdʒ"
+        },
+        {
+          "word": "amounts",
+          "lang": "english",
+          "ipa": "ʌmaʊnts"
+        },
+        {
+          "word": "of",
+          "lang": "english",
+          "ipa": "ʌv"
+        },
+        {
+          "word": "money.",
+          "lang": "english",
+          "ipa": "mənəy."
+        }
+      ]
+    },
+    {
+      "start": 500.32,
+      "end": 505.92,
+      "text": "But I didn't act immediately. I paused and reflected. What exactly should I do?",
+      "ipa": "bʌt aɪ dɪdʌnt ækt əmmədəətəly. aɪ pɔːzd ʌnd rəfləctəd. wʌt ɪɡzæktliː ʃʊd aɪ ɖoː?",
+      "tokens": [
+        {
+          "word": "But",
+          "lang": "english",
+          "ipa": "bʌt"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "didn't",
+          "lang": "english",
+          "ipa": "dɪdʌnt"
+        },
+        {
+          "word": "act",
+          "lang": "english",
+          "ipa": "ækt"
+        },
+        {
+          "word": "immediately.",
+          "lang": "english",
+          "ipa": "əmmədəətəly."
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "paused",
+          "lang": "english",
+          "ipa": "pɔːzd"
+        },
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "reflected.",
+          "lang": "english",
+          "ipa": "rəfləctəd."
+        },
+        {
+          "word": "What",
+          "lang": "english",
+          "ipa": "wʌt"
+        },
+        {
+          "word": "exactly",
+          "lang": "english",
+          "ipa": "ɪɡzæktliː"
+        },
+        {
+          "word": "should",
+          "lang": "english",
+          "ipa": "ʃʊd"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "do?",
+          "lang": "roman_hindi",
+          "ipa": "ɖoː?"
+        }
+      ]
+    },
+    {
+      "start": 506.44,
+      "end": 510.18,
+      "text": "Then, considering the unique conditions of my own country, I made a clear decision.",
+      "ipa": "ðən, kʌnsɪdɝɪŋ t̪ʰeː juːniːk kʌndɪʃʌnz ʌv maɪ oʊn caʊntry, aɪ meɪd ʌ klɪr dəcəʒən.",
+      "tokens": [
+        {
+          "word": "Then,",
+          "lang": "english",
+          "ipa": "ðən,"
+        },
+        {
+          "word": "considering",
+          "lang": "english",
+          "ipa": "kʌnsɪdɝɪŋ"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "unique",
+          "lang": "english",
+          "ipa": "juːniːk"
+        },
+        {
+          "word": "conditions",
+          "lang": "english",
+          "ipa": "kʌndɪʃʌnz"
+        },
+        {
+          "word": "of",
+          "lang": "english",
+          "ipa": "ʌv"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "own",
+          "lang": "english",
+          "ipa": "oʊn"
+        },
+        {
+          "word": "country,",
+          "lang": "english",
+          "ipa": "caʊntry,"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "made",
+          "lang": "english",
+          "ipa": "meɪd"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "clear",
+          "lang": "english",
+          "ipa": "klɪr"
+        },
+        {
+          "word": "decision.",
+          "lang": "english",
+          "ipa": "dəcəʒən."
+        }
+      ]
+    },
+    {
+      "start": 511.12,
+      "end": 513.54,
+      "text": "I wouldn't let the poor sleep hungry.",
+      "ipa": "aɪ wʊdʌnt lɛt t̪ʰeː pʊr sliːp həŋry.",
+      "tokens": [
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "wouldn't",
+          "lang": "english",
+          "ipa": "wʊdʌnt"
+        },
+        {
+          "word": "let",
+          "lang": "english",
+          "ipa": "lɛt"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "poor",
+          "lang": "english",
+          "ipa": "pʊr"
+        },
+        {
+          "word": "sleep",
+          "lang": "english",
+          "ipa": "sliːp"
+        },
+        {
+          "word": "hungry.",
+          "lang": "english",
+          "ipa": "həŋry."
+        }
+      ]
+    },
+    {
+      "start": 518.22,
+      "end": 522.64,
+      "text": "I wouldn't allow social tensions to arise over basic daily needs.",
+      "ipa": "aɪ wʊdʌnt ʌlaʊ soʊʃʌl tɛntʃʌnz tuː ɝaɪz oʊvɝ beɪsɪk deɪliː niːds.",
+      "tokens": [
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "wouldn't",
+          "lang": "english",
+          "ipa": "wʊdʌnt"
+        },
+        {
+          "word": "allow",
+          "lang": "english",
+          "ipa": "ʌlaʊ"
+        },
+        {
+          "word": "social",
+          "lang": "english",
+          "ipa": "soʊʃʌl"
+        },
+        {
+          "word": "tensions",
+          "lang": "english",
+          "ipa": "tɛntʃʌnz"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "arise",
+          "lang": "english",
+          "ipa": "ɝaɪz"
+        },
+        {
+          "word": "over",
+          "lang": "english",
+          "ipa": "oʊvɝ"
+        },
+        {
+          "word": "basic",
+          "lang": "english",
+          "ipa": "beɪsɪk"
+        },
+        {
+          "word": "daily",
+          "lang": "english",
+          "ipa": "deɪliː"
+        },
+        {
+          "word": "needs.",
+          "lang": "english",
+          "ipa": "niːds."
+        }
+      ]
+    },
+    {
+      "start": 522.64,
+      "end": 528.44,
+      "text": "These core principles guided my approach. The entire world was in lockdown.",
+      "ipa": "ðiːz kɔːr prɪnsʌpʌlz ɡaɪdʌd maɪ əpprəətʃ. t̪ʰeː ɪntaɪɝ wɝld wɑːz ɪn ləkdoʊn.",
+      "tokens": [
+        {
+          "word": "These",
+          "lang": "english",
+          "ipa": "ðiːz"
+        },
+        {
+          "word": "core",
+          "lang": "english",
+          "ipa": "kɔːr"
+        },
+        {
+          "word": "principles",
+          "lang": "english",
+          "ipa": "prɪnsʌpʌlz"
+        },
+        {
+          "word": "guided",
+          "lang": "english",
+          "ipa": "ɡaɪdʌd"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "approach.",
+          "lang": "english",
+          "ipa": "əpprəətʃ."
+        },
+        {
+          "word": "The",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "entire",
+          "lang": "english",
+          "ipa": "ɪntaɪɝ"
+        },
+        {
+          "word": "world",
+          "lang": "english",
+          "ipa": "wɝld"
+        },
+        {
+          "word": "was",
+          "lang": "english",
+          "ipa": "wɑːz"
+        },
+        {
+          "word": "in",
+          "lang": "english",
+          "ipa": "ɪn"
+        },
+        {
+          "word": "lockdown.",
+          "lang": "english",
+          "ipa": "ləkdoʊn."
+        }
+      ]
+    },
+    {
+      "start": 530.34,
+      "end": 532.02,
+      "text": "Global economies were collapsing.",
+      "ipa": "ɡloʊbʌl ɪkɑːnʌmiːz wɝ cəlləpsəŋ.",
+      "tokens": [
+        {
+          "word": "Global",
+          "lang": "english",
+          "ipa": "ɡloʊbʌl"
+        },
+        {
+          "word": "economies",
+          "lang": "english",
+          "ipa": "ɪkɑːnʌmiːz"
+        },
+        {
+          "word": "were",
+          "lang": "english",
+          "ipa": "wɝ"
+        },
+        {
+          "word": "collapsing.",
+          "lang": "english",
+          "ipa": "cəlləpsəŋ."
+        }
+      ]
+    },
+    {
+      "start": 534.18,
+      "end": 538.52,
+      "text": "Everyone pressured me to empty the treasury, print more currency, and flood money everywhere.",
+      "ipa": "ɛvriːwʌn prɛʃɝd miː tuː ɛmptiː t̪ʰeː triːsəry, prɪnt mɔːr cərrəncy, ʌnd flʌd mʌniː əvərywərə.",
+      "tokens": [
+        {
+          "word": "Everyone",
+          "lang": "english",
+          "ipa": "ɛvriːwʌn"
+        },
+        {
+          "word": "pressured",
+          "lang": "english",
+          "ipa": "prɛʃɝd"
+        },
+        {
+          "word": "me",
+          "lang": "english",
+          "ipa": "miː"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "empty",
+          "lang": "english",
+          "ipa": "ɛmptiː"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "treasury,",
+          "lang": "english",
+          "ipa": "triːsəry,"
+        },
+        {
+          "word": "print",
+          "lang": "english",
+          "ipa": "prɪnt"
+        },
+        {
+          "word": "more",
+          "lang": "english",
+          "ipa": "mɔːr"
+        },
+        {
+          "word": "currency,",
+          "lang": "english",
+          "ipa": "cərrəncy,"
+        },
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "flood",
+          "lang": "english",
+          "ipa": "flʌd"
+        },
+        {
+          "word": "money",
+          "lang": "english",
+          "ipa": "mʌniː"
+        },
+        {
+          "word": "everywhere.",
+          "lang": "english",
+          "ipa": "əvərywərə."
+        }
+      ]
+    },
+    {
+      "start": 538.76,
+      "end": 542.34,
+      "text": "But I decided that this was not the right economic route to follow.",
+      "ipa": "bʌt aɪ dɪsaɪdɪd ðæt ðɪs wɑːz nɑːt t̪ʰeː raɪt ɛkʌnɑːmɪk ruːt tuː fəlloʊ.",
+      "tokens": [
+        {
+          "word": "But",
+          "lang": "english",
+          "ipa": "bʌt"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "decided",
+          "lang": "english",
+          "ipa": "dɪsaɪdɪd"
+        },
+        {
+          "word": "that",
+          "lang": "english",
+          "ipa": "ðæt"
+        },
+        {
+          "word": "this",
+          "lang": "english",
+          "ipa": "ðɪs"
+        },
+        {
+          "word": "was",
+          "lang": "english",
+          "ipa": "wɑːz"
+        },
+        {
+          "word": "not",
+          "lang": "english",
+          "ipa": "nɑːt"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "right",
+          "lang": "english",
+          "ipa": "raɪt"
+        },
+        {
+          "word": "economic",
+          "lang": "english",
+          "ipa": "ɛkʌnɑːmɪk"
+        },
+        {
+          "word": "route",
+          "lang": "english",
+          "ipa": "ruːt"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "follow.",
+          "lang": "english",
+          "ipa": "fəlloʊ."
+        }
+      ]
+    },
+    {
+      "start": 543.58,
+      "end": 551.1,
+      "text": "And so instead, the path I chose, after carefully listening to experts,",
+      "ipa": "ʌnd soʊ ənstiːd, t̪ʰeː pæθ aɪ tʃəsə, æftɝ kɛrfʌliː lɪsʌnɪŋ tuː əxpərts,",
+      "tokens": [
+        {
+          "word": "And",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "so",
+          "lang": "english",
+          "ipa": "soʊ"
+        },
+        {
+          "word": "instead,",
+          "lang": "english",
+          "ipa": "ənstiːd,"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "path",
+          "lang": "english",
+          "ipa": "pæθ"
+        },
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "chose,",
+          "lang": "english",
+          "ipa": "tʃəsə,"
+        },
+        {
+          "word": "after",
+          "lang": "english",
+          "ipa": "æftɝ"
+        },
+        {
+          "word": "carefully",
+          "lang": "english",
+          "ipa": "kɛrfʌliː"
+        },
+        {
+          "word": "listening",
+          "lang": "english",
+          "ipa": "lɪsʌnɪŋ"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "experts,",
+          "lang": "english",
+          "ipa": "əxpərts,"
+        }
+      ]
+    },
+    {
+      "start": 552.1,
+      "end": 555.48,
+      "text": "understanding their opinions without opposing them,",
+      "ipa": "ʌndɝstændɪŋ ðɛr ʌpɪnjʌnz wɪθaʊt ʌpoʊzɪŋ ðəm,",
+      "tokens": [
+        {
+          "word": "understanding",
+          "lang": "english",
+          "ipa": "ʌndɝstændɪŋ"
+        },
+        {
+          "word": "their",
+          "lang": "english",
+          "ipa": "ðɛr"
+        },
+        {
+          "word": "opinions",
+          "lang": "english",
+          "ipa": "ʌpɪnjʌnz"
+        },
+        {
+          "word": "without",
+          "lang": "english",
+          "ipa": "wɪθaʊt"
+        },
+        {
+          "word": "opposing",
+          "lang": "english",
+          "ipa": "ʌpoʊzɪŋ"
+        },
+        {
+          "word": "them,",
+          "lang": "english",
+          "ipa": "ðəm,"
+        }
+      ]
+    },
+    {
+      "start": 556.66,
+      "end": 561.02,
+      "text": "and combining their advice with my own country's situation",
+      "ipa": "ʌnd kʌmbaɪnɪŋ ðɛr ædvaɪs wɪð maɪ oʊn kʌntriːz sɪtʃuːeɪʃʌn",
+      "tokens": [
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "combining",
+          "lang": "english",
+          "ipa": "kʌmbaɪnɪŋ"
+        },
+        {
+          "word": "their",
+          "lang": "english",
+          "ipa": "ðɛr"
+        },
+        {
+          "word": "advice",
+          "lang": "english",
+          "ipa": "ædvaɪs"
+        },
+        {
+          "word": "with",
+          "lang": "english",
+          "ipa": "wɪð"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "own",
+          "lang": "english",
+          "ipa": "oʊn"
+        },
+        {
+          "word": "country's",
+          "lang": "english",
+          "ipa": "kʌntriːz"
+        },
+        {
+          "word": "situation",
+          "lang": "english",
+          "ipa": "sɪtʃuːeɪʃʌn"
+        }
+      ]
+    },
+    {
+      "start": 561.02,
+      "end": 566.8,
+      "text": "and my personal experiences, created a system that worked effectively.",
+      "ipa": "ʌnd maɪ pɝsɪnɪl əxpərəəncəs, kriːeɪtʌd ʌ sɪstʌm ðæt wɝkt əffəctəvəly.",
+      "tokens": [
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "personal",
+          "lang": "english",
+          "ipa": "pɝsɪnɪl"
+        },
+        {
+          "word": "experiences,",
+          "lang": "english",
+          "ipa": "əxpərəəncəs,"
+        },
+        {
+          "word": "created",
+          "lang": "english",
+          "ipa": "kriːeɪtʌd"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "system",
+          "lang": "english",
+          "ipa": "sɪstʌm"
+        },
+        {
+          "word": "that",
+          "lang": "english",
+          "ipa": "ðæt"
+        },
+        {
+          "word": "worked",
+          "lang": "english",
+          "ipa": "wɝkt"
+        },
+        {
+          "word": "effectively.",
+          "lang": "english",
+          "ipa": "əffəctəvəly."
+        }
+      ]
+    },
+    {
+      "start": 567.36,
+      "end": 577.72,
+      "text": "As a result, when the whole world suffered from severe inflation immediately after COVID, India did not.",
+      "ipa": "æz ʌ rəsəlt, wɛn t̪ʰeː hoʊl wɝld sʌfɝd frʌm sʌvɪr ɪnfleɪʃʌn ɪmiːdiːʌtliː æftɝ cəvəd, ɪndiːʌ dɪd nət.",
+      "tokens": [
+        {
+          "word": "As",
+          "lang": "english",
+          "ipa": "æz"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "result,",
+          "lang": "english",
+          "ipa": "rəsəlt,"
+        },
+        {
+          "word": "when",
+          "lang": "english",
+          "ipa": "wɛn"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "whole",
+          "lang": "english",
+          "ipa": "hoʊl"
+        },
+        {
+          "word": "world",
+          "lang": "english",
+          "ipa": "wɝld"
+        },
+        {
+          "word": "suffered",
+          "lang": "english",
+          "ipa": "sʌfɝd"
+        },
+        {
+          "word": "from",
+          "lang": "english",
+          "ipa": "frʌm"
+        },
+        {
+          "word": "severe",
+          "lang": "english",
+          "ipa": "sʌvɪr"
+        },
+        {
+          "word": "inflation",
+          "lang": "english",
+          "ipa": "ɪnfleɪʃʌn"
+        },
+        {
+          "word": "immediately",
+          "lang": "english",
+          "ipa": "ɪmiːdiːʌtliː"
+        },
+        {
+          "word": "after",
+          "lang": "english",
+          "ipa": "æftɝ"
+        },
+        {
+          "word": "COVID,",
+          "lang": "english",
+          "ipa": "cəvəd,"
+        },
+        {
+          "word": "India",
+          "lang": "english",
+          "ipa": "ɪndiːʌ"
+        },
+        {
+          "word": "did",
+          "lang": "english",
+          "ipa": "dɪd"
+        },
+        {
+          "word": "not.",
+          "lang": "english",
+          "ipa": "nət."
+        }
+      ]
+    },
+    {
+      "start": 578.72,
+      "end": 584.34,
+      "text": "Today, my country is steadily advancing at a rapid pace,",
+      "ipa": "tədeɪ, maɪ kʌntriː ɪz stɛdʌliː ʌdvænsɪŋ æt ʌ ræpʌd pəcə,",
+      "tokens": [
+        {
+          "word": "Today,",
+          "lang": "english",
+          "ipa": "tədeɪ,"
+        },
+        {
+          "word": "my",
+          "lang": "english",
+          "ipa": "maɪ"
+        },
+        {
+          "word": "country",
+          "lang": "english",
+          "ipa": "kʌntriː"
+        },
+        {
+          "word": "is",
+          "lang": "english",
+          "ipa": "ɪz"
+        },
+        {
+          "word": "steadily",
+          "lang": "english",
+          "ipa": "stɛdʌliː"
+        },
+        {
+          "word": "advancing",
+          "lang": "english",
+          "ipa": "ʌdvænsɪŋ"
+        },
+        {
+          "word": "at",
+          "lang": "english",
+          "ipa": "æt"
+        },
+        {
+          "word": "a",
+          "lang": "english",
+          "ipa": "ʌ"
+        },
+        {
+          "word": "rapid",
+          "lang": "english",
+          "ipa": "ræpʌd"
+        },
+        {
+          "word": "pace,",
+          "lang": "english",
+          "ipa": "pəcə,"
+        }
+      ]
+    },
+    {
+      "start": 584.62,
+      "end": 587.86,
+      "text": "emerging as one of the fastest-growing major economies in the world.",
+      "ipa": "ɪmɝdʒɪŋ æz wʌn ʌv t̪ʰeː fəstəst-groʊəŋ meɪdʒɝ ɪkɑːnʌmiːz ɪn t̪ʰeː wərld.",
+      "tokens": [
+        {
+          "word": "emerging",
+          "lang": "english",
+          "ipa": "ɪmɝdʒɪŋ"
+        },
+        {
+          "word": "as",
+          "lang": "english",
+          "ipa": "æz"
+        },
+        {
+          "word": "one",
+          "lang": "english",
+          "ipa": "wʌn"
+        },
+        {
+          "word": "of",
+          "lang": "english",
+          "ipa": "ʌv"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "fastest-growing",
+          "lang": "english",
+          "ipa": "fəstəst-groʊəŋ"
+        },
+        {
+          "word": "major",
+          "lang": "english",
+          "ipa": "meɪdʒɝ"
+        },
+        {
+          "word": "economies",
+          "lang": "english",
+          "ipa": "ɪkɑːnʌmiːz"
+        },
+        {
+          "word": "in",
+          "lang": "english",
+          "ipa": "ɪn"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "world.",
+          "lang": "english",
+          "ipa": "wərld."
+        }
+      ]
+    },
+    {
+      "start": 588.34,
+      "end": 592.56,
+      "text": "The main reason is that during that crisis, with patience and discipline,",
+      "ipa": "t̪ʰeː meɪn riːzʌn ɪz ðæt dʊrɪŋ ðæt crəsəs, wɪð peɪʃʌns ʌnd dəscəplənə,",
+      "tokens": [
+        {
+          "word": "The",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "main",
+          "lang": "english",
+          "ipa": "meɪn"
+        },
+        {
+          "word": "reason",
+          "lang": "english",
+          "ipa": "riːzʌn"
+        },
+        {
+          "word": "is",
+          "lang": "english",
+          "ipa": "ɪz"
+        },
+        {
+          "word": "that",
+          "lang": "english",
+          "ipa": "ðæt"
+        },
+        {
+          "word": "during",
+          "lang": "english",
+          "ipa": "dʊrɪŋ"
+        },
+        {
+          "word": "that",
+          "lang": "english",
+          "ipa": "ðæt"
+        },
+        {
+          "word": "crisis,",
+          "lang": "english",
+          "ipa": "crəsəs,"
+        },
+        {
+          "word": "with",
+          "lang": "english",
+          "ipa": "wɪð"
+        },
+        {
+          "word": "patience",
+          "lang": "english",
+          "ipa": "peɪʃʌns"
+        },
+        {
+          "word": "and",
+          "lang": "english",
+          "ipa": "ʌnd"
+        },
+        {
+          "word": "discipline,",
+          "lang": "english",
+          "ipa": "dəscəplənə,"
+        }
+      ]
+    },
+    {
+      "start": 594.14,
+      "end": 598.04,
+      "text": "I resisted the temptation to apply every global theory blindly.",
+      "ipa": "aɪ rɪzɪstɪd t̪ʰeː tɛmteɪʃʌn tuː ʌplaɪ ɛvɝiː ɡloʊbʌl θɪriː bləndly.",
+      "tokens": [
+        {
+          "word": "I",
+          "lang": "english",
+          "ipa": "aɪ"
+        },
+        {
+          "word": "resisted",
+          "lang": "english",
+          "ipa": "rɪzɪstɪd"
+        },
+        {
+          "word": "the",
+          "lang": "roman_hindi",
+          "ipa": "t̪ʰeː"
+        },
+        {
+          "word": "temptation",
+          "lang": "english",
+          "ipa": "tɛmteɪʃʌn"
+        },
+        {
+          "word": "to",
+          "lang": "english",
+          "ipa": "tuː"
+        },
+        {
+          "word": "apply",
+          "lang": "english",
+          "ipa": "ʌplaɪ"
+        },
+        {
+          "word": "every",
+          "lang": "english",
+          "ipa": "ɛvɝiː"
+        },
+        {
+          "word": "global",
+          "lang": "english",
+          "ipa": "ɡloʊbʌl"
+        },
+        {
+          "word": "theory",
+          "lang": "english",
+          "ipa": "θɪriː"
+        },
+        {
+          "word": "blindly.",
+          "lang": "english",
+          "ipa": "bləndly."
+        }
+      ]
+    },
+    {
+      "start": 599.02,
+      "end": 599.98,
+      "text": "We didn't worry about...",
+      "ipa": "wiː dɪdʌnt wɝiː əbaʊt...",
+      "tokens": [
+        {
+          "word": "We",
+          "lang": "english",
+          "ipa": "wiː"
+        },
+        {
+          "word": "didn't",
+          "lang": "english",
+          "ipa": "dɪdʌnt"
+        },
+        {
+          "word": "worry",
+          "lang": "english",
+          "ipa": "wɝiː"
+        },
+        {
+          "word": "about...",
+          "lang": "english",
+          "ipa": "əbaʊt..."
+        }
+      ]
+    }
+  ]
+}

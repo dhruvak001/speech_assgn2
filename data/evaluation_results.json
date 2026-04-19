@@ -1,0 +1,21 @@
+{
+  "wer": {
+    "wer_en": null,
+    "wer_hi": null,
+    "wer_overall": null
+  },
+  "mcd": {
+    "value": 809.6886,
+    "target": "< 8.0",
+    "pass": false
+  },
+  "eer": {
+    "value": 45.0,
+    "target": "< 10 %",
+    "pass": false
+  },
+  "lid_switching": {
+    "n_predicted_switches": 0,
+    "no_gold": true
+  }
+}

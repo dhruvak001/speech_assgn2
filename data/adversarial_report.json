@@ -1,0 +1,10 @@
+{
+  "segment": "0.0\u20135.0s",
+  "clean_prediction": "English",
+  "clean_confidence": 0.9448,
+  "min_epsilon": 1e-05,
+  "snr_db": 100.32,
+  "attack_success": true,
+  "target_snr_constraint_db": 40.0,
+  "target_class": "English"
+}

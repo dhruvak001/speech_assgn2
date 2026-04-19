@@ -1,0 +1,7347 @@
+{
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 10.299999999999999,
+      "end": 22.84,
+      "text": " Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Whisper, Wav2Vec, CTC, transformer, code switching.",
+      "tokens": [
+        50364,
+        37196,
+        540,
+        322,
+        6218,
+        9007,
+        11,
+        389,
+        17365,
+        11,
+        376,
+        37,
+        11717,
+        11,
+        45026,
+        372,
+        6247,
+        11,
+        342,
+        8997,
+        2750,
+        11,
+        6608,
+        25423,
+        11,
+        41132,
+        610,
+        11,
+        343,
+        706,
+        17,
+        53,
+        3045,
+        11,
+        383,
+        18238,
+        11,
+        31782,
+        11,
+        3089,
+        16493,
+        13,
+        50464
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.1966891505501487,
+      "compression_ratio": 1.105263157894737,
+      "no_speech_prob": 0.8903870582580566,
+      "words": [
+        {
+          "word": " Lecture",
+          "start": 10.299999999999999,
+          "end": 11.7,
+          "probability": 0.21881136114302535,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " on",
+          "start": 11.7,
+          "end": 11.7,
+          "probability": 0.020747695118188858,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " speech",
+          "start": 11.7,
+          "end": 11.7,
+          "probability": 2.4199693143600598e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " processing,",
+          "start": 11.7,
+          "end": 11.7,
+          "probability": 0.00010787665814859793,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " HMM,",
+          "start": 11.7,
+          "end": 11.7,
+          "probability": 0.00028376400587148964,
+          "lm_log_prob": -5.948034988797646
+        },
+        {
+          "word": " MFCC,",
+          "start": 11.7,
+          "end": 19.48,
+          "probability": 0.0032418952711547413,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " cepstrum,",
+          "start": 19.48,
+          "end": 19.68,
+          "probability": 0.004556193697302054,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " stochastic,",
+          "start": 19.68,
+          "end": 22.5,
+          "probability": 0.3262155958606551,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " filterbank,",
+          "start": 22.5,
+          "end": 22.5,
+          "probability": 7.075414487189846e-06,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Whisper,",
+          "start": 22.5,
+          "end": 22.5,
+          "probability": 0.03346826825804783,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Wav2Vec,",
+          "start": 22.5,
+          "end": 22.84,
+          "probability": 0.0014761111000552774,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " CTC,",
+          "start": 22.84,
+          "end": 22.84,
+          "probability": 0.004209542355965823,
+          "lm_log_prob": -5.894402833901851
+        },
+        {
+          "word": " transformer,",
+          "start": 22.84,
+          "end": 22.84,
+          "probability": 2.8274584110477008e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " code",
+          "start": 22.84,
+          "end": 22.84,
+          "probability": 6.83337202644907e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " switching.",
+          "start": 22.84,
+          "end": 22.84,
+          "probability": 2.8979968192288652e-05,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 32.2,
+      "end": 52.5,
+      "text": " Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Whisper, Wav2Vec, CTC, transformer, code switching.",
+      "tokens": [
+        50364,
+        37196,
+        540,
+        322,
+        6218,
+        9007,
+        11,
+        389,
+        17365,
+        11,
+        376,
+        37,
+        11717,
+        11,
+        45026,
+        372,
+        6247,
+        11,
+        342,
+        8997,
+        2750,
+        11,
+        6608,
+        25423,
+        11,
+        41132,
+        610,
+        11,
+        343,
+        706,
+        17,
+        53,
+        3045,
+        11,
+        383,
+        18238,
+        11,
+        31782,
+        11,
+        3089,
+        16493,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16652743382887406,
+      "compression_ratio": 1.105263157894737,
+      "no_speech_prob": 0.9814355969429016,
+      "words": [
+        {
+          "word": " Lecture",
+          "start": 32.2,
+          "end": 32.54,
+          "probability": 0.22442678634412871,
+          "lm_log_prob": -5.894402833901851
+        },
+        {
+          "word": " on",
+          "start": 32.54,
+          "end": 32.62,
+          "probability": 0.05991353467106819,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " speech",
+          "start": 32.62,
+          "end": 32.72,
+          "probability": 2.886910442612134e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " processing,",
+          "start": 32.72,
+          "end": 32.72,
+          "probability": 0.00010097814083565027,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " HMM,",
+          "start": 33.22,
+          "end": 33.22,
+          "probability": 0.0002386201886110939,
+          "lm_log_prob": -5.948034988797646
+        },
+        {
+          "word": " MFCC,",
+          "start": 33.22,
+          "end": 49.88,
+          "probability": 0.0022935266994560757,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " cepstrum,",
+          "start": 49.88,
+          "end": 50.3,
+          "probability": 0.0038470243324960998,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " stochastic,",
+          "start": 50.3,
+          "end": 50.94,
+          "probability": 0.32894208043580875,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " filterbank,",
+          "start": 50.94,
+          "end": 50.94,
+          "probability": 6.473473149526399e-06,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Whisper,",
+          "start": 50.94,
+          "end": 50.94,
+          "probability": 0.03186393081205097,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Wav2Vec,",
+          "start": 51.18,
+          "end": 52.42,
+          "probability": 0.001209695392753929,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " CTC,",
+          "start": 52.42,
+          "end": 52.42,
+          "probability": 0.004806587880011648,
+          "lm_log_prob": -5.894402833901851
+        },
+        {
+          "word": " transformer,",
+          "start": 52.42,
+          "end": 52.44,
+          "probability": 2.153853711206466e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " code",
+          "start": 52.46,
+          "end": 52.48,
+          "probability": 6.068855873309076e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " switching.",
+          "start": 52.48,
+          "end": 52.5,
+          "probability": 2.3813794541638345e-05,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 6000,
+      "start": 66.4,
+      "end": 89.6,
+      "text": " Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, CTC, transformer, code switching.",
+      "tokens": [
+        50364,
+        37196,
+        540,
+        322,
+        6218,
+        9007,
+        11,
+        389,
+        17365,
+        11,
+        376,
+        37,
+        11717,
+        11,
+        45026,
+        372,
+        6247,
+        11,
+        342,
+        8997,
+        2750,
+        11,
+        6608,
+        25423,
+        11,
+        343,
+        706,
+        17,
+        53,
+        3045,
+        11,
+        383,
+        18238,
+        11,
+        31782,
+        11,
+        3089,
+        16493,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1691455724762707,
+      "compression_ratio": 1.0833333333333333,
+      "no_speech_prob": 0.9635837078094482,
+      "words": [
+        {
+          "word": " Lecture",
+          "start": 66.4,
+          "end": 66.94,
+          "probability": 0.2635105080708797,
+          "lm_log_prob": -5.894402833901851
+        },
+        {
+          "word": " on",
+          "start": 66.94,
+          "end": 66.96,
+          "probability": 0.040101610124111176,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " speech",
+          "start": 66.96,
+          "end": 66.98,
+          "probability": 2.5997302145697176e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " processing,",
+          "start": 66.98,
+          "end": 67.0,
+          "probability": 0.00015733095642644912,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " HMM,",
+          "start": 67.0,
+          "end": 67.0,
+          "probability": 0.0002745628007687628,
+          "lm_log_prob": -5.948034988797646
+        },
+        {
+          "word": " MFCC,",
+          "start": 67.0,
+          "end": 86.18,
+          "probability": 0.003600655938498676,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " cepstrum,",
+          "start": 86.2,
+          "end": 87.4,
+          "probability": 0.0044620638513303374,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " stochastic,",
+          "start": 87.88,
+          "end": 88.22,
+          "probability": 0.3294558836496435,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " filterbank,",
+          "start": 88.24,
+          "end": 88.26,
+          "probability": 8.361329946637852e-06,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Wav2Vec,",
+          "start": 88.58,
+          "end": 89.38,
+          "probability": 0.0007921972370240838,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " CTC,",
+          "start": 89.38,
+          "end": 89.38,
+          "probability": 0.005239006248302758,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " transformer,",
+          "start": 89.38,
+          "end": 89.38,
+          "probability": 2.4907489205361344e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " code",
+          "start": 89.38,
+          "end": 89.38,
+          "probability": 7.822331826901063e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " switching.",
+          "start": 89.38,
+          "end": 89.6,
+          "probability": 2.028406015597284e-05,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 9000,
+      "start": 94.94,
+      "end": 118.62,
+      "text": " Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching.",
+      "tokens": [
+        50364,
+        37196,
+        540,
+        322,
+        6218,
+        9007,
+        11,
+        389,
+        17365,
+        11,
+        376,
+        37,
+        11717,
+        11,
+        45026,
+        372,
+        6247,
+        11,
+        342,
+        8997,
+        2750,
+        11,
+        6608,
+        25423,
+        11,
+        343,
+        706,
+        17,
+        53,
+        3045,
+        11,
+        3089,
+        16493,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18806933032141793,
+      "compression_ratio": 1.010204081632653,
+      "no_speech_prob": 0.9511497616767883,
+      "words": [
+        {
+          "word": " Lecture",
+          "start": 94.94,
+          "end": 95.78,
+          "probability": 0.25934864086411835,
+          "lm_log_prob": -5.894402833901851
+        },
+        {
+          "word": " on",
+          "start": 95.78,
+          "end": 96.62,
+          "probability": 0.022655412554740906,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " speech",
+          "start": 96.62,
+          "end": 96.68,
+          "probability": 6.009167918819003e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " processing,",
+          "start": 96.68,
+          "end": 96.88,
+          "probability": 0.0006396857206709683,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " HMM,",
+          "start": 96.9,
+          "end": 96.94,
+          "probability": 0.00020096128355362453,
+          "lm_log_prob": -5.948034988797646
+        },
+        {
+          "word": " MFCC,",
+          "start": 97.36,
+          "end": 106.28,
+          "probability": 0.0026876740933706364,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " cepstrum,",
+          "start": 106.28,
+          "end": 107.26,
+          "probability": 0.004073186176356103,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " stochastic,",
+          "start": 107.26,
+          "end": 110.48,
+          "probability": 0.3294524304025496,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " filterbank,",
+          "start": 110.48,
+          "end": 110.56,
+          "probability": 6.251974582482944e-06,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Wav2Vec,",
+          "start": 110.74,
+          "end": 118.62,
+          "probability": 0.0006015708146151155,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " code",
+          "start": 118.62,
+          "end": 118.62,
+          "probability": 5.14697894686833e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " switching.",
+          "start": 118.62,
+          "end": 118.62,
+          "probability": 2.6981570044881664e-05,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 12000,
+      "start": 124.55999999999999,
+      "end": 149.88,
+      "text": " Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching.",
+      "tokens": [
+        50364,
+        37196,
+        540,
+        322,
+        6218,
+        9007,
+        11,
+        389,
+        17365,
+        11,
+        376,
+        37,
+        11717,
+        11,
+        45026,
+        372,
+        6247,
+        11,
+        342,
+        8997,
+        2750,
+        11,
+        6608,
+        25423,
+        11,
+        343,
+        706,
+        17,
+        53,
+        3045,
+        11,
+        3089,
+        16493,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13617587089538574,
+      "compression_ratio": 1.010204081632653,
+      "no_speech_prob": 0.9689477682113647,
+      "words": [
+        {
+          "word": " Lecture",
+          "start": 124.55999999999999,
+          "end": 125.96,
+          "probability": 0.24452300871212174,
+          "lm_log_prob": -5.894402833901851
+        },
+        {
+          "word": " on",
+          "start": 125.96,
+          "end": 125.96,
+          "probability": 0.019902417436242104,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " speech",
+          "start": 125.96,
+          "end": 125.96,
+          "probability": 8.766754035605118e-06,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " processing,",
+          "start": 125.96,
+          "end": 125.98,
+          "probability": 0.00010926270624622703,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " HMM,",
+          "start": 125.98,
+          "end": 125.98,
+          "probability": 0.0002297217070008628,
+          "lm_log_prob": -5.948034988797646
+        },
+        {
+          "word": " MFCC,",
+          "start": 127.54,
+          "end": 135.84,
+          "probability": 0.002765085354136924,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " cepstrum,",
+          "start": 135.84,
+          "end": 140.58,
+          "probability": 0.0033202350846295303,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " stochastic,",
+          "start": 140.6,
+          "end": 142.6,
+          "probability": 0.32920280840092647,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " filterbank,",
+          "start": 142.6,
+          "end": 143.32,
+          "probability": 5.6117933127097785e-06,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Wav2Vec,",
+          "start": 143.32,
+          "end": 148.98,
+          "probability": 0.0007241105369757861,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " code",
+          "start": 149.0,
+          "end": 149.52,
+          "probability": 1.919723035825882e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " switching.",
+          "start": 149.52,
+          "end": 149.88,
+          "probability": 1.6930727724684402e-05,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 15000,
+      "start": 178.88,
+      "end": 179.96,
+      "text": " Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching.",
+      "tokens": [
+        50364,
+        37196,
+        540,
+        322,
+        6218,
+        9007,
+        11,
+        389,
+        17365,
+        11,
+        376,
+        37,
+        11717,
+        11,
+        45026,
+        372,
+        6247,
+        11,
+        342,
+        8997,
+        2750,
+        11,
+        6608,
+        25423,
+        11,
+        343,
+        706,
+        17,
+        53,
+        3045,
+        11,
+        3089,
+        16493,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11197058359781902,
+      "compression_ratio": 1.010204081632653,
+      "no_speech_prob": 0.9630619883537292,
+      "words": [
+        {
+          "word": " Lecture",
+          "start": 178.88,
+          "end": 179.0,
+          "probability": 0.3344732415018541,
+          "lm_log_prob": -5.894402833901851
+        },
+        {
+          "word": " on",
+          "start": 179.0,
+          "end": 179.02,
+          "probability": 0.018889600411057472,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " speech",
+          "start": 179.02,
+          "end": 179.16,
+          "probability": 8.877716936694924e-06,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " processing,",
+          "start": 179.16,
+          "end": 179.16,
+          "probability": 3.031222331628669e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " HMM,",
+          "start": 179.16,
+          "end": 179.32,
+          "probability": 0.0002798863934003748,
+          "lm_log_prob": -5.948034988797646
+        },
+        {
+          "word": " MFCC,",
+          "start": 179.7,
+          "end": 179.7,
+          "probability": 0.002111166929050038,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " cepstrum,",
+          "start": 179.7,
+          "end": 179.72,
+          "probability": 0.0036203877501369184,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " stochastic,",
+          "start": 179.72,
+          "end": 179.78,
+          "probability": 0.33120973175391555,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " filterbank,",
+          "start": 179.78,
+          "end": 179.78,
+          "probability": 6.11279824624944e-06,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Wav2Vec,",
+          "start": 179.82,
+          "end": 179.88,
+          "probability": 0.000632491649594158,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " code",
+          "start": 179.88,
+          "end": 179.94,
+          "probability": 2.2132357116788626e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " switching.",
+          "start": 179.94,
+          "end": 179.96,
+          "probability": 1.9062048522755504e-05,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 18000,
+      "start": 188.2,
+      "end": 209.78,
+      "text": " Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching.",
+      "tokens": [
+        50364,
+        37196,
+        540,
+        322,
+        6218,
+        9007,
+        11,
+        389,
+        17365,
+        11,
+        376,
+        37,
+        11717,
+        11,
+        45026,
+        372,
+        6247,
+        11,
+        342,
+        8997,
+        2750,
+        11,
+        6608,
+        25423,
+        11,
+        343,
+        706,
+        17,
+        53,
+        3045,
+        11,
+        3089,
+        16493,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1363621022966173,
+      "compression_ratio": 1.010204081632653,
+      "no_speech_prob": 0.97962886095047,
+      "words": [
+        {
+          "word": " Lecture",
+          "start": 188.2,
+          "end": 188.76,
+          "probability": 0.4253776894011594,
+          "lm_log_prob": -5.894402833901851
+        },
+        {
+          "word": " on",
+          "start": 188.76,
+          "end": 188.76,
+          "probability": 0.0206791702657938,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " speech",
+          "start": 188.76,
+          "end": 188.76,
+          "probability": 1.2697558304353151e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " processing,",
+          "start": 188.76,
+          "end": 188.82,
+          "probability": 0.00011303882638458163,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " HMM,",
+          "start": 188.82,
+          "end": 189.02,
+          "probability": 0.00022561948571819812,
+          "lm_log_prob": -5.948034988797646
+        },
+        {
+          "word": " MFCC,",
+          "start": 190.7,
+          "end": 206.56,
+          "probability": 0.0024050928186625242,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " cepstrum,",
+          "start": 206.58,
+          "end": 207.5,
+          "probability": 0.0045529912479954264,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " stochastic,",
+          "start": 207.8,
+          "end": 208.2,
+          "probability": 0.3292285365362962,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " filterbank,",
+          "start": 208.48,
+          "end": 208.52,
+          "probability": 7.4971346748498036e-06,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Wav2Vec,",
+          "start": 209.38,
+          "end": 209.72,
+          "probability": 0.000728246261132881,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " code",
+          "start": 209.74,
+          "end": 209.76,
+          "probability": 3.322558040963486e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " switching.",
+          "start": 209.76,
+          "end": 209.78,
+          "probability": 1.7631982700549997e-05,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 21000,
+      "start": 212.92,
+      "end": 239.7,
+      "text": " Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec.",
+      "tokens": [
+        50364,
+        37196,
+        540,
+        322,
+        6218,
+        9007,
+        11,
+        389,
+        17365,
+        11,
+        376,
+        37,
+        11717,
+        11,
+        45026,
+        372,
+        6247,
+        11,
+        342,
+        8997,
+        2750,
+        11,
+        6608,
+        25423,
+        11,
+        343,
+        706,
+        17,
+        53,
+        3045,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20986759301387903,
+      "compression_ratio": 0.9880952380952381,
+      "no_speech_prob": 0.9461460113525391,
+      "words": [
+        {
+          "word": " Lecture",
+          "start": 212.92,
+          "end": 214.16,
+          "probability": 0.24288748846714725,
+          "lm_log_prob": -5.894402833901851
+        },
+        {
+          "word": " on",
+          "start": 214.16,
+          "end": 214.2,
+          "probability": 0.030370522290468216,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " speech",
+          "start": 214.2,
+          "end": 214.82,
+          "probability": 5.1498867833288386e-05,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " processing,",
+          "start": 214.82,
+          "end": 215.62,
+          "probability": 0.00041436468018218875,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " HMM,",
+          "start": 220.8,
+          "end": 222.28,
+          "probability": 0.00015853628792683594,
+          "lm_log_prob": -5.948034988797646
+        },
+        {
+          "word": " MFCC,",
+          "start": 222.28,
+          "end": 237.9,
+          "probability": 0.002699044688294331,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " cepstrum,",
+          "start": 239.22,
+          "end": 239.44,
+          "probability": 0.0045098761516631685,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " stochastic,",
+          "start": 239.58,
+          "end": 239.6,
+          "probability": 0.33133626558507484,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " filterbank,",
+          "start": 239.7,
+          "end": 239.7,
+          "probability": 7.523247631979757e-06,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Wav2Vec.",
+          "start": 239.7,
+          "end": 239.7,
+          "probability": 0.0006072840420529247,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 24000,
+      "start": 240.0,
+      "end": 249.68,
+      "text": " How do you make decisions when facing a high stakes choice with no clear precedence, a lot of uncertainty, having to balance input?",
+      "tokens": [
+        50364,
+        1012,
+        360,
+        291,
+        652,
+        5327,
+        562,
+        7170,
+        257,
+        1090,
+        28429,
+        3922,
+        365,
+        572,
+        1850,
+        16969,
+        655,
+        11,
+        257,
+        688,
+        295,
+        15697,
+        11,
+        1419,
+        281,
+        4772,
+        4846,
+        30,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3988425391060965,
+      "compression_ratio": 1.3208955223880596,
+      "no_speech_prob": 0.8964322805404663,
+      "words": [
+        {
+          "word": " How",
+          "start": 240.0,
+          "end": 240.78,
+          "probability": 0.020683716982603073,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " do",
+          "start": 240.78,
+          "end": 240.78,
+          "probability": 0.8657364845275879,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " you",
+          "start": 240.78,
+          "end": 240.78,
+          "probability": 0.9589384198188782,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " make",
+          "start": 240.78,
+          "end": 240.78,
+          "probability": 0.12838543951511383,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " decisions",
+          "start": 240.78,
+          "end": 240.78,
+          "probability": 0.8669673800468445,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " when",
+          "start": 240.78,
+          "end": 240.78,
+          "probability": 0.13437139987945557,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " facing",
+          "start": 240.78,
+          "end": 241.54,
+          "probability": 0.6491767764091492,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 241.54,
+          "end": 241.74,
+          "probability": 0.8057838082313538,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " high",
+          "start": 241.74,
+          "end": 242.0,
+          "probability": 0.9577879905700684,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " stakes",
+          "start": 242.0,
+          "end": 242.44,
+          "probability": 0.8331275582313538,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " choice",
+          "start": 242.44,
+          "end": 243.32,
+          "probability": 0.9679591655731201,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " with",
+          "start": 243.32,
+          "end": 244.56,
+          "probability": 0.4738115668296814,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " no",
+          "start": 244.56,
+          "end": 244.82,
+          "probability": 0.9623680114746094,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " clear",
+          "start": 244.82,
+          "end": 245.12,
+          "probability": 0.9827716946601868,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " precedence,",
+          "start": 245.12,
+          "end": 245.8,
+          "probability": 0.8035582602024078,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 245.98,
+          "end": 246.0,
+          "probability": 0.7302531003952026,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " lot",
+          "start": 246.0,
+          "end": 246.22,
+          "probability": 0.9942110776901245,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " of",
+          "start": 246.22,
+          "end": 246.4,
+          "probability": 0.9956814050674438,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " uncertainty,",
+          "start": 246.4,
+          "end": 247.1,
+          "probability": 0.9871913194656372,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " having",
+          "start": 248.22,
+          "end": 248.34,
+          "probability": 0.9650496244430542,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 248.34,
+          "end": 248.6,
+          "probability": 0.9370465874671936,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " balance",
+          "start": 248.6,
+          "end": 249.04,
+          "probability": 0.9969213008880615,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " input?",
+          "start": 249.04,
+          "end": 249.68,
+          "probability": 0.5865442752838135,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 24000,
+      "start": 253.32,
+      "end": 256.44,
+      "text": " There are many factors to my decision making.",
+      "tokens": [
+        50964,
+        821,
+        366,
+        867,
+        6771,
+        281,
+        452,
+        3537,
+        1455,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3988425391060965,
+      "compression_ratio": 1.3208955223880596,
+      "no_speech_prob": 0.8964322805404663,
+      "words": [
+        {
+          "word": " There",
+          "start": 253.32,
+          "end": 253.96,
+          "probability": 0.1802525520324707,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " are",
+          "start": 253.96,
+          "end": 254.18,
+          "probability": 0.9950077533721924,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " many",
+          "start": 254.18,
+          "end": 254.46,
+          "probability": 0.9945645332336426,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " factors",
+          "start": 254.46,
+          "end": 254.82,
+          "probability": 0.9955353736877441,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 254.82,
+          "end": 255.0,
+          "probability": 0.9887711405754089,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 255.0,
+          "end": 255.34,
+          "probability": 0.9830053448677063,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " decision",
+          "start": 255.34,
+          "end": 255.64,
+          "probability": 0.9931840300559998,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " making.",
+          "start": 255.64,
+          "end": 256.44,
+          "probability": 0.6742129921913147,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 25644,
+      "start": 256.44,
+      "end": 273.94,
+      "text": " First, I'm perhaps the only politician in India who has stayed overnight in around eighty-five to ninety percent of the districts across the country.",
+      "tokens": [
+        50364,
+        2386,
+        11,
+        286,
+        478,
+        4317,
+        264,
+        787,
+        26453,
+        294,
+        5282,
+        567,
+        575,
+        9181,
+        13935,
+        294,
+        926,
+        26348,
+        12,
+        18621,
+        281,
+        25063,
+        3043,
+        295,
+        264,
+        16815,
+        2108,
+        264,
+        1941,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10805591940879822,
+      "compression_ratio": 1.3766233766233766,
+      "no_speech_prob": 0.8098453283309937,
+      "words": [
+        {
+          "word": " First,",
+          "start": 256.44,
+          "end": 257.48,
+          "probability": 0.9064979553222656,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I'm",
+          "start": 259.52,
+          "end": 259.86,
+          "probability": 0.9121491312980652,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " perhaps",
+          "start": 259.86,
+          "end": 260.28,
+          "probability": 0.9926475286483765,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 260.28,
+          "end": 260.54,
+          "probability": 0.9951541423797607,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " only",
+          "start": 260.54,
+          "end": 260.86,
+          "probability": 0.9998074173927307,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " politician",
+          "start": 260.86,
+          "end": 261.52,
+          "probability": 0.9980350136756897,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " in",
+          "start": 261.52,
+          "end": 261.82,
+          "probability": 0.9995658993721008,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " India",
+          "start": 261.82,
+          "end": 262.4,
+          "probability": 0.9972986578941345,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " who",
+          "start": 262.4,
+          "end": 264.1,
+          "probability": 0.825416088104248,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " has",
+          "start": 264.1,
+          "end": 264.48,
+          "probability": 0.9987143278121948,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " stayed",
+          "start": 264.48,
+          "end": 264.72,
+          "probability": 0.9990725517272949,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " overnight",
+          "start": 264.72,
+          "end": 265.56,
+          "probability": 0.9696160554885864,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " in",
+          "start": 265.56,
+          "end": 267.74,
+          "probability": 0.9319291114807129,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " around",
+          "start": 267.74,
+          "end": 268.06,
+          "probability": 0.9962074756622314,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " eighty",
+          "start": 268.06,
+          "end": 268.56,
+          "probability": 0.4958590269088745,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": "-five",
+          "start": 268.56,
+          "end": 268.76,
+          "probability": 0.9018163681030273,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 268.76,
+          "end": 268.98,
+          "probability": 0.9942219853401184,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " ninety",
+          "start": 268.98,
+          "end": 269.36,
+          "probability": 0.9888918995857239,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " percent",
+          "start": 269.36,
+          "end": 269.74,
+          "probability": 0.9825161695480347,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " of",
+          "start": 269.74,
+          "end": 269.98,
+          "probability": 0.9985033273696899,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 269.98,
+          "end": 270.16,
+          "probability": 0.9982264637947083,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " districts",
+          "start": 270.16,
+          "end": 270.98,
+          "probability": 0.9907116293907166,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " across",
+          "start": 270.98,
+          "end": 272.76,
+          "probability": 0.9567873477935791,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 272.76,
+          "end": 273.08,
+          "probability": 0.9995693564414978,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " country.",
+          "start": 273.08,
+          "end": 273.94,
+          "probability": 0.9973350167274475,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 25644,
+      "start": 276.86,
+      "end": 280.2,
+      "text": " This was before my current role. I used to travel extensively.",
+      "tokens": [
+        51364,
+        639,
+        390,
+        949,
+        452,
+        2190,
+        3090,
+        13,
+        286,
+        1143,
+        281,
+        3147,
+        32636,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10805591940879822,
+      "compression_ratio": 1.3766233766233766,
+      "no_speech_prob": 0.8098453283309937,
+      "words": [
+        {
+          "word": " This",
+          "start": 276.86,
+          "end": 277.14,
+          "probability": 0.9944345355033875,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " was",
+          "start": 277.14,
+          "end": 277.36,
+          "probability": 0.998906135559082,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " before",
+          "start": 277.36,
+          "end": 277.66,
+          "probability": 0.9992020726203918,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 277.66,
+          "end": 277.88,
+          "probability": 0.9989156723022461,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " current",
+          "start": 277.88,
+          "end": 278.2,
+          "probability": 0.9988527297973633,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " role.",
+          "start": 278.2,
+          "end": 278.52,
+          "probability": 0.9924229979515076,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 278.56,
+          "end": 278.78,
+          "probability": 0.9987668991088867,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " used",
+          "start": 278.78,
+          "end": 279.0,
+          "probability": 0.9942652583122253,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 279.0,
+          "end": 279.26,
+          "probability": 0.9997319579124451,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " travel",
+          "start": 279.26,
+          "end": 279.48,
+          "probability": 0.999414324760437,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " extensively.",
+          "start": 279.48,
+          "end": 280.2,
+          "probability": 0.9984568357467651,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 28020,
+      "start": 282.15999999999997,
+      "end": 299.06,
+      "text": " I learned a lot from those experiences. They gave me first-hand knowledge of the ground realities and grassroots level issues, not something asked or heard or learned merely from books.",
+      "tokens": [
+        50364,
+        286,
+        3264,
+        257,
+        688,
+        490,
+        729,
+        5235,
+        13,
+        814,
+        2729,
+        385,
+        700,
+        12,
+        5543,
+        3601,
+        295,
+        264,
+        2727,
+        27785,
+        293,
+        39522,
+        1496,
+        2663,
+        11,
+        406,
+        746,
+        2351,
+        420,
+        2198,
+        420,
+        3264,
+        17003,
+        490,
+        3642,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15449018967457306,
+      "compression_ratio": 1.3602941176470589,
+      "no_speech_prob": 0.22257697582244873,
+      "words": [
+        {
+          "word": " I",
+          "start": 282.15999999999997,
+          "end": 282.84,
+          "probability": 0.9677048921585083,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " learned",
+          "start": 282.84,
+          "end": 283.12,
+          "probability": 0.9751196503639221,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 283.12,
+          "end": 283.36,
+          "probability": 0.9979648590087891,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " lot",
+          "start": 283.36,
+          "end": 283.5,
+          "probability": 0.9998039603233337,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " from",
+          "start": 283.5,
+          "end": 283.78,
+          "probability": 0.9983554482460022,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " those",
+          "start": 283.78,
+          "end": 284.12,
+          "probability": 0.9986891150474548,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " experiences.",
+          "start": 284.12,
+          "end": 284.92,
+          "probability": 0.9967892169952393,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " They",
+          "start": 286.4,
+          "end": 287.08,
+          "probability": 0.993553638458252,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " gave",
+          "start": 287.08,
+          "end": 287.36,
+          "probability": 0.9924076795578003,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " me",
+          "start": 287.36,
+          "end": 289.1,
+          "probability": 0.9994547963142395,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " first",
+          "start": 289.1,
+          "end": 289.52,
+          "probability": 0.557474672794342,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": "-hand",
+          "start": 289.52,
+          "end": 289.7,
+          "probability": 0.8068751692771912,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " knowledge",
+          "start": 289.7,
+          "end": 290.34,
+          "probability": 0.9978927969932556,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " of",
+          "start": 290.34,
+          "end": 291.24,
+          "probability": 0.9843915700912476,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 291.24,
+          "end": 291.5,
+          "probability": 0.9971066117286682,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " ground",
+          "start": 291.5,
+          "end": 291.7,
+          "probability": 0.9903649687767029,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " realities",
+          "start": 291.7,
+          "end": 292.32,
+          "probability": 0.9902219772338867,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " and",
+          "start": 292.32,
+          "end": 292.6,
+          "probability": 0.9847936034202576,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " grassroots",
+          "start": 292.6,
+          "end": 293.1,
+          "probability": 0.9042176604270935,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " level",
+          "start": 293.1,
+          "end": 293.44,
+          "probability": 0.8852519989013672,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " issues,",
+          "start": 293.44,
+          "end": 294.26,
+          "probability": 0.9978214502334595,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " not",
+          "start": 295.9,
+          "end": 296.06,
+          "probability": 0.9829034209251404,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " something",
+          "start": 296.06,
+          "end": 296.46,
+          "probability": 0.9977138042449951,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " asked",
+          "start": 296.46,
+          "end": 296.78,
+          "probability": 0.8536049723625183,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " or",
+          "start": 296.78,
+          "end": 297.08,
+          "probability": 0.8790532350540161,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " heard",
+          "start": 297.08,
+          "end": 297.28,
+          "probability": 0.9788040518760681,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " or",
+          "start": 297.28,
+          "end": 297.6,
+          "probability": 0.9736974239349365,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " learned",
+          "start": 297.6,
+          "end": 297.8,
+          "probability": 0.9456260204315186,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " merely",
+          "start": 297.8,
+          "end": 298.14,
+          "probability": 0.7950450778007507,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " from",
+          "start": 298.14,
+          "end": 298.4,
+          "probability": 0.9991034865379333,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " books.",
+          "start": 298.4,
+          "end": 299.06,
+          "probability": 0.998761773109436,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 29906,
+      "start": 300.56,
+      "end": 309.8,
+      "text": " Secondly, from a governance perspective, I carry no baggage of any kind.",
+      "tokens": [
+        50364,
+        19483,
+        11,
+        490,
+        257,
+        17449,
+        4585,
+        11,
+        286,
+        3985,
+        572,
+        41567,
+        295,
+        604,
+        733,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07311232089996338,
+      "compression_ratio": 1.2966101694915255,
+      "no_speech_prob": 0.6124269366264343,
+      "words": [
+        {
+          "word": " Secondly,",
+          "start": 300.56,
+          "end": 301.36,
+          "probability": 0.7764384150505066,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " from",
+          "start": 304.82,
+          "end": 304.9,
+          "probability": 0.8664593696594238,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 304.9,
+          "end": 305.26,
+          "probability": 0.9922122955322266,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " governance",
+          "start": 305.26,
+          "end": 305.72,
+          "probability": 0.9882954359054565,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " perspective,",
+          "start": 305.72,
+          "end": 306.46,
+          "probability": 0.9941065311431885,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 306.72,
+          "end": 306.8,
+          "probability": 0.9957428574562073,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " carry",
+          "start": 306.8,
+          "end": 307.48,
+          "probability": 0.9917764663696289,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " no",
+          "start": 307.48,
+          "end": 308.1,
+          "probability": 0.9932721257209778,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " baggage",
+          "start": 308.1,
+          "end": 308.48,
+          "probability": 0.994878888130188,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " of",
+          "start": 308.48,
+          "end": 308.8,
+          "probability": 0.9973437190055847,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " any",
+          "start": 308.8,
+          "end": 309.14,
+          "probability": 0.9993317723274231,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " kind.",
+          "start": 309.14,
+          "end": 309.8,
+          "probability": 0.9993155002593994,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 29906,
+      "start": 310.96,
+      "end": 319.36,
+      "text": " I don't carry any baggage that weighs me down or forces me to act a certain way.",
+      "tokens": [
+        50864,
+        286,
+        500,
+        380,
+        3985,
+        604,
+        41567,
+        300,
+        24911,
+        385,
+        760,
+        420,
+        5874,
+        385,
+        281,
+        605,
+        257,
+        1629,
+        636,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07311232089996338,
+      "compression_ratio": 1.2966101694915255,
+      "no_speech_prob": 0.6124269366264343,
+      "words": [
+        {
+          "word": " I",
+          "start": 310.96,
+          "end": 311.62,
+          "probability": 0.9946828484535217,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " don't",
+          "start": 311.62,
+          "end": 311.92,
+          "probability": 0.9957925379276276,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " carry",
+          "start": 311.92,
+          "end": 312.22,
+          "probability": 0.9983412027359009,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " any",
+          "start": 312.22,
+          "end": 312.6,
+          "probability": 0.9988318085670471,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " baggage",
+          "start": 312.6,
+          "end": 313.12,
+          "probability": 0.9956536293029785,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that",
+          "start": 313.12,
+          "end": 314.92,
+          "probability": 0.9336459636688232,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " weighs",
+          "start": 314.92,
+          "end": 315.14,
+          "probability": 0.9889363646507263,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " me",
+          "start": 315.14,
+          "end": 315.46,
+          "probability": 0.9990456700325012,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " down",
+          "start": 315.46,
+          "end": 315.86,
+          "probability": 0.9995421171188354,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " or",
+          "start": 315.86,
+          "end": 316.06,
+          "probability": 0.9269160628318787,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " forces",
+          "start": 316.06,
+          "end": 316.5,
+          "probability": 0.9958658218383789,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " me",
+          "start": 316.5,
+          "end": 316.82,
+          "probability": 0.9993484616279602,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 316.82,
+          "end": 317.0,
+          "probability": 0.9992820620536804,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " act",
+          "start": 317.0,
+          "end": 317.78,
+          "probability": 0.9986488223075867,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 317.78,
+          "end": 318.5,
+          "probability": 0.9892383813858032,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " certain",
+          "start": 318.5,
+          "end": 318.74,
+          "probability": 0.9998034834861755,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " way.",
+          "start": 318.74,
+          "end": 319.36,
+          "probability": 0.9997280240058899,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 31936,
+      "start": 320.42,
+      "end": 331.64,
+      "text": " Thirdly, I have a simple yardstick for decisions. My country first. I always question if what I'm doing harms my nation in any way.",
+      "tokens": [
+        50364,
+        12548,
+        356,
+        11,
+        286,
+        362,
+        257,
+        2199,
+        11682,
+        11881,
+        337,
+        5327,
+        13,
+        1222,
+        1941,
+        700,
+        13,
+        286,
+        1009,
+        1168,
+        498,
+        437,
+        286,
+        478,
+        884,
+        48505,
+        452,
+        4790,
+        294,
+        604,
+        636,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08521401254754317,
+      "compression_ratio": 1.460093896713615,
+      "no_speech_prob": 0.624331533908844,
+      "words": [
+        {
+          "word": " Thirdly,",
+          "start": 320.42,
+          "end": 321.1,
+          "probability": 0.9698126316070557,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 321.56,
+          "end": 321.7,
+          "probability": 0.9822651147842407,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " have",
+          "start": 321.7,
+          "end": 321.9,
+          "probability": 0.99687659740448,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 321.9,
+          "end": 322.08,
+          "probability": 0.9962133765220642,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " simple",
+          "start": 322.08,
+          "end": 322.46,
+          "probability": 0.9924111366271973,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " yardstick",
+          "start": 322.46,
+          "end": 322.98,
+          "probability": 0.9785670936107635,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " for",
+          "start": 322.98,
+          "end": 323.26,
+          "probability": 0.9971709847450256,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " decisions.",
+          "start": 323.26,
+          "end": 323.98,
+          "probability": 0.973270058631897,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " My",
+          "start": 326.14,
+          "end": 326.42,
+          "probability": 0.9368754029273987,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " country",
+          "start": 326.42,
+          "end": 326.88,
+          "probability": 0.9858555197715759,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " first.",
+          "start": 326.88,
+          "end": 327.46,
+          "probability": 0.9547970294952393,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 328.0,
+          "end": 328.2,
+          "probability": 0.9982284903526306,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " always",
+          "start": 328.2,
+          "end": 328.52,
+          "probability": 0.9982770681381226,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " question",
+          "start": 328.52,
+          "end": 328.92,
+          "probability": 0.9778181314468384,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " if",
+          "start": 328.92,
+          "end": 329.08,
+          "probability": 0.9862956404685974,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " what",
+          "start": 329.08,
+          "end": 329.28,
+          "probability": 0.9982336759567261,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I'm",
+          "start": 329.28,
+          "end": 329.46,
+          "probability": 0.9721998274326324,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " doing",
+          "start": 329.46,
+          "end": 329.7,
+          "probability": 0.9995403289794922,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " harms",
+          "start": 329.7,
+          "end": 330.06,
+          "probability": 0.8567025065422058,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 330.06,
+          "end": 330.4,
+          "probability": 0.9954877495765686,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " nation",
+          "start": 330.4,
+          "end": 330.68,
+          "probability": 0.9900484085083008,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " in",
+          "start": 330.68,
+          "end": 330.96,
+          "probability": 0.99565589427948,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " any",
+          "start": 330.96,
+          "end": 331.2,
+          "probability": 0.9729444980621338,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " way.",
+          "start": 331.2,
+          "end": 331.64,
+          "probability": 0.9986472725868225,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 31936,
+      "start": 333.38,
+      "end": 345.8,
+      "text": " Additionally, Mahatma Gandhi once said that if you're ever unsure when making a decision, think of the poorest person's face, remember them, and ask yourself, will this help them?",
+      "tokens": [
+        50964,
+        19927,
+        11,
+        10104,
+        267,
+        1696,
+        34717,
+        1564,
+        848,
+        300,
+        498,
+        291,
+        434,
+        1562,
+        32486,
+        562,
+        1455,
+        257,
+        3537,
+        11,
+        519,
+        295,
+        264,
+        44925,
+        954,
+        311,
+        1851,
+        11,
+        1604,
+        552,
+        11,
+        293,
+        1029,
+        1803,
+        11,
+        486,
+        341,
+        854,
+        552,
+        30,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08521401254754317,
+      "compression_ratio": 1.460093896713615,
+      "no_speech_prob": 0.624331533908844,
+      "words": [
+        {
+          "word": " Additionally,",
+          "start": 333.38,
+          "end": 333.84,
+          "probability": 0.9947150349617004,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Mahatma",
+          "start": 334.04,
+          "end": 334.38,
+          "probability": 0.9928731520970663,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Gandhi",
+          "start": 334.38,
+          "end": 334.62,
+          "probability": 0.9939014911651611,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " once",
+          "start": 334.62,
+          "end": 335.0,
+          "probability": 0.9926400184631348,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " said",
+          "start": 335.0,
+          "end": 335.38,
+          "probability": 0.9989694356918335,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that",
+          "start": 335.38,
+          "end": 336.46,
+          "probability": 0.6467872262001038,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " if",
+          "start": 336.46,
+          "end": 336.58,
+          "probability": 0.6901156902313232,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " you're",
+          "start": 336.58,
+          "end": 336.94,
+          "probability": 0.902257889509201,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " ever",
+          "start": 336.94,
+          "end": 337.14,
+          "probability": 0.997179388999939,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " unsure",
+          "start": 337.14,
+          "end": 337.54,
+          "probability": 0.9987364411354065,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " when",
+          "start": 337.54,
+          "end": 337.84,
+          "probability": 0.979215681552887,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " making",
+          "start": 337.84,
+          "end": 338.18,
+          "probability": 0.9992252588272095,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 338.18,
+          "end": 338.52,
+          "probability": 0.9977675676345825,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " decision,",
+          "start": 338.52,
+          "end": 338.92,
+          "probability": 0.9991787075996399,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " think",
+          "start": 339.5,
+          "end": 339.72,
+          "probability": 0.9242721199989319,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " of",
+          "start": 339.72,
+          "end": 339.92,
+          "probability": 0.9985717535018921,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 339.92,
+          "end": 340.12,
+          "probability": 0.9992571473121643,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " poorest",
+          "start": 340.12,
+          "end": 340.38,
+          "probability": 0.9948533177375793,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " person's",
+          "start": 340.38,
+          "end": 341.0,
+          "probability": 0.9773985743522644,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " face,",
+          "start": 341.0,
+          "end": 341.4,
+          "probability": 0.9903574585914612,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " remember",
+          "start": 341.82,
+          "end": 342.3,
+          "probability": 0.9951815009117126,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " them,",
+          "start": 342.3,
+          "end": 342.88,
+          "probability": 0.9803206920623779,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " and",
+          "start": 343.12,
+          "end": 343.4,
+          "probability": 0.9967247843742371,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " ask",
+          "start": 343.4,
+          "end": 343.68,
+          "probability": 0.9988735318183899,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " yourself,",
+          "start": 343.68,
+          "end": 344.2,
+          "probability": 0.9945918917655945,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " will",
+          "start": 344.76,
+          "end": 344.96,
+          "probability": 0.6398465037345886,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " this",
+          "start": 344.96,
+          "end": 345.22,
+          "probability": 0.9991503953933716,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " help",
+          "start": 345.22,
+          "end": 345.46,
+          "probability": 0.9991071820259094,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " them?",
+          "start": 345.46,
+          "end": 345.8,
+          "probability": 0.9976552724838257,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 34580,
+      "start": 345.8,
+      "end": 354.22,
+      "text": " Then your decision will be right. That wisdom always guides me, remembering ordinary citizens and considering how my actions affect them.",
+      "tokens": [
+        50364,
+        1396,
+        428,
+        3537,
+        486,
+        312,
+        558,
+        13,
+        663,
+        10712,
+        1009,
+        17007,
+        385,
+        11,
+        20719,
+        10547,
+        7180,
+        293,
+        8079,
+        577,
+        452,
+        5909,
+        3345,
+        552,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10152820813453804,
+      "compression_ratio": 1.4568527918781726,
+      "no_speech_prob": 0.741344690322876,
+      "words": [
+        {
+          "word": " Then",
+          "start": 345.8,
+          "end": 346.18,
+          "probability": 0.2894507944583893,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " your",
+          "start": 346.18,
+          "end": 346.38,
+          "probability": 0.9532099366188049,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " decision",
+          "start": 346.38,
+          "end": 346.78,
+          "probability": 0.9905822277069092,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " will",
+          "start": 346.78,
+          "end": 347.02,
+          "probability": 0.9823503494262695,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " be",
+          "start": 347.02,
+          "end": 347.2,
+          "probability": 0.9983940720558167,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " right.",
+          "start": 347.2,
+          "end": 347.74,
+          "probability": 0.9919415712356567,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " That",
+          "start": 348.06,
+          "end": 348.2,
+          "probability": 0.9827489852905273,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " wisdom",
+          "start": 348.2,
+          "end": 348.48,
+          "probability": 0.9978772401809692,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " always",
+          "start": 348.48,
+          "end": 348.9,
+          "probability": 0.9927967190742493,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " guides",
+          "start": 348.9,
+          "end": 349.18,
+          "probability": 0.9971330165863037,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " me,",
+          "start": 349.18,
+          "end": 350.04,
+          "probability": 0.9980713725090027,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " remembering",
+          "start": 350.44,
+          "end": 350.72,
+          "probability": 0.9690141081809998,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " ordinary",
+          "start": 350.72,
+          "end": 351.26,
+          "probability": 0.9907872080802917,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " citizens",
+          "start": 351.26,
+          "end": 351.82,
+          "probability": 0.9988585710525513,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " and",
+          "start": 351.82,
+          "end": 352.08,
+          "probability": 0.9416894316673279,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " considering",
+          "start": 352.08,
+          "end": 352.56,
+          "probability": 0.994521975517273,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " how",
+          "start": 352.56,
+          "end": 352.8,
+          "probability": 0.9978959560394287,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 352.8,
+          "end": 353.02,
+          "probability": 0.9987797141075134,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " actions",
+          "start": 353.02,
+          "end": 353.38,
+          "probability": 0.9987240433692932,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " affect",
+          "start": 353.38,
+          "end": 353.76,
+          "probability": 0.9852511882781982,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " them.",
+          "start": 353.76,
+          "end": 354.22,
+          "probability": 0.999229907989502,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 34580,
+      "start": 354.9,
+      "end": 371.24,
+      "text": " Another factor in my approach is that I'm very well connected. In my administration, my officials know this well and probably feel overwhelmed by it.",
+      "tokens": [
+        50764,
+        3996,
+        5952,
+        294,
+        452,
+        3109,
+        307,
+        300,
+        286,
+        478,
+        588,
+        731,
+        4582,
+        13,
+        682,
+        452,
+        7236,
+        11,
+        452,
+        9798,
+        458,
+        341,
+        731,
+        293,
+        1391,
+        841,
+        19042,
+        538,
+        309,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10152820813453804,
+      "compression_ratio": 1.4568527918781726,
+      "no_speech_prob": 0.741344690322876,
+      "words": [
+        {
+          "word": " Another",
+          "start": 354.9,
+          "end": 355.18,
+          "probability": 0.9903192520141602,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " factor",
+          "start": 355.18,
+          "end": 355.52,
+          "probability": 0.9991004467010498,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " in",
+          "start": 355.52,
+          "end": 355.72,
+          "probability": 0.9980823993682861,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 355.72,
+          "end": 355.96,
+          "probability": 0.9995539784431458,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " approach",
+          "start": 355.96,
+          "end": 356.44,
+          "probability": 0.9990283250808716,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " is",
+          "start": 356.44,
+          "end": 357.42,
+          "probability": 0.9269137382507324,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that",
+          "start": 357.42,
+          "end": 358.04,
+          "probability": 0.9978266358375549,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I'm",
+          "start": 358.04,
+          "end": 359.18,
+          "probability": 0.917186975479126,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " very",
+          "start": 359.18,
+          "end": 359.48,
+          "probability": 0.999077558517456,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " well",
+          "start": 359.48,
+          "end": 359.68,
+          "probability": 0.9984318614006042,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " connected.",
+          "start": 359.68,
+          "end": 360.26,
+          "probability": 0.8193350434303284,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " In",
+          "start": 360.5,
+          "end": 360.72,
+          "probability": 0.9911108016967773,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 360.72,
+          "end": 361.04,
+          "probability": 0.9991113543510437,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " administration,",
+          "start": 361.04,
+          "end": 361.78,
+          "probability": 0.9910323023796082,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 362.66,
+          "end": 362.88,
+          "probability": 0.9954171180725098,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " officials",
+          "start": 362.88,
+          "end": 363.28,
+          "probability": 0.9924229979515076,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " know",
+          "start": 363.28,
+          "end": 363.54,
+          "probability": 0.9970665574073792,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " this",
+          "start": 363.54,
+          "end": 363.88,
+          "probability": 0.9988865256309509,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " well",
+          "start": 363.88,
+          "end": 364.38,
+          "probability": 0.9951871633529663,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " and",
+          "start": 364.38,
+          "end": 366.22,
+          "probability": 0.544975757598877,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " probably",
+          "start": 366.22,
+          "end": 366.72,
+          "probability": 0.996218740940094,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " feel",
+          "start": 366.72,
+          "end": 368.56,
+          "probability": 0.9980635046958923,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " overwhelmed",
+          "start": 368.56,
+          "end": 370.0,
+          "probability": 0.9324595928192139,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " by",
+          "start": 370.0,
+          "end": 370.3,
+          "probability": 0.9963456988334656,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " it.",
+          "start": 370.3,
+          "end": 371.24,
+          "probability": 0.9455916285514832,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 37124,
+      "start": 371.24,
+      "end": 385.4,
+      "text": " By the fact that my information channels are numerous and are very active. Because of that, I receive lots of insights from various sources.",
+      "tokens": [
+        50364,
+        3146,
+        264,
+        1186,
+        300,
+        452,
+        1589,
+        9235,
+        366,
+        12546,
+        293,
+        366,
+        588,
+        4967,
+        13,
+        1436,
+        295,
+        300,
+        11,
+        286,
+        4774,
+        3195,
+        295,
+        14310,
+        490,
+        3683,
+        7139,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11046618620554606,
+      "compression_ratio": 1.5082872928176796,
+      "no_speech_prob": 0.8537277579307556,
+      "words": [
+        {
+          "word": " By",
+          "start": 371.24,
+          "end": 371.82,
+          "probability": 0.18061299622058868,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 371.82,
+          "end": 372.06,
+          "probability": 0.9982203841209412,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " fact",
+          "start": 372.06,
+          "end": 372.24,
+          "probability": 0.9996849298477173,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that",
+          "start": 372.24,
+          "end": 373.3,
+          "probability": 0.9927114248275757,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 373.3,
+          "end": 373.74,
+          "probability": 0.6732396483421326,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " information",
+          "start": 373.74,
+          "end": 374.36,
+          "probability": 0.9845890402793884,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " channels",
+          "start": 374.36,
+          "end": 374.82,
+          "probability": 0.9904071688652039,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " are",
+          "start": 374.82,
+          "end": 375.54,
+          "probability": 0.9959754347801208,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " numerous",
+          "start": 375.54,
+          "end": 376.12,
+          "probability": 0.9970837235450745,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " and",
+          "start": 376.12,
+          "end": 377.12,
+          "probability": 0.8850271105766296,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " are",
+          "start": 377.12,
+          "end": 377.34,
+          "probability": 0.6171011328697205,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " very",
+          "start": 377.34,
+          "end": 377.54,
+          "probability": 0.9992368221282959,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " active.",
+          "start": 377.54,
+          "end": 378.14,
+          "probability": 0.9993745684623718,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Because",
+          "start": 379.5,
+          "end": 379.68,
+          "probability": 0.9891439080238342,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " of",
+          "start": 379.68,
+          "end": 379.94,
+          "probability": 0.9995723366737366,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that,",
+          "start": 379.94,
+          "end": 380.36,
+          "probability": 0.999661922454834,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 380.64,
+          "end": 381.04,
+          "probability": 0.9984952211380005,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " receive",
+          "start": 381.04,
+          "end": 381.32,
+          "probability": 0.7837232947349548,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " lots",
+          "start": 381.32,
+          "end": 381.64,
+          "probability": 0.9920822381973267,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " of",
+          "start": 381.64,
+          "end": 382.42,
+          "probability": 0.9986176490783691,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " insights",
+          "start": 382.42,
+          "end": 382.96,
+          "probability": 0.9881715178489685,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " from",
+          "start": 382.96,
+          "end": 383.98,
+          "probability": 0.9795565605163574,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " various",
+          "start": 383.98,
+          "end": 384.54,
+          "probability": 0.9995207786560059,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " sources.",
+          "start": 384.54,
+          "end": 385.4,
+          "probability": 0.9988647699356079,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 37124,
+      "start": 387.34,
+      "end": 396.88,
+      "text": " So, when someone comes to brief me, that's not my only source of information. I always have additional perspectives available to me.",
+      "tokens": [
+        51164,
+        407,
+        11,
+        562,
+        1580,
+        1487,
+        281,
+        5353,
+        385,
+        11,
+        300,
+        311,
+        406,
+        452,
+        787,
+        4009,
+        295,
+        1589,
+        13,
+        286,
+        1009,
+        362,
+        4497,
+        16766,
+        2435,
+        281,
+        385,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11046618620554606,
+      "compression_ratio": 1.5082872928176796,
+      "no_speech_prob": 0.8537277579307556,
+      "words": [
+        {
+          "word": " So,",
+          "start": 387.34,
+          "end": 387.88,
+          "probability": 0.9917769432067871,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " when",
+          "start": 388.2,
+          "end": 388.48,
+          "probability": 0.9964998960494995,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " someone",
+          "start": 388.48,
+          "end": 388.78,
+          "probability": 0.9985277652740479,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " comes",
+          "start": 388.78,
+          "end": 389.08,
+          "probability": 0.9985986351966858,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 389.08,
+          "end": 389.36,
+          "probability": 0.9995414018630981,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " brief",
+          "start": 389.36,
+          "end": 389.6,
+          "probability": 0.9978474378585815,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " me,",
+          "start": 389.6,
+          "end": 390.34,
+          "probability": 0.9988018274307251,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that's",
+          "start": 391.34,
+          "end": 391.7,
+          "probability": 0.9784506559371948,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " not",
+          "start": 391.7,
+          "end": 391.88,
+          "probability": 0.9994298815727234,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 391.88,
+          "end": 392.1,
+          "probability": 0.9961632490158081,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " only",
+          "start": 392.1,
+          "end": 392.32,
+          "probability": 0.9995009899139404,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " source",
+          "start": 392.32,
+          "end": 392.54,
+          "probability": 0.9991940855979919,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " of",
+          "start": 392.54,
+          "end": 392.86,
+          "probability": 0.9994686245918274,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " information.",
+          "start": 392.86,
+          "end": 393.26,
+          "probability": 0.9995482563972473,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 393.6,
+          "end": 393.84,
+          "probability": 0.9993228912353516,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " always",
+          "start": 393.84,
+          "end": 394.1,
+          "probability": 0.9974617958068848,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " have",
+          "start": 394.1,
+          "end": 394.34,
+          "probability": 0.9986149072647095,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " additional",
+          "start": 394.34,
+          "end": 394.82,
+          "probability": 0.9989171028137207,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " perspectives",
+          "start": 394.82,
+          "end": 395.32,
+          "probability": 0.9942325949668884,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " available",
+          "start": 395.32,
+          "end": 395.82,
+          "probability": 0.9975911378860474,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 395.82,
+          "end": 396.08,
+          "probability": 0.9994649291038513,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " me.",
+          "start": 396.08,
+          "end": 396.88,
+          "probability": 0.9996812343597412,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 39688,
+      "start": 396.88,
+      "end": 406.6,
+      "text": " Another thing, I maintain a learner's mindset. Suppose I'm not familiar with something and an official explains it to me.",
+      "tokens": [
+        50364,
+        3996,
+        551,
+        11,
+        286,
+        6909,
+        257,
+        33347,
+        311,
+        12543,
+        13,
+        21360,
+        286,
+        478,
+        406,
+        4963,
+        365,
+        746,
+        293,
+        364,
+        4783,
+        13948,
+        309,
+        281,
+        385,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09291198656156466,
+      "compression_ratio": 1.4700854700854702,
+      "no_speech_prob": 0.7741415500640869,
+      "words": [
+        {
+          "word": " Another",
+          "start": 396.88,
+          "end": 397.68,
+          "probability": 0.7732374668121338,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " thing,",
+          "start": 397.68,
+          "end": 398.18,
+          "probability": 0.9980127811431885,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 398.8,
+          "end": 400.1,
+          "probability": 0.9965682029724121,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " maintain",
+          "start": 400.1,
+          "end": 400.8,
+          "probability": 0.9717085361480713,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 400.8,
+          "end": 402.04,
+          "probability": 0.9845598936080933,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " learner's",
+          "start": 402.04,
+          "end": 402.44,
+          "probability": 0.9674316346645355,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " mindset.",
+          "start": 402.44,
+          "end": 402.78,
+          "probability": 0.985325276851654,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Suppose",
+          "start": 403.22,
+          "end": 403.48,
+          "probability": 0.9925265312194824,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I'm",
+          "start": 403.48,
+          "end": 403.7,
+          "probability": 0.9777920544147491,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " not",
+          "start": 403.7,
+          "end": 403.86,
+          "probability": 0.9995181560516357,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " familiar",
+          "start": 403.86,
+          "end": 404.22,
+          "probability": 0.9994502663612366,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " with",
+          "start": 404.22,
+          "end": 404.48,
+          "probability": 0.9996023774147034,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " something",
+          "start": 404.48,
+          "end": 404.84,
+          "probability": 0.9991652965545654,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " and",
+          "start": 404.84,
+          "end": 405.2,
+          "probability": 0.7893357276916504,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " an",
+          "start": 405.2,
+          "end": 405.38,
+          "probability": 0.9470239877700806,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " official",
+          "start": 405.38,
+          "end": 405.64,
+          "probability": 0.9771305322647095,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " explains",
+          "start": 405.64,
+          "end": 406.02,
+          "probability": 0.9836094379425049,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " it",
+          "start": 406.02,
+          "end": 406.24,
+          "probability": 0.9987058639526367,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 406.24,
+          "end": 406.36,
+          "probability": 0.9991877675056458,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " me.",
+          "start": 406.36,
+          "end": 406.6,
+          "probability": 0.999278724193573,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 39688,
+      "start": 406.86,
+      "end": 412.7,
+      "text": " I approach them like a student and ask, can you clarify this? How does it work? Then what happens next and how?",
+      "tokens": [
+        50864,
+        286,
+        3109,
+        552,
+        411,
+        257,
+        3107,
+        293,
+        1029,
+        11,
+        393,
+        291,
+        17594,
+        341,
+        30,
+        1012,
+        775,
+        309,
+        589,
+        30,
+        1396,
+        437,
+        2314,
+        958,
+        293,
+        577,
+        30,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09291198656156466,
+      "compression_ratio": 1.4700854700854702,
+      "no_speech_prob": 0.7741415500640869,
+      "words": [
+        {
+          "word": " I",
+          "start": 406.86,
+          "end": 407.08,
+          "probability": 0.9989098310470581,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " approach",
+          "start": 407.08,
+          "end": 407.34,
+          "probability": 0.8332690000534058,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " them",
+          "start": 407.34,
+          "end": 407.48,
+          "probability": 0.9986302852630615,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " like",
+          "start": 407.48,
+          "end": 407.68,
+          "probability": 0.994699239730835,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 407.68,
+          "end": 407.88,
+          "probability": 0.9995074272155762,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " student",
+          "start": 407.88,
+          "end": 408.08,
+          "probability": 0.9992660880088806,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " and",
+          "start": 408.08,
+          "end": 408.32,
+          "probability": 0.9849033355712891,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " ask,",
+          "start": 408.32,
+          "end": 408.52,
+          "probability": 0.9714510440826416,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " can",
+          "start": 408.64,
+          "end": 408.78,
+          "probability": 0.49530351161956787,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " you",
+          "start": 408.78,
+          "end": 408.98,
+          "probability": 0.9995442032814026,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " clarify",
+          "start": 408.98,
+          "end": 409.34,
+          "probability": 0.9990434050559998,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " this?",
+          "start": 409.34,
+          "end": 409.64,
+          "probability": 0.9994326233863831,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " How",
+          "start": 409.8,
+          "end": 409.92,
+          "probability": 0.9934733510017395,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " does",
+          "start": 409.92,
+          "end": 410.1,
+          "probability": 0.9997431635856628,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " it",
+          "start": 410.1,
+          "end": 410.28,
+          "probability": 0.9985175728797913,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " work?",
+          "start": 410.28,
+          "end": 410.52,
+          "probability": 0.999788224697113,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Then",
+          "start": 411.0,
+          "end": 411.18,
+          "probability": 0.9914451837539673,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " what",
+          "start": 411.18,
+          "end": 411.4,
+          "probability": 0.9799684286117554,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " happens",
+          "start": 411.4,
+          "end": 411.72,
+          "probability": 0.9968095421791077,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " next",
+          "start": 411.72,
+          "end": 412.04,
+          "probability": 0.991472065448761,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " and",
+          "start": 412.04,
+          "end": 412.26,
+          "probability": 0.8457685112953186,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " how?",
+          "start": 412.26,
+          "end": 412.7,
+          "probability": 0.9983727931976318,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 39688,
+      "start": 413.34,
+      "end": 419.38,
+      "text": " And whenever I have different information, I deliberately play devil's advocate and ask challenging questions.",
+      "tokens": [
+        51164,
+        400,
+        5699,
+        286,
+        362,
+        819,
+        1589,
+        11,
+        286,
+        23506,
+        862,
+        13297,
+        311,
+        14608,
+        293,
+        1029,
+        7595,
+        1651,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09291198656156466,
+      "compression_ratio": 1.4700854700854702,
+      "no_speech_prob": 0.7741415500640869,
+      "words": [
+        {
+          "word": " And",
+          "start": 413.34,
+          "end": 413.54,
+          "probability": 0.992731511592865,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " whenever",
+          "start": 413.54,
+          "end": 413.78,
+          "probability": 0.9959557056427002,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 413.78,
+          "end": 413.98,
+          "probability": 0.9993959665298462,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " have",
+          "start": 413.98,
+          "end": 414.12,
+          "probability": 0.999175488948822,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " different",
+          "start": 414.12,
+          "end": 414.42,
+          "probability": 0.9992737174034119,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " information,",
+          "start": 414.42,
+          "end": 415.06,
+          "probability": 0.9996365308761597,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 415.52,
+          "end": 416.56,
+          "probability": 0.9991949200630188,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " deliberately",
+          "start": 416.56,
+          "end": 416.98,
+          "probability": 0.9982677698135376,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " play",
+          "start": 416.98,
+          "end": 417.26,
+          "probability": 0.7981531023979187,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " devil's",
+          "start": 417.26,
+          "end": 417.68,
+          "probability": 0.9750400483608246,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " advocate",
+          "start": 417.68,
+          "end": 417.98,
+          "probability": 0.999777615070343,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " and",
+          "start": 417.98,
+          "end": 418.22,
+          "probability": 0.9857839941978455,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " ask",
+          "start": 418.22,
+          "end": 418.36,
+          "probability": 0.9676339030265808,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " challenging",
+          "start": 418.36,
+          "end": 418.78,
+          "probability": 0.9956172704696655,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " questions.",
+          "start": 418.78,
+          "end": 419.38,
+          "probability": 0.998842716217041,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 41938,
+      "start": 420.4,
+      "end": 431.64,
+      "text": " I thoroughly analyze the issue from multiple angles, hoping that careful evaluation will yield something valuable.",
+      "tokens": [
+        50414,
+        286,
+        17987,
+        12477,
+        264,
+        2734,
+        490,
+        3866,
+        14708,
+        11,
+        7159,
+        300,
+        5026,
+        13344,
+        486,
+        11257,
+        746,
+        8263,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12786482829673618,
+      "compression_ratio": 1.4142011834319526,
+      "no_speech_prob": 0.768994927406311,
+      "words": [
+        {
+          "word": " I",
+          "start": 420.4,
+          "end": 421.2,
+          "probability": 0.720383882522583,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " thoroughly",
+          "start": 421.2,
+          "end": 421.74,
+          "probability": 0.9922803640365601,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " analyze",
+          "start": 421.74,
+          "end": 422.32,
+          "probability": 0.7026515603065491,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 422.32,
+          "end": 422.66,
+          "probability": 0.9986754059791565,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " issue",
+          "start": 422.66,
+          "end": 423.6,
+          "probability": 0.964770495891571,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " from",
+          "start": 423.6,
+          "end": 425.14,
+          "probability": 0.8905470967292786,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " multiple",
+          "start": 425.14,
+          "end": 425.66,
+          "probability": 0.9993347525596619,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " angles,",
+          "start": 425.66,
+          "end": 426.46,
+          "probability": 0.9983773231506348,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " hoping",
+          "start": 427.44,
+          "end": 427.86,
+          "probability": 0.9965710639953613,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that",
+          "start": 427.86,
+          "end": 428.22,
+          "probability": 0.9983898401260376,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " careful",
+          "start": 428.22,
+          "end": 428.56,
+          "probability": 0.9720885753631592,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " evaluation",
+          "start": 428.56,
+          "end": 429.34,
+          "probability": 0.9947413206100464,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " will",
+          "start": 429.34,
+          "end": 430.24,
+          "probability": 0.9890962243080139,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " yield",
+          "start": 430.24,
+          "end": 430.46,
+          "probability": 0.9657418131828308,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " something",
+          "start": 430.46,
+          "end": 430.86,
+          "probability": 0.9989205598831177,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " valuable.",
+          "start": 430.86,
+          "end": 431.64,
+          "probability": 0.9977745413780212,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 41938,
+      "start": 434.94,
+      "end": 445.14,
+      "text": " Then, once I converge toward a decision or action that is worth taking, I share the idea informally with like-minded people,",
+      "tokens": [
+        51114,
+        1396,
+        11,
+        1564,
+        286,
+        41881,
+        7361,
+        257,
+        3537,
+        420,
+        3069,
+        300,
+        307,
+        3163,
+        1940,
+        11,
+        286,
+        2073,
+        264,
+        1558,
+        1356,
+        379,
+        365,
+        411,
+        12,
+        23310,
+        561,
+        11,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12786482829673618,
+      "compression_ratio": 1.4142011834319526,
+      "no_speech_prob": 0.768994927406311,
+      "words": [
+        {
+          "word": " Then,",
+          "start": 434.94,
+          "end": 435.74,
+          "probability": 0.995730459690094,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " once",
+          "start": 436.76,
+          "end": 437.04,
+          "probability": 0.9872577786445618,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 437.04,
+          "end": 437.3,
+          "probability": 0.9989369511604309,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " converge",
+          "start": 437.3,
+          "end": 437.74,
+          "probability": 0.9563218951225281,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " toward",
+          "start": 437.74,
+          "end": 438.1,
+          "probability": 0.8954750895500183,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 438.1,
+          "end": 438.46,
+          "probability": 0.9749183654785156,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " decision",
+          "start": 438.46,
+          "end": 438.72,
+          "probability": 0.9993757605552673,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " or",
+          "start": 438.72,
+          "end": 439.0,
+          "probability": 0.9954147338867188,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " action",
+          "start": 439.0,
+          "end": 439.26,
+          "probability": 0.9908013939857483,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that",
+          "start": 439.26,
+          "end": 439.46,
+          "probability": 0.9878444075584412,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " is",
+          "start": 439.46,
+          "end": 439.7,
+          "probability": 0.9821043610572815,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " worth",
+          "start": 439.7,
+          "end": 439.88,
+          "probability": 0.9968373775482178,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " taking,",
+          "start": 439.88,
+          "end": 440.32,
+          "probability": 0.9955444931983948,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 440.72,
+          "end": 440.98,
+          "probability": 0.9994803071022034,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " share",
+          "start": 440.98,
+          "end": 441.18,
+          "probability": 0.9876077771186829,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 441.18,
+          "end": 441.48,
+          "probability": 0.9995023012161255,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " idea",
+          "start": 441.48,
+          "end": 441.76,
+          "probability": 0.9995905756950378,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " informally",
+          "start": 441.76,
+          "end": 442.96,
+          "probability": 0.9960436522960663,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " with",
+          "start": 442.96,
+          "end": 443.92,
+          "probability": 0.9241468906402588,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " like",
+          "start": 443.92,
+          "end": 444.18,
+          "probability": 0.9978704452514648,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": "-minded",
+          "start": 444.18,
+          "end": 444.46,
+          "probability": 0.9429708421230316,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " people,",
+          "start": 444.46,
+          "end": 445.14,
+          "probability": 0.9997183680534363,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 44514,
+      "start": 446.38,
+      "end": 453.76,
+      "text": " just to gauge their reactions and see how they respond, gathering insights and feedback before moving forward.",
+      "tokens": [
+        50414,
+        445,
+        281,
+        17924,
+        641,
+        12215,
+        293,
+        536,
+        577,
+        436,
+        4196,
+        11,
+        13519,
+        14310,
+        293,
+        5824,
+        949,
+        2684,
+        2128,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08607595761617025,
+      "compression_ratio": 1.4491978609625669,
+      "no_speech_prob": 0.005003106780350208,
+      "words": [
+        {
+          "word": " just",
+          "start": 446.38,
+          "end": 447.08,
+          "probability": 0.6023620367050171,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 447.08,
+          "end": 447.38,
+          "probability": 0.9986579418182373,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " gauge",
+          "start": 447.38,
+          "end": 447.6,
+          "probability": 0.9740831255912781,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " their",
+          "start": 447.6,
+          "end": 447.92,
+          "probability": 0.9989449381828308,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " reactions",
+          "start": 447.92,
+          "end": 448.32,
+          "probability": 0.9919571876525879,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " and",
+          "start": 448.32,
+          "end": 448.52,
+          "probability": 0.9779850244522095,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " see",
+          "start": 448.52,
+          "end": 448.7,
+          "probability": 0.9962725639343262,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " how",
+          "start": 448.7,
+          "end": 448.86,
+          "probability": 0.9994669556617737,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " they",
+          "start": 448.86,
+          "end": 449.1,
+          "probability": 0.9992528557777405,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " respond,",
+          "start": 449.1,
+          "end": 449.84,
+          "probability": 0.9976964592933655,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " gathering",
+          "start": 451.06,
+          "end": 451.36,
+          "probability": 0.9956145286560059,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " insights",
+          "start": 451.36,
+          "end": 451.78,
+          "probability": 0.986409068107605,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " and",
+          "start": 451.78,
+          "end": 452.1,
+          "probability": 0.997119665145874,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " feedback",
+          "start": 452.1,
+          "end": 452.38,
+          "probability": 0.998630702495575,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " before",
+          "start": 452.38,
+          "end": 452.76,
+          "probability": 0.9830379486083984,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " moving",
+          "start": 452.76,
+          "end": 453.06,
+          "probability": 0.9994922876358032,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " forward.",
+          "start": 453.06,
+          "end": 453.76,
+          "probability": 0.9994285702705383,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 44514,
+      "start": 456.32000000000005,
+      "end": 464.98,
+      "text": " Until finally, I have a strong conviction that my decision is right.",
+      "tokens": [
+        50914,
+        9088,
+        2721,
+        11,
+        286,
+        362,
+        257,
+        2068,
+        24837,
+        300,
+        452,
+        3537,
+        307,
+        558,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08607595761617025,
+      "compression_ratio": 1.4491978609625669,
+      "no_speech_prob": 0.005003106780350208,
+      "words": [
+        {
+          "word": " Until",
+          "start": 456.32000000000005,
+          "end": 457.02000000000004,
+          "probability": 0.9874773025512695,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " finally,",
+          "start": 457.02000000000004,
+          "end": 457.72,
+          "probability": 0.9588236212730408,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 459.26,
+          "end": 461.34,
+          "probability": 0.9953422546386719,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " have",
+          "start": 461.34,
+          "end": 461.56,
+          "probability": 0.9990801811218262,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 461.56,
+          "end": 461.82,
+          "probability": 0.9975379705429077,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " strong",
+          "start": 461.82,
+          "end": 462.06,
+          "probability": 0.9996941089630127,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " conviction",
+          "start": 462.06,
+          "end": 462.66,
+          "probability": 0.999427855014801,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that",
+          "start": 462.66,
+          "end": 463.56,
+          "probability": 0.9806237816810608,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 463.56,
+          "end": 463.9,
+          "probability": 0.9978476762771606,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " decision",
+          "start": 463.9,
+          "end": 464.26,
+          "probability": 0.9992498755455017,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " is",
+          "start": 464.26,
+          "end": 464.54,
+          "probability": 0.9992927312850952,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " right.",
+          "start": 464.54,
+          "end": 464.98,
+          "probability": 0.9996387958526611,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 44514,
+      "start": 466.22,
+      "end": 471.58,
+      "text": " This entire decision-making process doesn't actually take much time. My speed is very fast.",
+      "tokens": [
+        51364,
+        639,
+        2302,
+        3537,
+        12,
+        12402,
+        1399,
+        1177,
+        380,
+        767,
+        747,
+        709,
+        565,
+        13,
+        1222,
+        3073,
+        307,
+        588,
+        2370,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08607595761617025,
+      "compression_ratio": 1.4491978609625669,
+      "no_speech_prob": 0.005003106780350208,
+      "words": [
+        {
+          "word": " This",
+          "start": 466.22,
+          "end": 466.5,
+          "probability": 0.9971681237220764,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " entire",
+          "start": 466.5,
+          "end": 466.96,
+          "probability": 0.9996222257614136,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " decision",
+          "start": 466.96,
+          "end": 467.42,
+          "probability": 0.9994766116142273,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": "-making",
+          "start": 467.42,
+          "end": 467.7,
+          "probability": 0.771761953830719,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " process",
+          "start": 467.7,
+          "end": 468.14,
+          "probability": 0.9994121789932251,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " doesn't",
+          "start": 468.14,
+          "end": 468.46,
+          "probability": 0.996660977602005,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " actually",
+          "start": 468.46,
+          "end": 468.84,
+          "probability": 0.9973938465118408,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " take",
+          "start": 468.84,
+          "end": 469.08,
+          "probability": 0.9992426633834839,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " much",
+          "start": 469.08,
+          "end": 469.4,
+          "probability": 0.9993492960929871,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " time.",
+          "start": 469.4,
+          "end": 469.7,
+          "probability": 0.9994915723800659,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " My",
+          "start": 470.1,
+          "end": 470.4,
+          "probability": 0.998434841632843,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " speed",
+          "start": 470.4,
+          "end": 470.62,
+          "probability": 0.998842179775238,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " is",
+          "start": 470.62,
+          "end": 470.8,
+          "probability": 0.9995954632759094,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " very",
+          "start": 470.8,
+          "end": 471.16,
+          "probability": 0.9996559619903564,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " fast.",
+          "start": 471.16,
+          "end": 471.58,
+          "probability": 0.9995567202568054,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 47158,
+      "start": 471.58,
+      "end": 476.98,
+      "text": " Let me share an example. How did I make decisions during COVID?",
+      "tokens": [
+        50364,
+        961,
+        385,
+        2073,
+        364,
+        1365,
+        13,
+        1012,
+        630,
+        286,
+        652,
+        5327,
+        1830,
+        4566,
+        30,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0981370063677226,
+      "compression_ratio": 1.4553990610328638,
+      "no_speech_prob": 0.011766700074076653,
+      "words": [
+        {
+          "word": " Let",
+          "start": 471.58,
+          "end": 472.26,
+          "probability": 0.7249581813812256,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " me",
+          "start": 472.26,
+          "end": 472.42,
+          "probability": 0.9984422326087952,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " share",
+          "start": 472.42,
+          "end": 472.58,
+          "probability": 0.9936327338218689,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " an",
+          "start": 472.58,
+          "end": 472.78,
+          "probability": 0.9936643838882446,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " example.",
+          "start": 472.78,
+          "end": 473.48,
+          "probability": 0.99895179271698,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " How",
+          "start": 475.06,
+          "end": 475.3,
+          "probability": 0.9733012318611145,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " did",
+          "start": 475.3,
+          "end": 475.46,
+          "probability": 0.9941810965538025,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 475.46,
+          "end": 475.66,
+          "probability": 0.9960702657699585,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " make",
+          "start": 475.66,
+          "end": 475.82,
+          "probability": 0.9985795021057129,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " decisions",
+          "start": 475.82,
+          "end": 476.32,
+          "probability": 0.9839951395988464,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " during",
+          "start": 476.32,
+          "end": 476.64,
+          "probability": 0.9951038360595703,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " COVID?",
+          "start": 476.64,
+          "end": 476.98,
+          "probability": 0.8331454992294312,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 47158,
+      "start": 479.4,
+      "end": 486.76,
+      "text": " I had Nobel Prize winners advising me, giving countless economic examples from around the world.",
+      "tokens": [
+        50764,
+        286,
+        632,
+        24611,
+        22604,
+        17193,
+        35598,
+        385,
+        11,
+        2902,
+        19223,
+        4836,
+        5110,
+        490,
+        926,
+        264,
+        1002,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0981370063677226,
+      "compression_ratio": 1.4553990610328638,
+      "no_speech_prob": 0.011766700074076653,
+      "words": [
+        {
+          "word": " I",
+          "start": 479.4,
+          "end": 479.94,
+          "probability": 0.9952712655067444,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " had",
+          "start": 479.94,
+          "end": 480.16,
+          "probability": 0.9955806136131287,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Nobel",
+          "start": 480.16,
+          "end": 480.44,
+          "probability": 0.9934658408164978,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " Prize",
+          "start": 480.44,
+          "end": 480.72,
+          "probability": 0.8111646175384521,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " winners",
+          "start": 480.72,
+          "end": 481.08,
+          "probability": 0.9753892421722412,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " advising",
+          "start": 481.08,
+          "end": 481.56,
+          "probability": 0.9841271042823792,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " me,",
+          "start": 481.56,
+          "end": 483.3,
+          "probability": 0.9988211989402771,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " giving",
+          "start": 483.9,
+          "end": 484.12,
+          "probability": 0.9931360483169556,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " countless",
+          "start": 484.12,
+          "end": 484.64,
+          "probability": 0.9978664517402649,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " economic",
+          "start": 484.64,
+          "end": 485.24,
+          "probability": 0.9962283372879028,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " examples",
+          "start": 485.24,
+          "end": 485.68,
+          "probability": 0.9981390237808228,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " from",
+          "start": 485.68,
+          "end": 485.96,
+          "probability": 0.9950070381164551,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " around",
+          "start": 485.96,
+          "end": 486.22,
+          "probability": 0.9992357492446899,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 486.22,
+          "end": 486.44,
+          "probability": 0.9995526671409607,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " world.",
+          "start": 486.44,
+          "end": 486.76,
+          "probability": 0.9986336827278137,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 47158,
+      "start": 487.68,
+      "end": 491.26,
+      "text": " They'd say, if this country is doing this, that country did that, you should do it too.",
+      "tokens": [
+        51114,
+        814,
+        1116,
+        584,
+        11,
+        498,
+        341,
+        1941,
+        307,
+        884,
+        341,
+        11,
+        300,
+        1941,
+        630,
+        300,
+        11,
+        291,
+        820,
+        360,
+        309,
+        886,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0981370063677226,
+      "compression_ratio": 1.4553990610328638,
+      "no_speech_prob": 0.011766700074076653,
+      "words": [
+        {
+          "word": " They'd",
+          "start": 487.68,
+          "end": 487.98,
+          "probability": 0.9765428006649017,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " say,",
+          "start": 487.98,
+          "end": 488.06,
+          "probability": 0.9985848665237427,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " if",
+          "start": 488.2,
+          "end": 488.22,
+          "probability": 0.20389288663864136,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " this",
+          "start": 488.22,
+          "end": 488.38,
+          "probability": 0.9964115023612976,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " country",
+          "start": 488.38,
+          "end": 488.62,
+          "probability": 0.9989087581634521,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " is",
+          "start": 488.62,
+          "end": 488.82,
+          "probability": 0.9808791279792786,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " doing",
+          "start": 488.82,
+          "end": 489.0,
+          "probability": 0.9993101358413696,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " this,",
+          "start": 489.0,
+          "end": 489.26,
+          "probability": 0.9960833787918091,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that",
+          "start": 489.3,
+          "end": 489.5,
+          "probability": 0.9587894678115845,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " country",
+          "start": 489.5,
+          "end": 489.82,
+          "probability": 0.9987103939056396,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " did",
+          "start": 489.82,
+          "end": 490.04,
+          "probability": 0.9969456791877747,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that,",
+          "start": 490.04,
+          "end": 490.22,
+          "probability": 0.9984215497970581,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " you",
+          "start": 490.24,
+          "end": 490.42,
+          "probability": 0.9939666986465454,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " should",
+          "start": 490.42,
+          "end": 490.58,
+          "probability": 0.9993643164634705,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " do",
+          "start": 490.58,
+          "end": 490.76,
+          "probability": 0.9984827637672424,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " it",
+          "start": 490.76,
+          "end": 490.98,
+          "probability": 0.997957706451416,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " too.",
+          "start": 490.98,
+          "end": 491.26,
+          "probability": 0.781631588935852,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 47158,
+      "start": 491.9,
+      "end": 494.6,
+      "text": " Renowned economists constantly bombarded me with suggestions.",
+      "tokens": [
+        51364,
+        12883,
+        14683,
+        32431,
+        6460,
+        7851,
+        22803,
+        385,
+        365,
+        13396,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0981370063677226,
+      "compression_ratio": 1.4553990610328638,
+      "no_speech_prob": 0.011766700074076653,
+      "words": [
+        {
+          "word": " Renowned",
+          "start": 491.9,
+          "end": 492.22,
+          "probability": 0.9935627579689026,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " economists",
+          "start": 492.22,
+          "end": 492.64,
+          "probability": 0.8796567916870117,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " constantly",
+          "start": 492.64,
+          "end": 493.2,
+          "probability": 0.995317816734314,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " bombarded",
+          "start": 493.2,
+          "end": 493.64,
+          "probability": 0.9956383109092712,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " me",
+          "start": 493.64,
+          "end": 493.84,
+          "probability": 0.9972621202468872,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " with",
+          "start": 493.84,
+          "end": 494.04,
+          "probability": 0.9995399713516235,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " suggestions.",
+          "start": 494.04,
+          "end": 494.6,
+          "probability": 0.9948000907897949,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 49460,
+      "start": 494.6,
+      "end": 499.7,
+      "text": " Political parties pressured me relentlessly, urging me to spend huge amounts of money.",
+      "tokens": [
+        50364,
+        34265,
+        8265,
+        45306,
+        385,
+        34045,
+        12048,
+        11,
+        48489,
+        385,
+        281,
+        3496,
+        2603,
+        11663,
+        295,
+        1460,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07381300084731159,
+      "compression_ratio": 1.51931330472103,
+      "no_speech_prob": 0.25718173384666443,
+      "words": [
+        {
+          "word": " Political",
+          "start": 494.6,
+          "end": 495.44,
+          "probability": 0.5341354608535767,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " parties",
+          "start": 495.44,
+          "end": 495.88,
+          "probability": 0.9865157604217529,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " pressured",
+          "start": 495.88,
+          "end": 496.32,
+          "probability": 0.9913769960403442,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " me",
+          "start": 496.32,
+          "end": 496.72,
+          "probability": 0.9972910284996033,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " relentlessly,",
+          "start": 496.72,
+          "end": 497.3,
+          "probability": 0.9885639250278473,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " urging",
+          "start": 497.42,
+          "end": 497.64,
+          "probability": 0.9958763122558594,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " me",
+          "start": 497.64,
+          "end": 497.9,
+          "probability": 0.9979310035705566,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 497.9,
+          "end": 498.08,
+          "probability": 0.9964388608932495,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " spend",
+          "start": 498.08,
+          "end": 498.32,
+          "probability": 0.9940881729125977,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " huge",
+          "start": 498.32,
+          "end": 498.7,
+          "probability": 0.9962132573127747,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " amounts",
+          "start": 498.7,
+          "end": 498.98,
+          "probability": 0.9949607849121094,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " of",
+          "start": 498.98,
+          "end": 499.14,
+          "probability": 0.9987932443618774,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " money.",
+          "start": 499.14,
+          "end": 499.7,
+          "probability": 0.9992903470993042,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 49460,
+      "start": 500.32,
+      "end": 505.92,
+      "text": " But I didn't act immediately. I paused and reflected. What exactly should I do?",
+      "tokens": [
+        50614,
+        583,
+        286,
+        994,
+        380,
+        605,
+        4258,
+        13,
+        286,
+        46860,
+        293,
+        15502,
+        13,
+        708,
+        2293,
+        820,
+        286,
+        360,
+        30,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07381300084731159,
+      "compression_ratio": 1.51931330472103,
+      "no_speech_prob": 0.25718173384666443,
+      "words": [
+        {
+          "word": " But",
+          "start": 500.32,
+          "end": 500.54,
+          "probability": 0.9831869602203369,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 500.54,
+          "end": 500.66,
+          "probability": 0.973702073097229,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " didn't",
+          "start": 500.66,
+          "end": 500.88,
+          "probability": 0.9960131049156189,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " act",
+          "start": 500.88,
+          "end": 501.1,
+          "probability": 0.9982423782348633,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " immediately.",
+          "start": 501.1,
+          "end": 501.64,
+          "probability": 0.9972968697547913,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 502.12,
+          "end": 502.36,
+          "probability": 0.993399977684021,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " paused",
+          "start": 502.36,
+          "end": 502.62,
+          "probability": 0.9951463341712952,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " and",
+          "start": 502.62,
+          "end": 502.88,
+          "probability": 0.9942926168441772,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " reflected.",
+          "start": 502.88,
+          "end": 503.22,
+          "probability": 0.9953298568725586,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " What",
+          "start": 504.52,
+          "end": 504.76,
+          "probability": 0.9512201547622681,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " exactly",
+          "start": 504.76,
+          "end": 505.16,
+          "probability": 0.9921138286590576,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " should",
+          "start": 505.16,
+          "end": 505.32,
+          "probability": 0.9983651041984558,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 505.32,
+          "end": 505.46,
+          "probability": 0.9979166388511658,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " do?",
+          "start": 505.46,
+          "end": 505.92,
+          "probability": 0.9995741248130798,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 49460,
+      "start": 506.44,
+      "end": 510.18,
+      "text": " Then, considering the unique conditions of my own country, I made a clear decision.",
+      "tokens": [
+        50914,
+        1396,
+        11,
+        8079,
+        264,
+        3845,
+        4487,
+        295,
+        452,
+        1065,
+        1941,
+        11,
+        286,
+        1027,
+        257,
+        1850,
+        3537,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07381300084731159,
+      "compression_ratio": 1.51931330472103,
+      "no_speech_prob": 0.25718173384666443,
+      "words": [
+        {
+          "word": " Then,",
+          "start": 506.44,
+          "end": 506.64,
+          "probability": 0.9756914973258972,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " considering",
+          "start": 506.66,
+          "end": 507.04,
+          "probability": 0.9985218644142151,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 507.04,
+          "end": 507.32,
+          "probability": 0.998712420463562,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " unique",
+          "start": 507.32,
+          "end": 507.52,
+          "probability": 0.9984530210494995,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " conditions",
+          "start": 507.52,
+          "end": 508.02,
+          "probability": 0.9858373403549194,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " of",
+          "start": 508.02,
+          "end": 508.2,
+          "probability": 0.9948154091835022,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 508.2,
+          "end": 508.42,
+          "probability": 0.9993990659713745,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " own",
+          "start": 508.42,
+          "end": 508.6,
+          "probability": 0.9923209547996521,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " country,",
+          "start": 508.6,
+          "end": 508.88,
+          "probability": 0.9988850951194763,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 508.98,
+          "end": 509.0,
+          "probability": 0.9981204867362976,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " made",
+          "start": 509.0,
+          "end": 509.18,
+          "probability": 0.9973489046096802,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 509.18,
+          "end": 509.42,
+          "probability": 0.9978427886962891,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " clear",
+          "start": 509.42,
+          "end": 509.56,
+          "probability": 0.9973770380020142,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " decision.",
+          "start": 509.56,
+          "end": 510.18,
+          "probability": 0.9990084767341614,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 49460,
+      "start": 511.12,
+      "end": 513.54,
+      "text": " I wouldn't let the poor sleep hungry.",
+      "tokens": [
+        51164,
+        286,
+        2759,
+        380,
+        718,
+        264,
+        4716,
+        2817,
+        8067,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07381300084731159,
+      "compression_ratio": 1.51931330472103,
+      "no_speech_prob": 0.25718173384666443,
+      "words": [
+        {
+          "word": " I",
+          "start": 511.12,
+          "end": 511.68,
+          "probability": 0.9950280785560608,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " wouldn't",
+          "start": 511.68,
+          "end": 511.94,
+          "probability": 0.9980414509773254,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " let",
+          "start": 511.94,
+          "end": 512.16,
+          "probability": 0.9981799125671387,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 512.16,
+          "end": 512.42,
+          "probability": 0.9980890154838562,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " poor",
+          "start": 512.42,
+          "end": 512.62,
+          "probability": 0.9996196031570435,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " sleep",
+          "start": 512.62,
+          "end": 512.94,
+          "probability": 0.9938018918037415,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " hungry.",
+          "start": 512.94,
+          "end": 513.54,
+          "probability": 0.9987034797668457,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 49460,
+      "start": 518.22,
+      "end": 522.64,
+      "text": " I wouldn't allow social tensions to arise over basic daily needs.",
+      "tokens": [
+        51414,
+        286,
+        2759,
+        380,
+        2089,
+        2093,
+        28303,
+        281,
+        20288,
+        670,
+        3875,
+        5212,
+        2203,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07381300084731159,
+      "compression_ratio": 1.51931330472103,
+      "no_speech_prob": 0.25718173384666443,
+      "words": [
+        {
+          "word": " I",
+          "start": 518.22,
+          "end": 518.78,
+          "probability": 0.9514610767364502,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " wouldn't",
+          "start": 518.78,
+          "end": 519.34,
+          "probability": 0.7873128652572632,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " allow",
+          "start": 519.34,
+          "end": 519.62,
+          "probability": 0.997018575668335,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " social",
+          "start": 519.62,
+          "end": 520.08,
+          "probability": 0.9948334693908691,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " tensions",
+          "start": 520.08,
+          "end": 520.48,
+          "probability": 0.9808830618858337,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 520.48,
+          "end": 520.82,
+          "probability": 0.9979129433631897,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " arise",
+          "start": 520.82,
+          "end": 521.12,
+          "probability": 0.987177848815918,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " over",
+          "start": 521.12,
+          "end": 521.44,
+          "probability": 0.9963971972465515,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " basic",
+          "start": 521.44,
+          "end": 521.84,
+          "probability": 0.9866725206375122,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " daily",
+          "start": 521.84,
+          "end": 522.16,
+          "probability": 0.9403245449066162,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " needs.",
+          "start": 522.16,
+          "end": 522.64,
+          "probability": 0.9981947541236877,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 52264,
+      "start": 522.64,
+      "end": 528.44,
+      "text": " These core principles guided my approach. The entire world was in lockdown.",
+      "tokens": [
+        50364,
+        1981,
+        4965,
+        9156,
+        19663,
+        452,
+        3109,
+        13,
+        440,
+        2302,
+        1002,
+        390,
+        294,
+        17267,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10456387408368,
+      "compression_ratio": 1.5176991150442478,
+      "no_speech_prob": 0.0012123222695663571,
+      "words": [
+        {
+          "word": " These",
+          "start": 522.64,
+          "end": 523.4,
+          "probability": 0.4203837513923645,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " core",
+          "start": 523.4,
+          "end": 523.74,
+          "probability": 0.9932801127433777,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " principles",
+          "start": 523.74,
+          "end": 524.26,
+          "probability": 0.9877762794494629,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " guided",
+          "start": 524.26,
+          "end": 524.68,
+          "probability": 0.9892123937606812,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 524.68,
+          "end": 525.0,
+          "probability": 0.9989466071128845,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " approach.",
+          "start": 525.0,
+          "end": 525.62,
+          "probability": 0.9986818432807922,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " The",
+          "start": 526.7,
+          "end": 526.86,
+          "probability": 0.9968981742858887,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " entire",
+          "start": 526.86,
+          "end": 527.32,
+          "probability": 0.998590886592865,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " world",
+          "start": 527.32,
+          "end": 527.54,
+          "probability": 0.9973424077033997,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " was",
+          "start": 527.54,
+          "end": 527.8,
+          "probability": 0.9990600943565369,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " in",
+          "start": 527.8,
+          "end": 527.94,
+          "probability": 0.99854576587677,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " lockdown.",
+          "start": 527.94,
+          "end": 528.44,
+          "probability": 0.9661446809768677,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 52264,
+      "start": 530.34,
+      "end": 532.02,
+      "text": " Global economies were collapsing.",
+      "tokens": [
+        50714,
+        14465,
+        23158,
+        645,
+        45339,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10456387408368,
+      "compression_ratio": 1.5176991150442478,
+      "no_speech_prob": 0.0012123222695663571,
+      "words": [
+        {
+          "word": " Global",
+          "start": 530.34,
+          "end": 530.68,
+          "probability": 0.9937445521354675,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " economies",
+          "start": 530.68,
+          "end": 531.2,
+          "probability": 0.9980717301368713,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " were",
+          "start": 531.2,
+          "end": 531.5,
+          "probability": 0.9977658987045288,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " collapsing.",
+          "start": 531.5,
+          "end": 532.02,
+          "probability": 0.9990406632423401,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 52264,
+      "start": 534.18,
+      "end": 538.52,
+      "text": " Everyone pressured me to empty the treasury, print more currency, and flood money everywhere.",
+      "tokens": [
+        50914,
+        5198,
+        45306,
+        385,
+        281,
+        6707,
+        264,
+        47213,
+        11,
+        4482,
+        544,
+        13346,
+        11,
+        293,
+        10481,
+        1460,
+        5315,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10456387408368,
+      "compression_ratio": 1.5176991150442478,
+      "no_speech_prob": 0.0012123222695663571,
+      "words": [
+        {
+          "word": " Everyone",
+          "start": 534.18,
+          "end": 534.5,
+          "probability": 0.9960101842880249,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " pressured",
+          "start": 534.5,
+          "end": 534.88,
+          "probability": 0.9975614547729492,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " me",
+          "start": 534.88,
+          "end": 535.1,
+          "probability": 0.9990466237068176,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 535.1,
+          "end": 535.24,
+          "probability": 0.9990724325180054,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " empty",
+          "start": 535.24,
+          "end": 535.48,
+          "probability": 0.9986095428466797,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 535.48,
+          "end": 535.76,
+          "probability": 0.9989012479782104,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " treasury,",
+          "start": 535.76,
+          "end": 536.14,
+          "probability": 0.8402729034423828,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " print",
+          "start": 536.5,
+          "end": 536.66,
+          "probability": 0.9992577433586121,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " more",
+          "start": 536.66,
+          "end": 536.92,
+          "probability": 0.9988294243812561,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " currency,",
+          "start": 536.92,
+          "end": 537.32,
+          "probability": 0.9977242350578308,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " and",
+          "start": 537.48,
+          "end": 537.62,
+          "probability": 0.9960681200027466,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " flood",
+          "start": 537.62,
+          "end": 537.74,
+          "probability": 0.9972558617591858,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " money",
+          "start": 537.74,
+          "end": 538.08,
+          "probability": 0.996969997882843,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " everywhere.",
+          "start": 538.08,
+          "end": 538.52,
+          "probability": 0.9983547329902649,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 52264,
+      "start": 538.76,
+      "end": 542.34,
+      "text": " But I decided that this was not the right economic route to follow.",
+      "tokens": [
+        51164,
+        583,
+        286,
+        3047,
+        300,
+        341,
+        390,
+        406,
+        264,
+        558,
+        4836,
+        7955,
+        281,
+        1524,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10456387408368,
+      "compression_ratio": 1.5176991150442478,
+      "no_speech_prob": 0.0012123222695663571,
+      "words": [
+        {
+          "word": " But",
+          "start": 538.76,
+          "end": 538.96,
+          "probability": 0.9956041574478149,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 538.96,
+          "end": 539.22,
+          "probability": 0.9786179065704346,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " decided",
+          "start": 539.22,
+          "end": 539.62,
+          "probability": 0.9993970394134521,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that",
+          "start": 539.62,
+          "end": 539.88,
+          "probability": 0.9865998029708862,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " this",
+          "start": 539.88,
+          "end": 540.1,
+          "probability": 0.9961161613464355,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " was",
+          "start": 540.1,
+          "end": 540.34,
+          "probability": 0.998594343662262,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " not",
+          "start": 540.34,
+          "end": 540.52,
+          "probability": 0.9990886449813843,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 540.52,
+          "end": 540.72,
+          "probability": 0.9989927411079407,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " right",
+          "start": 540.72,
+          "end": 540.94,
+          "probability": 0.9937928915023804,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " economic",
+          "start": 540.94,
+          "end": 541.46,
+          "probability": 0.9983591437339783,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " route",
+          "start": 541.46,
+          "end": 541.7,
+          "probability": 0.9957855343818665,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 541.7,
+          "end": 542.0,
+          "probability": 0.9994327425956726,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " follow.",
+          "start": 542.0,
+          "end": 542.34,
+          "probability": 0.9996776580810547,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 52264,
+      "start": 543.58,
+      "end": 551.1,
+      "text": " And so instead, the path I chose, after carefully listening to experts,",
+      "tokens": [
+        51414,
+        400,
+        370,
+        2602,
+        11,
+        264,
+        3100,
+        286,
+        5111,
+        11,
+        934,
+        7500,
+        4764,
+        281,
+        8572,
+        11,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10456387408368,
+      "compression_ratio": 1.5176991150442478,
+      "no_speech_prob": 0.0012123222695663571,
+      "words": [
+        {
+          "word": " And",
+          "start": 543.58,
+          "end": 543.78,
+          "probability": 0.9811283349990845,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " so",
+          "start": 543.78,
+          "end": 543.98,
+          "probability": 0.9899156093597412,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " instead,",
+          "start": 543.98,
+          "end": 544.5,
+          "probability": 0.84140944480896,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 545.38,
+          "end": 545.52,
+          "probability": 0.9976204037666321,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " path",
+          "start": 545.52,
+          "end": 545.76,
+          "probability": 0.9990947246551514,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " I",
+          "start": 545.76,
+          "end": 546.08,
+          "probability": 0.9979115128517151,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " chose,",
+          "start": 546.08,
+          "end": 546.84,
+          "probability": 0.9886389970779419,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " after",
+          "start": 548.72,
+          "end": 549.1,
+          "probability": 0.9907364249229431,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " carefully",
+          "start": 549.1,
+          "end": 549.52,
+          "probability": 0.9988105297088623,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " listening",
+          "start": 549.52,
+          "end": 549.98,
+          "probability": 0.9993005990982056,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 549.98,
+          "end": 550.24,
+          "probability": 0.9997673630714417,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " experts,",
+          "start": 550.24,
+          "end": 551.1,
+          "probability": 0.9984499216079712,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 55110,
+      "start": 552.1,
+      "end": 555.48,
+      "text": " understanding their opinions without opposing them,",
+      "tokens": [
+        50414,
+        3701,
+        641,
+        11819,
+        1553,
+        27890,
+        552,
+        11,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09087298280101712,
+      "compression_ratio": 1.4517766497461928,
+      "no_speech_prob": 0.0010629097232595086,
+      "words": [
+        {
+          "word": " understanding",
+          "start": 552.1,
+          "end": 552.8,
+          "probability": 0.8006277680397034,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " their",
+          "start": 552.8,
+          "end": 553.1,
+          "probability": 0.9948830604553223,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " opinions",
+          "start": 553.1,
+          "end": 553.6,
+          "probability": 0.9931120276451111,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " without",
+          "start": 553.6,
+          "end": 553.94,
+          "probability": 0.9822931885719299,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " opposing",
+          "start": 553.94,
+          "end": 554.38,
+          "probability": 0.9952066540718079,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " them,",
+          "start": 554.38,
+          "end": 555.48,
+          "probability": 0.9985671043395996,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 55110,
+      "start": 556.66,
+      "end": 561.02,
+      "text": " and combining their advice with my own country's situation",
+      "tokens": [
+        50564,
+        293,
+        21928,
+        641,
+        5192,
+        365,
+        452,
+        1065,
+        1941,
+        311,
+        2590,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09087298280101712,
+      "compression_ratio": 1.4517766497461928,
+      "no_speech_prob": 0.0010629097232595086,
+      "words": [
+        {
+          "word": " and",
+          "start": 556.66,
+          "end": 557.54,
+          "probability": 0.9862995743751526,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " combining",
+          "start": 557.54,
+          "end": 558.26,
+          "probability": 0.9836751818656921,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " their",
+          "start": 558.26,
+          "end": 558.64,
+          "probability": 0.9989455342292786,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " advice",
+          "start": 558.64,
+          "end": 559.06,
+          "probability": 0.9957762360572815,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " with",
+          "start": 559.06,
+          "end": 559.28,
+          "probability": 0.9983556866645813,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 559.28,
+          "end": 559.56,
+          "probability": 0.9990944862365723,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " own",
+          "start": 559.56,
+          "end": 559.8,
+          "probability": 0.9958935976028442,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " country's",
+          "start": 559.8,
+          "end": 560.32,
+          "probability": 0.872177392244339,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " situation",
+          "start": 560.32,
+          "end": 561.02,
+          "probability": 0.996291995048523,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 55110,
+      "start": 561.02,
+      "end": 566.8,
+      "text": " and my personal experiences, created a system that worked effectively.",
+      "tokens": [
+        50864,
+        293,
+        452,
+        2973,
+        5235,
+        11,
+        2942,
+        257,
+        1185,
+        300,
+        2732,
+        8659,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09087298280101712,
+      "compression_ratio": 1.4517766497461928,
+      "no_speech_prob": 0.0010629097232595086,
+      "words": [
+        {
+          "word": " and",
+          "start": 561.02,
+          "end": 561.72,
+          "probability": 0.5610970854759216,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 561.72,
+          "end": 562.02,
+          "probability": 0.9985941052436829,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " personal",
+          "start": 562.02,
+          "end": 562.5,
+          "probability": 0.9981687068939209,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " experiences,",
+          "start": 562.5,
+          "end": 563.44,
+          "probability": 0.9881941080093384,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " created",
+          "start": 564.16,
+          "end": 564.66,
+          "probability": 0.9935917258262634,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 564.66,
+          "end": 564.96,
+          "probability": 0.9369903206825256,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " system",
+          "start": 564.96,
+          "end": 565.3,
+          "probability": 0.9997722506523132,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that",
+          "start": 565.3,
+          "end": 565.66,
+          "probability": 0.9989908337593079,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " worked",
+          "start": 565.66,
+          "end": 565.92,
+          "probability": 0.9950372576713562,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " effectively.",
+          "start": 565.92,
+          "end": 566.8,
+          "probability": 0.9947881698608398,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 55110,
+      "start": 567.36,
+      "end": 577.72,
+      "text": " As a result, when the whole world suffered from severe inflation immediately after COVID, India did not.",
+      "tokens": [
+        51164,
+        1018,
+        257,
+        1874,
+        11,
+        562,
+        264,
+        1379,
+        1002,
+        12770,
+        490,
+        8922,
+        15860,
+        4258,
+        934,
+        4566,
+        11,
+        5282,
+        630,
+        406,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09087298280101712,
+      "compression_ratio": 1.4517766497461928,
+      "no_speech_prob": 0.0010629097232595086,
+      "words": [
+        {
+          "word": " As",
+          "start": 567.36,
+          "end": 567.68,
+          "probability": 0.9950255751609802,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 567.68,
+          "end": 567.9,
+          "probability": 0.998751163482666,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " result,",
+          "start": 567.9,
+          "end": 568.42,
+          "probability": 0.999195396900177,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " when",
+          "start": 570.04,
+          "end": 570.18,
+          "probability": 0.9930065870285034,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 570.18,
+          "end": 570.42,
+          "probability": 0.999544084072113,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " whole",
+          "start": 570.42,
+          "end": 570.72,
+          "probability": 0.9985958933830261,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " world",
+          "start": 570.72,
+          "end": 571.02,
+          "probability": 0.9988430738449097,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " suffered",
+          "start": 571.02,
+          "end": 571.46,
+          "probability": 0.9969589710235596,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " from",
+          "start": 571.46,
+          "end": 571.82,
+          "probability": 0.9987474679946899,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " severe",
+          "start": 571.82,
+          "end": 572.1,
+          "probability": 0.9962483048439026,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " inflation",
+          "start": 572.1,
+          "end": 572.86,
+          "probability": 0.9985892176628113,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " immediately",
+          "start": 572.86,
+          "end": 573.96,
+          "probability": 0.5716084837913513,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " after",
+          "start": 573.96,
+          "end": 574.34,
+          "probability": 0.9943048357963562,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " COVID,",
+          "start": 574.34,
+          "end": 574.92,
+          "probability": 0.8368261456489563,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " India",
+          "start": 576.3,
+          "end": 576.74,
+          "probability": 0.9982865452766418,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " did",
+          "start": 576.74,
+          "end": 577.18,
+          "probability": 0.9969125986099243,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " not.",
+          "start": 577.18,
+          "end": 577.72,
+          "probability": 0.9994115829467773,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 57772,
+      "start": 578.72,
+      "end": 584.34,
+      "text": " Today, my country is steadily advancing at a rapid pace,",
+      "tokens": [
+        50364,
+        2692,
+        11,
+        452,
+        1941,
+        307,
+        36129,
+        27267,
+        412,
+        257,
+        7558,
+        11638,
+        11,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11678754261561802,
+      "compression_ratio": 1.4845360824742269,
+      "no_speech_prob": 0.057560358196496964,
+      "words": [
+        {
+          "word": " Today,",
+          "start": 578.72,
+          "end": 579.36,
+          "probability": 0.7957198023796082,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " my",
+          "start": 581.74,
+          "end": 581.84,
+          "probability": 0.9590612649917603,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " country",
+          "start": 581.84,
+          "end": 582.16,
+          "probability": 0.9985997080802917,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " is",
+          "start": 582.16,
+          "end": 582.44,
+          "probability": 0.9917505383491516,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " steadily",
+          "start": 582.44,
+          "end": 582.68,
+          "probability": 0.9951920509338379,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " advancing",
+          "start": 582.68,
+          "end": 583.16,
+          "probability": 0.9953528642654419,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " at",
+          "start": 583.16,
+          "end": 583.4,
+          "probability": 0.9953336119651794,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " a",
+          "start": 583.4,
+          "end": 583.54,
+          "probability": 0.9167160391807556,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " rapid",
+          "start": 583.54,
+          "end": 583.8,
+          "probability": 0.9983310103416443,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " pace,",
+          "start": 583.8,
+          "end": 584.34,
+          "probability": 0.9971293807029724,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 57772,
+      "start": 584.62,
+      "end": 587.86,
+      "text": " emerging as one of the fastest-growing major economies in the world.",
+      "tokens": [
+        50664,
+        14989,
+        382,
+        472,
+        295,
+        264,
+        14573,
+        12,
+        861,
+        9637,
+        2563,
+        23158,
+        294,
+        264,
+        1002,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11678754261561802,
+      "compression_ratio": 1.4845360824742269,
+      "no_speech_prob": 0.057560358196496964,
+      "words": [
+        {
+          "word": " emerging",
+          "start": 584.62,
+          "end": 584.92,
+          "probability": 0.9973694086074829,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " as",
+          "start": 584.92,
+          "end": 585.16,
+          "probability": 0.9811320900917053,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " one",
+          "start": 585.16,
+          "end": 585.36,
+          "probability": 0.9975162744522095,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " of",
+          "start": 585.36,
+          "end": 585.48,
+          "probability": 0.9974457025527954,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 585.48,
+          "end": 585.62,
+          "probability": 0.9984316229820251,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " fastest",
+          "start": 585.62,
+          "end": 586.0,
+          "probability": 0.9970364570617676,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": "-growing",
+          "start": 586.0,
+          "end": 586.34,
+          "probability": 0.7761502464612325,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " major",
+          "start": 586.34,
+          "end": 586.68,
+          "probability": 0.9869215488433838,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " economies",
+          "start": 586.68,
+          "end": 587.12,
+          "probability": 0.9991538524627686,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " in",
+          "start": 587.12,
+          "end": 587.36,
+          "probability": 0.9965144991874695,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 587.36,
+          "end": 587.5,
+          "probability": 0.999566376209259,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " world.",
+          "start": 587.5,
+          "end": 587.86,
+          "probability": 0.9988417029380798,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 57772,
+      "start": 588.34,
+      "end": 592.56,
+      "text": " The main reason is that during that crisis, with patience and discipline,",
+      "tokens": [
+        50864,
+        440,
+        2135,
+        1778,
+        307,
+        300,
+        1830,
+        300,
+        5869,
+        11,
+        365,
+        14826,
+        293,
+        13635,
+        11,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11678754261561802,
+      "compression_ratio": 1.4845360824742269,
+      "no_speech_prob": 0.057560358196496964,
+      "words": [
+        {
+          "word": " The",
+          "start": 588.34,
+          "end": 588.52,
+          "probability": 0.9940699338912964,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " main",
+          "start": 588.52,
+          "end": 588.74,
+          "probability": 0.9989519119262695,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " reason",
+          "start": 588.74,
+          "end": 589.1,
+          "probability": 0.999263346195221,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " is",
+          "start": 589.1,
+          "end": 589.32,
+          "probability": 0.9956121444702148,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that",
+          "start": 589.32,
+          "end": 589.48,
+          "probability": 0.9927145838737488,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " during",
+          "start": 589.48,
+          "end": 589.76,
+          "probability": 0.8712328672409058,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " that",
+          "start": 589.76,
+          "end": 590.0,
+          "probability": 0.9931976795196533,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " crisis,",
+          "start": 590.0,
+          "end": 590.56,
+          "probability": 0.9981639981269836,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " with",
+          "start": 591.1,
+          "end": 591.38,
+          "probability": 0.997218132019043,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " patience",
+          "start": 591.38,
+          "end": 591.76,
+          "probability": 0.9955594539642334,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " and",
+          "start": 591.76,
+          "end": 592.08,
+          "probability": 0.9980237483978271,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " discipline,",
+          "start": 592.08,
+          "end": 592.56,
+          "probability": 0.9987906813621521,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 57772,
+      "start": 594.14,
+      "end": 598.04,
+      "text": " I resisted the temptation to apply every global theory blindly.",
+      "tokens": [
+        51114,
+        286,
+        4597,
+        292,
+        264,
+        30423,
+        281,
+        3079,
+        633,
+        4338,
+        5261,
+        47744,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11678754261561802,
+      "compression_ratio": 1.4845360824742269,
+      "no_speech_prob": 0.057560358196496964,
+      "words": [
+        {
+          "word": " I",
+          "start": 594.14,
+          "end": 594.38,
+          "probability": 0.9982006549835205,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " resisted",
+          "start": 594.38,
+          "end": 595.02,
+          "probability": 0.9983982741832733,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " the",
+          "start": 595.02,
+          "end": 595.18,
+          "probability": 0.9984273910522461,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " temptation",
+          "start": 595.18,
+          "end": 595.66,
+          "probability": 0.9991791844367981,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " to",
+          "start": 595.66,
+          "end": 595.98,
+          "probability": 0.9992990493774414,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " apply",
+          "start": 595.98,
+          "end": 596.34,
+          "probability": 0.9985753297805786,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " every",
+          "start": 596.34,
+          "end": 596.76,
+          "probability": 0.9973393082618713,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " global",
+          "start": 596.76,
+          "end": 597.12,
+          "probability": 0.995505690574646,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " theory",
+          "start": 597.12,
+          "end": 597.52,
+          "probability": 0.9984644651412964,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " blindly.",
+          "start": 597.52,
+          "end": 598.04,
+          "probability": 0.9788909554481506,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 57772,
+      "start": 599.02,
+      "end": 599.98,
+      "text": " We didn't worry about...",
+      "tokens": [
+        51364,
+        492,
+        994,
+        380,
+        3292,
+        466,
+        485,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11678754261561802,
+      "compression_ratio": 1.4845360824742269,
+      "no_speech_prob": 0.057560358196496964,
+      "words": [
+        {
+          "word": " We",
+          "start": 599.02,
+          "end": 599.34,
+          "probability": 0.9861641526222229,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " didn't",
+          "start": 599.34,
+          "end": 599.66,
+          "probability": 0.9979026317596436,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " worry",
+          "start": 599.66,
+          "end": 599.98,
+          "probability": 0.9825947880744934,
+          "lm_log_prob": -5.83773044682294
+        },
+        {
+          "word": " about...",
+          "start": 599.98,
+          "end": 599.98,
+          "probability": 0.3685724511742592,
+          "lm_log_prob": -5.83773044682294
+        }
+      ]
+    }
+  ],
+  "full_text": "Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Whisper, Wav2Vec, CTC, transformer, code switching. Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Whisper, Wav2Vec, CTC, transformer, code switching. Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, CTC, transformer, code switching. Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching. Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching. Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching. Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec, code switching. Lecture on speech processing, HMM, MFCC, cepstrum, stochastic, filterbank, Wav2Vec. How do you make decisions when facing a high stakes choice with no clear precedence, a lot of uncertainty, having to balance input? There are many factors to my decision making. First, I'm perhaps the only politician in India who has stayed overnight in around eighty-five to ninety percent of the districts across the country. This was before my current role. I used to travel extensively. I learned a lot from those experiences. They gave me first-hand knowledge of the ground realities and grassroots level issues, not something asked or heard or learned merely from books. Secondly, from a governance perspective, I carry no baggage of any kind. I don't carry any baggage that weighs me down or forces me to act a certain way. Thirdly, I have a simple yardstick for decisions. My country first. I always question if what I'm doing harms my nation in any way. Additionally, Mahatma Gandhi once said that if you're ever unsure when making a decision, think of the poorest person's face, remember them, and ask yourself, will this help them? Then your decision will be right. That wisdom always guides me, remembering ordinary citizens and considering how my actions affect them. Another factor in my approach is that I'm very well connected. In my administration, my officials know this well and probably feel overwhelmed by it. By the fact that my information channels are numerous and are very active. Because of that, I receive lots of insights from various sources. So, when someone comes to brief me, that's not my only source of information. I always have additional perspectives available to me. Another thing, I maintain a learner's mindset. Suppose I'm not familiar with something and an official explains it to me. I approach them like a student and ask, can you clarify this? How does it work? Then what happens next and how? And whenever I have different information, I deliberately play devil's advocate and ask challenging questions. I thoroughly analyze the issue from multiple angles, hoping that careful evaluation will yield something valuable. Then, once I converge toward a decision or action that is worth taking, I share the idea informally with like-minded people, just to gauge their reactions and see how they respond, gathering insights and feedback before moving forward. Until finally, I have a strong conviction that my decision is right. This entire decision-making process doesn't actually take much time. My speed is very fast. Let me share an example. How did I make decisions during COVID? I had Nobel Prize winners advising me, giving countless economic examples from around the world. They'd say, if this country is doing this, that country did that, you should do it too. Renowned economists constantly bombarded me with suggestions. Political parties pressured me relentlessly, urging me to spend huge amounts of money. But I didn't act immediately. I paused and reflected. What exactly should I do? Then, considering the unique conditions of my own country, I made a clear decision. I wouldn't let the poor sleep hungry. I wouldn't allow social tensions to arise over basic daily needs. These core principles guided my approach. The entire world was in lockdown. Global economies were collapsing. Everyone pressured me to empty the treasury, print more currency, and flood money everywhere. But I decided that this was not the right economic route to follow. And so instead, the path I chose, after carefully listening to experts, understanding their opinions without opposing them, and combining their advice with my own country's situation and my personal experiences, created a system that worked effectively. As a result, when the whole world suffered from severe inflation immediately after COVID, India did not. Today, my country is steadily advancing at a rapid pace, emerging as one of the fastest-growing major economies in the world. The main reason is that during that crisis, with patience and discipline, I resisted the temptation to apply every global theory blindly. We didn't worry about...",
+  "detected_language": "en"
+}
